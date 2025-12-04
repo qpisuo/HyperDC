@@ -11,18 +11,18 @@
 
 ## Requirements:
 
-python=3.8.18
-torch==2.0.1
-torchvision==0.15.2
-torchaudio==2.0.2
-scikit-learn==1.3.2
-torchmetrics==1.5.2
-tqdm==4.66.5
-dgl-cu117==0.9.1post1
-pandas==1.4.0
-transformers==4.46.3
-matplotlib==3.7.2
-openpyxl==3.1.5
+python=3.8.18  
+torch==2.0.1  
+torchvision==0.15.2  
+torchaudio==2.0.2  
+scikit-learn==1.3.2  
+torchmetrics==1.5.2  
+tqdm==4.66.5  
+dgl-cu117==0.9.1post1  
+pandas==1.4.0  
+transformers==4.46.3  
+matplotlib==3.7.2  
+openpyxl==3.1.5  
 
 ## Prediction:
 
