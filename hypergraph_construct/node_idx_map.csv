@@ -1,0 +1,5576 @@
+hypergraph_idx,kg_idx,node_name
+0,16409,Eugenol
+1,16410,Polyestradiol phosphate
+2,16419,Amlexanox
+3,16430,Nitrous acid
+4,16434,Acetophenazine
+5,16443,Stanozolol
+6,16450,Andarine
+7,16459,Triclosan
+8,16465,Guanidine
+9,16466,Daidzin
+10,16468,Goserelin
+11,16469,Menotropins
+12,16471,Cetrorelix
+13,16473,Chorionic Gonadotropin (Human)
+14,16475,Phenacemide
+15,16477,Tetrodotoxin
+16,16478,Podofilox
+17,16480,Depatuxizumab mafodotin
+18,16490,Pheniramine
+19,16495,Quizartinib
+20,16496,Fumaric Acid
+21,16502,Isatoribine
+22,16505,Resiquimod
+23,16506,Pentazocine
+24,16508,Captodiame
+25,16510,Bevacizumab
+26,16511,Ranibizumab
+27,16512,Pegaptanib
+28,16513,ABT-510
+29,16517,Aflibercept
+30,16519,Brolucizumab
+31,16521,Vasopressin
+32,16523,Terlipressin
+33,16531,Fenoterol
+34,16532,Pirbuterol
+35,16538,Xamoterol
+36,16544,Dyclonine
+37,16545,Proparacaine
+38,16550,Dipyridamole
+39,16554,Exisulind
+40,16557,Epratuzumab
+41,16558,Inotuzumab ozogamicin
+42,16559,Moxetumomab Pasudotox
+43,16570,Prilocaine
+44,16572,Leuprolide
+45,16573,Abarelix
+46,16574,Gonadorelin
+47,16575,Nafarelin
+48,16578,Degarelix
+49,16579,Ganirelix
+50,16580,Histrelin
+51,16581,Triptorelin
+52,16582,Leucine
+53,16587,Glymidine
+54,16588,Metformin
+55,16589,Alteplase
+56,16590,Reteplase
+57,16592,Tenecteplase
+58,16593,Tranexamic acid
+59,16595,Desmoteplase
+60,16631,Arhalofenate
+61,16634,Coagulation factor VIIa Recombinant Human
+62,16635,Fondaparinux
+63,16640,Idraparinux
+64,16667,Edoxaban
+65,16671,Emicizumab
+66,16672,Baclofen
+67,16674,gamma-Aminobutyric acid
+68,16675,SGS-742
+69,16677,Arbaclofen
+70,16687,Fosinopril
+71,16688,Candoxatril
+72,16689,Moexipril
+73,16690,Lisinopril
+74,16691,Omapatrilat
+75,16693,Cilazapril
+76,16694,Spirapril
+77,16697,Temocapril
+78,16698,Enalaprilat
+79,16699,Zofenopril
+80,16711,Implitapide
+81,16714,Tyloxapol
+82,16719,Isosorbide
+83,16720,Obatoclax
+84,16721,Navitoclax
+85,16723,Diacerein
+86,16740,Forodesine
+87,16741,Azelaic acid
+88,16744,Hexylresorcinol
+89,16753,Lenalidomide
+90,16758,Alclofenac
+91,16783,Daglutril
+92,16786,Sacubitril
+93,16788,Methyclothiazide
+94,16790,Methocarbamol
+95,16792,Methazolamide
+96,16793,Chlorothiazide
+97,16794,Ethinamate
+98,16795,Diclofenamide
+99,16801,Sodium sulfate
+100,16802,Aurothioglucose
+101,16818,Vintafolide
+102,16824,Catumaxomab
+103,16825,Ardeparin
+104,16831,Antithrombin III human
+105,16837,Urea
+106,16842,Pramipexole
+107,16843,Dipivefrin
+108,16844,Phentolamine
+109,16845,Phenoxybenzamine
+110,16846,Oxymetazoline
+111,16847,Apraclonidine
+112,16850,Flupirtine
+113,16851,Xylometazoline
+114,16852,Naphazoline
+115,16853,Moxonidine
+116,16854,Rilmenidine
+117,16855,Methylphenidate
+118,16857,Bifeprunox
+119,16865,Pardoprunox
+120,16867,Demeclocycline
+121,16874,Rocuronium
+122,16878,Tropisetron
+123,16879,Dextrothyroxine
+124,16883,Tiratricol
+125,16887,Sobetirome
+126,16892,Secretin human
+127,16962,Raltitrexed
+128,16972,Fludarabine
+129,16973,Imexon
+130,16975,Pentosan polysulfate
+131,16977,Carbenoxolone
+132,16991,Gentamicin
+133,17003,Iclaprim
+134,17023,Tafamidis
+135,17028,Ziconotide
+136,17029,Voclosporin
+137,17030,Alectinib
+138,17034,D-Serine
+139,17037,Ifenprodil
+140,17040,Cediranib
+141,17042,Ramucirumab
+142,17044,RAF-265
+143,17060,Sodium tetradecyl sulfate
+144,17062,Butalbital
+145,17063,Talbutal
+146,17064,Meprobamate
+147,17065,Metharbital
+148,17066,Amobarbital
+149,17067,Butobarbital
+150,17070,Pagoclone
+151,17073,Orotic acid
+152,17076,Brequinar
+153,17100,Casopitant
+154,17104,Follitropin
+155,17106,Corifollitropin alfa
+156,17107,Sumanirole
+157,17108,Botulinum toxin type A
+158,17111,Alpha-1-proteinase inhibitor
+159,17112,Filgrastim
+160,17116,Sucrose
+161,17124,Phylloquinone
+162,17127,Geneticin
+163,17128,Eflornithine
+164,17141,Oprelvekin
+165,17148,Metolazone
+166,17149,Butorphanol
+167,17150,Nalbuphine
+168,17151,Levorphanol
+169,17152,Remifentanil
+170,17153,Diphenoxylate
+171,17170,Pyridostigmine
+172,17173,Physostigmine
+173,17174,Rivastigmine
+174,17185,Huperzine B
+175,17195,Huperzine A
+176,17197,Itopride
+177,17210,Enzastaurin
+178,17211,Perifosine
+179,17214,Drotaverine
+180,17215,Salmon calcitonin
+181,17216,Pramlintide
+182,17218,Thiocolchicoside
+183,17220,Milrinone
+184,17221,Levosimendan
+185,17222,Amrinone
+186,17223,Enoximone
+187,17224,Ibudilast
+188,17225,Abciximab
+189,17226,Tirofiban
+190,17229,Cetirizine
+191,17230,Doxylamine
+192,17231,Dexbrompheniramine
+193,17232,Triprolidine
+194,17233,Carbinoxamine
+195,17235,Methdilazine
+196,17236,Ketotifen
+197,17237,Desloratadine
+198,17238,Dimenhydrinate
+199,17239,Emedastine
+200,17240,Levocabastine
+201,17241,Diphenylpyraline
+202,17242,Bromodiphenhydramine
+203,17243,Alimemazine
+204,17244,Aceprometazine
+205,17245,Phenindamine
+206,17246,Clofedanol
+207,17247,Bepotastine
+208,17251,Alcaftadine
+209,17252,Antazoline
+210,17256,Chlorcyclizine
+211,17257,Butriptyline
+212,17258,Acrivastine
+213,17259,Bilastine
+214,17262,Emricasan
+215,17268,Aniracetam
+216,17270,Pimavanserin
+217,17273,Amisulpride
+218,17276,Sarpogrelate
+219,17277,Eplivanserin
+220,17278,Ketanserin
+221,17282,Lutetium Lu 177 dotatate
+222,17286,Nitisinone
+223,17300,Nicorandil
+224,17301,Flumazenil
+225,17303,Miglustat
+226,17304,Guanadrel
+227,17305,Protriptyline
+228,17306,Phenmetrazine
+229,17307,Diethylpropion
+230,17308,Guanethidine
+231,17309,Phendimetrazine
+232,17310,Amineptine
+233,17313,Tesofensine
+234,17315,Dexmethylphenidate
+235,17317,Netarsudil
+236,17318,Solriamfetol
+237,17319,Papaverine
+238,17321,Piclamilast
+239,17322,Rolipram
+240,17328,Cilomilast
+241,17333,Isoleucine
+242,17335,Porfimer sodium
+243,17337,Droperidol
+244,17338,Metaraminol
+245,17339,Methoxamine
+246,17341,Tetryzoline
+247,17344,Piretanide
+248,17345,Resorcinol
+249,17347,Neomycin
+250,17350,Etelcalcetide
+251,17351,Trastuzumab
+252,17353,Varlitinib
+253,17355,Pertuzumab
+254,17356,Afatinib
+255,17357,Tesevatinib
+256,17358,Margetuximab
+257,17359,Efalizumab
+258,17360,Antithymocyte immunoglobulin (rabbit)
+259,17371,Atrasentan
+260,17373,Sparsentan
+261,17374,Glucagon
+262,17376,Cefotaxime
+263,17377,Phenol
+264,17378,Guaiacol
+265,17390,Nesiritide
+266,17398,Anakinra
+267,17407,Pravastatin
+268,17411,Naftifine
+269,17412,Butenafine
+270,17414,Piribedil
+271,17415,Tiapride
+272,17417,Natalizumab
+273,17422,Vedolizumab
+274,17428,Etidronic acid
+275,17434,Travoprost
+276,17435,Latanoprost
+277,17436,Latanoprostene bunod
+278,17437,Metyrosine
+279,17493,Sermorelin
+280,17494,Tesamorelin
+281,17495,Sargramostim
+282,17503,Dezocine
+283,17508,Methylnaltrexone
+284,17509,PLX-4720
+285,17524,Carmustine
+286,17528,Glutathione disulfide
+287,17533,Denileukin diftitox
+288,17534,Basiliximab
+289,17535,Daclizumab
+290,17536,Darbepoetin alfa
+291,17537,Erythropoietin
+292,17538,Dibromotyrosine
+293,17539,Peginesatide
+294,17545,Gemtuzumab ozogamicin
+295,17548,Cetilistat
+296,17558,Pregabalin
+297,17559,Gabapentin enacarbil
+298,17560,Orciprenaline
+299,17561,Bitolterol
+300,17562,Procaterol
+301,17568,Tulobuterol
+302,17583,Etanercept
+303,17584,Adalimumab
+304,17585,Infliximab
+305,17594,Andrographolide
+306,17598,Plinabulin
+307,17599,Dexanabinol
+308,17601,Golimumab
+309,17605,Cetuximab
+310,17607,Palivizumab
+311,17612,Alefacept
+312,17613,Siplizumab
+313,17624,Acetyldigitoxin
+314,17628,Ciclopirox
+315,17631,Almitrine
+316,17634,Potassium acetate
+317,17638,Magnesium lactate
+318,17639,Mecobalamin
+319,17646,Cisatracurium
+320,17647,Mecamylamine
+321,17652,Tetracaine
+322,17653,Dexrazoxane
+323,17654,Valrubicin
+324,17656,Lucanthone
+325,17658,Amonafide
+326,17662,Aldoxorubicin
+327,17663,Becatecarin
+328,17664,Annamycin
+329,17666,Finafloxacin
+330,17677,Ranirestat
+331,17693,Palifermin
+332,17711,Panitumumab
+333,17712,Matuzumab
+334,17713,Rindopepimut
+335,17715,Pelitinib
+336,17718,Necitumumab
+337,17719,Zalutumumab
+338,17720,Olmutinib
+339,17724,Methadyl acetate
+340,17727,Pamidronic acid
+341,17728,Zoledronic acid
+342,17729,Alendronic acid
+343,17730,Ibandronate
+344,17735,Incadronic acid
+345,17736,Minodronic acid
+346,17739,Dihydrotachysterol
+347,17741,Seocalcitol
+348,17743,Inecalcitol
+349,17746,Eldecalcitol
+350,17773,Lenograstim
+351,17774,Lipegfilgrastim
+352,17775,Diflorasone
+353,17776,Desoximetasone
+354,17779,ORG-34517
+355,17781,Onapristone
+356,17782,Methyprylon
+357,17799,Carbocisteine
+358,17829,Lithium citrate
+359,17831,Lithium carbonate
+360,17832,Acarbose
+361,17833,Voglibose
+362,17881,Carbetocin
+363,17883,Abatacept
+364,17884,Belatacept
+365,17885,Galiximab
+366,17886,Tetracosactide
+367,17888,Bremelanotide
+368,17889,Varenicline
+369,17891,Cytisine
+370,17893,Olaratumab
+371,17903,Vildagliptin
+372,17936,Gosogliptin
+373,17944,Dutogliptin
+374,17945,Eculizumab
+375,17946,Ravulizumab
+376,17947,Idursulfase
+377,17948,Galsulfase
+378,17949,Albiglutide
+379,17950,Dulaglutide
+380,17951,Lixisenatide
+381,17954,Linsitinib
+382,17955,Teprotumumab
+383,17958,Cixutumumab
+384,17987,Calcium chloride
+385,17991,Ipilimumab
+386,17992,Tremelimumab
+387,17993,Indirubin-3'-monoxime
+388,17999,Flucytosine
+389,18001,Epigallocatechin gallate
+390,18028,Levamisole
+391,18036,Bacitracin
+392,18040,Leronlimab
+393,18042,Ibalizumab
+394,18043,INCB-9471
+395,18054,Tivantinib
+396,18098,Pegademase
+397,18100,Tapinarof
+398,18102,Plerixafor
+399,18119,Ulixertinib
+400,18121,Apadenoson
+401,18123,Regadenoson
+402,18124,"4-{2-[(7-amino-2-furan-2-yl[1,2,4]triazolo[1,5-a][1,3,5]triazin-5-yl)amino]ethyl}phenol"
+403,18160,Emapalumab
+404,18162,PRX-07034
+405,18165,Tasonermin
+406,18174,Ebselen
+407,18178,PPL-100
+408,18179,Sucralfate
+409,18181,Wortmannin
+410,18183,Pyrethrum extract
+411,18189,Cerulenin
+412,18192,Uracil
+413,18193,Eniluracil
+414,18195,Gimeracil
+415,18212,CTS-1027
+416,18216,Sodium stibogluconate
+417,18217,Cositecan
+418,18225,scyllo-inositol
+419,18226,Velaglucerase alfa
+420,18229,Briakinumab
+421,18230,Ustekinumab
+422,18233,Hyaluronidase (human recombinant)
+423,18265,Alisertib
+424,18277,Levetiracetam
+425,18283,Belimumab
+426,18300,Amibegron
+427,18301,Solabegron
+428,18307,Hydroxyfasudil
+429,18309,Fasudil
+430,18310,Y-27632
+431,18311,Ripasudil
+432,18312,Phenoxymethylpenicillin
+433,18313,Oxacillin
+434,18314,Benzoic acid
+435,18325,Doramapimod
+436,18334,Neflamapimod
+437,18372,Camphor
+438,18373,Resiniferatoxin
+439,18375,Nonivamide
+440,18377,Cannabidivarin
+441,18394,Elacridar
+442,18396,Zosuquidar
+443,18397,Tariquidar
+444,18399,Concanamycin A
+445,18403,Desmethylsertraline
+446,18406,Tagraxofusp
+447,18409,Cenegermin
+448,18410,Caplacizumab
+449,18411,Simoctocog alfa
+450,18412,Susoctocog alfa
+451,18413,Efmoroctocog alfa
+452,18416,Canakinumab
+453,18417,Rilonacept
+454,18418,Gevokizumab
+455,18433,6-bromoindirubin-3'-oxime
+456,18442,Tideglusib
+457,18574,Cefdinir
+458,18576,Icatibant
+459,18583,Hyaluronic acid
+460,18590,Streptomycin
+461,18593,Pyrazolanthrone
+462,18610,Sipuleucel-T
+463,18611,Lonidamine
+464,18634,Geldanamycin
+465,18648,SNX-5422
+466,18675,Alvespimycin
+467,18678,5'-S-methyl-5'-thioadenosine
+468,18680,Ingenol mebutate
+469,18687,Cilastatin
+470,18695,Eptifibatide
+471,18731,Arundic acid
+472,18739,Batimastat
+473,18755,Cromoglicic acid
+474,18756,Acamprosate
+475,18759,7-Hydroxystaurosporine
+476,18768,Colforsin
+477,18769,Crofelemer
+478,18771,Dacetuzumab
+479,18773,Acetohydroxamic acid
+480,18798,Reslizumab
+481,18799,Mepolizumab
+482,18808,Emodin
+483,18849,LY-294002
+484,18868,Tetomilast
+485,18870,Myricetin
+486,18884,Lactose
+487,18900,Choline alfoscerate
+488,18904,R048-8071
+489,18912,Cytidine
+490,18933,Fumagillin
+491,18934,D-Methionine
+492,18946,TNP-470
+493,18959,Vorinostat
+494,18988,Camostat
+495,18990,Ubenimex
+496,19007,Tosedostat
+497,19009,Dihydroxyacetone phosphate
+498,19027,Veliparib
+499,19030,Talazoparib
+500,19031,Iniparib
+501,19124,Filanesib
+502,19135,"3,4-Dihydroxycinnamic Acid"
+503,19157,Fotemustine
+504,19158,Motexafin gadolinium
+505,19175,Testolactone
+506,19177,Benralizumab
+507,19188,Latrunculin B
+508,19197,Teduglutide
+509,19198,Felbinac
+510,19199,Botulinum Toxin Type B
+511,19207,Carbidopa
+512,19208,Benserazide
+513,19217,Tipiracil
+514,19222,Isocarboxazid
+515,19223,Pargyline
+516,19245,Febuxostat
+517,19247,Roxadustat
+518,19249,Fisetin
+519,19250,Pentostatin
+520,19267,Saredutant
+521,19278,Encenicline
+522,19279,gamma-Hydroxybutyric acid
+523,19281,Carfilzomib
+524,19282,Pracinostat
+525,19283,Mocetinostat
+526,19284,Abexinostat
+527,19285,Telcagepant
+528,19286,Eptinezumab
+529,19287,Fremanezumab
+530,19288,Galcanezumab
+531,19289,Osanetant
+532,19290,Talnetant
+533,19293,Tipifarnib
+534,19301,PX-478
+535,19303,Pilaralisib
+536,19309,AGRO100
+537,19310,Tarenflurbil
+538,19320,Rilapladib
+539,19324,Glatiramer
+540,19326,Peptide YY (3-36)
+541,19330,Dupilumab
+542,19331,Ecabet
+543,19337,Managlinat dialanetil
+544,19343,Idronoxil
+545,19348,Lebrikizumab
+546,19349,Oregovomab
+547,19350,Ecallantide
+548,19351,Lanadelumab
+549,19353,Eritoran
+550,19356,Mifamurtide
+551,19360,Afamelanotide
+552,19377,Selisistat
+553,19447,Zanamivir
+554,19491,MK-1775
+555,19504,Metreleptin
+556,19548,Plozalizumab
+557,19551,Tromethamine
+558,19562,Hesperidin
+559,19564,Farletuzumab
+560,19566,Berberine
+561,19568,E-2012
+562,19571,Guselkumab
+563,19591,Irofulven
+564,19597,Apatorsen
+565,19599,Lexatumumab
+566,19600,GSK-923295
+567,19603,Nivolumab
+568,19604,Pembrolizumab
+569,19605,Cemiplimab
+570,19606,Camrelizumab
+571,19608,Tislelizumab
+572,19610,Dostarlimab
+573,19611,Romiplostim
+574,19614,Atezolizumab
+575,19615,Durvalumab
+576,19616,Avelumab
+577,19620,Blinatumomab
+578,19621,Amatuximab
+579,19623,Urelumab
+580,19627,Bardoxolone methyl
+581,19628,Astaxanthin
+582,19634,Talarozole
+583,19636,Nelipepimut-S
+584,19641,Elotuzumab
+585,19643,Carotuximab
+586,19646,Tisagenlecleucel
+587,19648,Tafasitamab
+588,19650,Linaclotide
+589,19663,Teriparatide
+590,19665,Gossypol
+591,19667,Labradimil
+592,19671,Denosumab
+593,19692,Indirubin
+594,19696,Gadopentetic acid
+595,19699,Dinoprost
+596,19700,Ramatroban
+597,19702,Bafilomycin A1
+598,19712,Doxapram
+599,19718,Cerliponase alfa
+600,15317,Alosetron
+601,19723,Ginsenoside Rb1
+602,19724,Ginsenoside Rg1
+603,19729,Diosmin
+604,19731,Kynurenic Acid
+605,19732,Cantharidin
+606,19863,Anthralin
+607,19886,Omacetaxine mepesuccinate
+608,19896,Fluorescein
+609,19964,MRTX849
+610,19995,Kaempherol
+611,20022,Gluconolactone
+612,20037,Uridine
+613,20077,Alglucosidase alfa
+614,20092,Trimetazidine
+615,20093,Thonzonium
+616,20126,Dimethyl fumarate
+617,20128,Ethchlorvynol
+618,20129,Chlordiazepoxide
+619,20130,Halazepam
+620,20133,Ethyl loflazepate
+621,20138,Loprazolam
+622,20139,Doxefazepam
+623,20146,Magnesium carbonate
+624,20147,Setiptiline
+625,20148,Synephrine
+626,20149,Levonordefrin
+627,20151,Mephentermine
+628,20153,Metixene
+629,20156,Dactinomycin
+630,20157,Guaifenesin
+631,20158,Daratumumab
+632,20159,Isatuximab
+633,20161,Ixekizumab
+634,20162,Alirocumab
+635,20164,Asfotase alfa
+636,20166,Risankizumab
+637,20169,Magnesium sulfate
+638,20172,Silicon dioxide
+639,20175,Olcegepant
+640,20176,Erenumab
+641,20178,Catridecacog
+642,20180,Dibotermin alfa
+643,20185,Epicriptine
+644,20186,SC-236
+645,20187,CPI-1205
+646,20189,Romosozumab
+647,20193,Pramocaine
+648,20194,Mogamulizumab
+649,20196,Golodirsen
+650,20199,Tauroursodeoxycholic acid
+651,20200,Ferumoxytol
+652,20202,Aminohippuric acid
+653,20203,Ceftazidime
+654,20204,Cefixime
+655,20206,Cyclacillin
+656,20207,Cefadroxil
+657,20208,Cefepime
+658,20210,Azidocillin
+659,20211,Acetylcarnitine
+660,20212,Melphalan
+661,20214,Potassium bicarbonate
+662,20215,Valganciclovir
+663,20218,Sodium citrate
+664,20223,Gaboxadol
+665,20227,Foscarnet
+666,20228,Acetic acid
+667,20230,Pilsicainide
+668,20234,Novobiocin
+669,20235,Cefamandole
+670,20237,Relebactam
+671,20238,Nystatin
+672,20239,Penicillamine
+673,20246,Valspodar
+674,20247,Levomenol
+675,20248,Loracarbef
+676,20249,Cefuroxime
+677,20250,Ceftizoxime
+678,20251,Ceftibuten
+679,20252,Gramicidin D
+680,20253,Ledipasvir
+681,20254,Polyethylene glycol
+682,20256,Salinomycin
+683,20257,Sarecycline
+684,20260,2-deoxyglucose
+685,20262,Piperacillin
+686,20263,Ganciclovir
+687,20265,Tazobactam
+688,20269,Cabotegravir
+689,20270,Edaravone
+690,20272,Avibactam
+691,20273,Polymyxin B
+692,20274,Leucovorin
+693,20276,Pradigastat
+694,20278,Buformin
+695,20279,Tyramine
+696,20284,Plazomicin
+697,20288,Sodium bicarbonate
+698,20289,Clavulanic acid
+699,20290,"Sodium phosphate, monobasic"
+700,20291,"Sodium phosphate, dibasic"
+701,20293,Inositol
+702,20294,Phenyltoloxamine
+703,20295,Methapyrilene
+704,20296,Polyvinyl alcohol
+705,20297,Imidapril
+706,20298,Potassium citrate
+707,20300,Perazine
+708,20301,Delapril
+709,20302,Potassium Iodide
+710,20303,Trolnitrate
+711,20304,Salicylamide
+712,20305,Chlorphentermine
+713,20306,Zinc gluconate
+714,20307,Endralazine
+715,20308,Telavancin
+716,20310,Trimazosin
+717,20311,Calcium gluconate
+718,20312,Difenoxin
+719,20313,Polyethylene glycol 300
+720,20314,Polyethylene glycol 3500
+721,20315,Articaine
+722,20316,Epitizide
+723,20317,Butacaine
+724,20318,Sulfacetamide
+725,20319,Xipamide
+726,20320,Cobalamin
+727,20321,Methscopolamine
+728,20322,Zinc oxide
+729,20323,Ammonium chloride
+730,20324,Triethylenetetramine
+731,20325,Meticrane
+732,20326,Tramazoline
+733,20328,Methenamine
+734,20330,Dichlorophen
+735,20332,Adomiparin
+736,20333,Parnaparin
+737,20334,"Heparin, bovine"
+738,20335,Racementhol
+739,20336,Temozolomide
+740,20337,Monopotassium phosphate
+741,20339,Mannitol
+742,20340,Ethionamide
+743,20341,Ethadione
+744,20343,Chloral hydrate
+745,20344,Tigecycline
+746,20347,Lincomycin
+747,20351,Meropenem
+748,20352,Povidone
+749,20353,Povidone K30
+750,20354,Phensuximide
+751,20357,Bisacodyl
+752,20358,Povidone-iodine
+753,20359,Sulfadoxine
+754,20360,Ertapenem
+755,20362,Magnesium oxide
+756,20363,Methylpentynol
+757,20364,Carbromal
+758,20365,Sertaconazole
+759,20366,Haloprogin
+760,20367,Tolnaftate
+761,20368,Clioquinol
+762,20369,Undecylenic acid
+763,20370,Oxitropium
+764,20371,Neltenexine
+765,20372,Vonoprazan
+766,20373,Chlorbenzoxamine
+767,20374,Troxipide
+768,20375,Aluminum hydroxide
+769,20376,Magnesium hydroxide
+770,20377,Benzoyl peroxide
+771,20378,Trioxsalen
+772,20379,Methyl aminolevulinate
+773,20380,Trichloroacetate
+774,20381,Cianidanol
+775,20382,Benzoin
+776,20384,Mebanazine
+777,20385,Iproclozide
+778,20386,Opipramol
+779,20387,Demexiptiline
+780,20388,Lofepramine
+781,20389,Caroxazone
+782,20391,Silver sulfadiazine
+783,20393,Verteporfin
+784,20394,Sulfabenzamide
+785,20395,Inulin
+786,20396,Calcium lactate
+787,20397,Pantothenic acid
+788,20398,Aztreonam
+789,20400,Dipotassium phosphate
+790,20401,Paromomycin
+791,20402,Ethambutol
+792,20403,Almasilate
+793,20404,Sulbactam
+794,20405,Calcium acetate
+795,20406,Meticillin
+796,20407,Kanamycin
+797,20409,Procaine benzylpenicillin
+798,20410,Mezlocillin
+799,20411,Bacampicillin
+800,20412,Amikacin
+801,20413,Azlocillin
+802,20414,Cefoxitin
+803,20415,Ticarcillin
+804,20416,Telbivudine
+805,20417,Magnesium citrate
+806,20418,Tobramycin
+807,20419,Calcium glucoheptonate
+808,20420,Calcium glycerophosphate
+809,20421,Fosfomycin
+810,20422,Meclocycline
+811,20423,Aminobenzoic acid
+812,20424,Magnesium trisilicate
+813,20425,Chromium picolinate
+814,20427,Cholestyramine
+815,20428,Capreomycin
+816,20429,Colistin
+817,20431,Diiodohydroxyquinoline
+818,20432,Nandrolone
+819,20433,Anidulafungin
+820,20434,Altretamine
+821,20436,Dexpanthenol
+822,20437,Ammonium lactate
+823,20438,Ferric oxide
+824,20439,Idoxuridine
+825,20440,Neridronic Acid
+826,20441,Brodalumab
+827,20442,Rebamipide
+828,20443,Poldine
+829,20444,Penthienate
+830,20445,Ilaprazole
+831,20446,Hematin
+832,20447,Docusate
+833,20448,Aceclidine
+834,20449,Flunoxaprofen
+835,20450,Proglumetacin
+836,20451,Benoxaprofen
+837,20452,Iguratimod
+838,20453,Tenidap
+839,20454,Mupirocin
+840,20455,Clopenthixol
+841,20456,Daptomycin
+842,20457,Ozagrel
+843,20458,Pemirolast
+844,20459,Reproterol
+845,20462,Acetoxolone
+846,20463,Mebhydrolin
+847,20464,Isoflupredone acetate
+848,20465,Quifenadine
+849,20466,Lucinactant
+850,20467,Colfosceril palmitate
+851,20468,Cetyl alcohol
+852,20469,Calfactant
+853,20470,Poractant alfa
+854,20471,Beractant
+855,20472,Lactulose
+856,20473,Uracil mustard
+857,20474,Talimogene laherparepvec
+858,20475,Beclabuvir
+859,20476,Vaniprevir
+860,20477,Clevudine
+861,20478,Entecavir
+862,20479,Mandelic acid
+863,20480,Ceftolozane
+864,20481,Cefapirin
+865,20482,Furazidin
+866,20483,Alatrofloxacin
+867,20484,Nifurtoinol
+868,20485,Cefprozil
+869,20486,Rasburicase
+870,20487,Isoxsuprine
+871,20488,Pegloticase
+872,20489,Cinchophen
+873,20490,Tiocarlide
+874,20491,Enviomycin
+875,20492,Amithiozone
+876,20494,Motretinide
+877,20495,Ozenoxacin
+878,20496,Nadifloxacin
+879,20497,Nicotinyl alcohol
+880,20498,Cetylpyridinium
+881,20499,Nitrogen
+882,20500,Succinimide
+883,20501,Icosapent ethyl
+884,20502,Colesevelam
+885,20503,Calcium carbonate
+886,20504,Calcium lactate gluconate
+887,20505,Oxetorone
+888,20506,Colestilan chloride
+889,20507,Mefenorex
+890,20508,Fenproporex
+891,20509,Belotecan
+892,20510,Acipimox
+893,20511,Givosiran
+894,20513,Gemigliptin
+895,20514,Tofogliflozin
+896,20515,Luseogliflozin
+897,20516,Trelagliptin
+898,20517,Ipragliflozin
+899,20518,Teneligliptin
+900,20519,Anagliptin
+901,20520,Omarigliptin
+902,20521,Evogliptin
+903,20522,Omidenepag isopropyl
+904,20523,Pramiracetam
+905,20524,Chloroxine
+906,20525,Selenium Sulfide
+907,20526,Climbazole
+908,20527,Piperonyl butoxide
+909,20528,Crotamiton
+910,20529,Acetarsol
+911,20530,Quinfamide
+912,20531,Diloxanide furoate
+913,20532,Sotagliflozin
+914,20533,Distigmine
+915,20534,Gepirone
+916,20535,Clortermine
+917,20536,Raxibacumab
+918,20537,Obiltoxaximab
+919,20538,Radium Ra 223 dichloride
+920,20539,Iron sucrose
+921,20540,Pyronaridine
+922,20541,Plicamycin
+923,20542,Sodium phosphate P 32
+924,20543,Azapetine
+925,20544,Dehydrocholic acid
+926,20545,Sorbitol
+927,20546,Oxyphenisatin
+928,20547,Oxyphenisatin acetate
+929,20548,Ipriflavone
+930,20549,Strontium ranelate
+931,20550,Indanazoline
+932,20551,Metizoline
+933,20552,Oteracil
+934,20553,Bifemelane
+935,20554,Naftidrofuryl
+936,20555,Lodoxamide
+937,20556,Dornase alfa
+938,20557,Alipogene tiparvovec
+939,20558,Omoconazole
+940,20559,Bamipine
+941,20560,Mosapramine
+942,20561,Oxypertine
+943,20562,Tavaborole
+944,20563,Efinaconazole
+945,20564,Reviparin
+946,20565,Elosulfase alfa
+947,20566,Polysorbate 80
+948,20567,Propylene glycol
+949,20568,Polidocanol
+950,20569,Moxidectin
+951,20570,Sevelamer
+952,20571,Imrecoxib
+953,20572,Oxaceprol
+954,20573,Polmacoxib
+955,20574,Butylphthalide
+956,20575,Ipidacrine
+957,20576,Taliglucerase alfa
+958,20577,Alglucerase
+959,20578,Tandospirone
+960,20579,Eteplirsen
+961,20580,Bezlotoxumab
+962,20581,Spectinomycin
+963,20582,Evocalcet
+964,20583,Xylitol
+965,20584,Stannous fluoride
+966,20585,Mebeverine
+967,20586,Dinutuximab
+968,20587,Fenticonazole
+969,20588,Terconazole
+970,20589,Menatetrenone
+971,20590,Anecortave acetate
+972,20591,Melevodopa
+973,20592,Sacrosidase
+974,20593,Dalbavancin
+975,20594,Faropenem medoxomil
+976,20595,Faropenem
+977,20596,Bunazosin
+978,20597,Tivozanib
+979,20598,Ibopamine
+980,20599,Chlormezanone
+981,20600,Oxaflozane
+982,20601,Mebicar
+983,20602,Hemin
+984,20603,Amenamevir
+985,20604,Imiglucerase
+986,20605,Pemoline
+987,20606,Secnidazole
+988,20607,Idebenone
+989,20608,Epalrestat
+990,20609,Racecadotril
+991,20610,Tetramethrin
+992,20611,Spinosad
+993,20612,Phenylmercuric nitrate
+994,20613,Azosemide
+995,20614,Padeliporfin
+996,20616,Melarsoprol
+997,20617,Carmofur
+998,20618,Teicoplanin
+999,20619,Trepibutone
+1000,20620,Docosanol
+1001,20621,Penciclovir
+1002,20622,Talaporfin
+1003,20623,Lactitol
+1004,20625,Phenothrin
+1005,20626,Maxacalcitol
+1006,20627,Stibophen
+1007,20628,Pancrelipase
+1008,20629,Levomethadone
+1009,20630,Drostanolone propionate
+1010,20631,Burosumab
+1011,20632,Formaldehyde
+1012,20633,Moroxydine
+1013,20634,Peramivir
+1014,20635,Laninamivir octanoate
+1015,20636,Tenonitrozole
+1016,20637,Hachimycin
+1017,20638,Uridine triacetate
+1018,20639,Hexamidine
+1019,20640,Sulbentine
+1020,20641,Urapidil
+1021,20642,Luspatercept
+1022,20643,Temoporfin
+1023,20644,Monoxerutin
+1024,20645,Benznidazole
+1025,20646,Eftrenonacog alfa
+1026,20647,Laronidase
+1027,20648,Benperidol
+1028,20649,Vestronidase alfa
+1029,20650,Prussian blue
+1030,20651,Sebelipase alfa
+1031,20652,Sivelestat
+1032,20653,Nusinersen
+1033,20662,Taxifolin
+1034,20667,Sugammadex
+1035,20670,Ceftaroline fosamil
+1036,20673,Ferulic acid
+1037,20677,Indoprofen
+1038,20684,Benzydamine
+1039,20685,Clonixin
+1040,20710,Triptolide
+1041,20714,Indobufen
+1042,20719,Troxerutin
+1043,20724,Trenonacog alfa
+1044,20738,Linsidomine
+1045,20751,Cyclopenthiazide
+1046,20754,Ethenzamide
+1047,20757,Melagatran
+1048,20774,NS-398
+1049,20784,Formononetin
+1050,20787,Gadoteridol
+1051,20789,Iodixanol
+1052,20796,Pyrithione
+1053,20798,Canrenoic acid
+1054,20799,Hydroxyethyl Starch
+1055,20801,Gadoteric acid
+1056,20803,Ioversol
+1057,20806,Iopromide
+1058,20809,Piracetam
+1059,20824,Vaborbactam
+1060,20829,Cicletanine
+1061,20830,Lafutidine
+1062,20832,Nedaplatin
+1063,20851,Adefovir
+1064,20855,Salvianolic acid A
+1065,20858,Castanospermine
+1066,20864,GI-5005
+1067,20866,Tucidinostat
+1068,20867,Vitespen
+1069,20871,Antilymphocyte immunoglobulin (horse)
+1070,20904,Sirukumab
+1071,20905,Entinostat
+1072,20906,CUDC-907
+1073,20914,Mizoribine
+1074,20916,Gusperimus
+1075,20917,BCG vaccine
+1076,20937,Elcatonin
+1077,20962,Colestipol
+1078,20996,Batefenterol
+1079,21030,Calcium polycarbophil
+1080,21043,Bavituximab
+1081,21049,Iratumumab
+1082,21051,Veltuzumab
+1083,21053,Nimotuzumab
+1084,21056,Motavizumab
+1085,21060,Teplizumab
+1086,21061,Volociximab
+1087,21064,Conatumumab
+1088,21065,Tabalumab
+1089,21066,Ficlatuzumab
+1090,21067,Figitumumab
+1091,21070,Onartuzumab
+1092,21073,Dalotuzumab
+1093,21074,Emibetuzumab
+1094,21075,Ublituximab
+1095,21077,Seribantumab
+1096,21079,Vadastuximab Talirine
+1097,21080,Varlilumab
+1098,21082,Rilotumumab
+1099,21087,Patritumab
+1100,21089,Tarextumab
+1101,21090,Duligotuzumab
+1102,21091,Simtuzumab
+1103,21095,Ganitumab
+1104,21102,Labetuzumab govitecan
+1105,21103,Tanezumab
+1106,21106,Dusigitumab
+1107,21113,Bimagrumab
+1108,21114,Tovetumab
+1109,21115,Lumretuzumab
+1110,21116,Intetumumab
+1111,21118,Demcizumab
+1112,21120,Ecromeximab
+1113,21121,Naptumomab Estafenatox
+1114,21124,Depatuxizumab
+1115,21129,Milatuzumab
+1116,21130,Robatumumab
+1117,21132,Namilumab
+1118,21134,Tregalizumab
+1119,21150,Fosinoprilat
+1120,21151,Ramiprilat
+1121,21154,Quinaprilat
+1122,21156,Setrusumab
+1123,21157,Gancotamab
+1124,21158,Anetumab ravtansine
+1125,21160,Codrituzumab
+1126,21161,Xentuzumab
+1127,21165,Emactuzumab
+1128,21176,Abrilumab
+1129,21181,Utomilumab
+1130,21192,Evinacumab
+1131,21193,Istiratumab
+1132,21194,Pidilizumab
+1133,21196,Ladiratuzumab vedotin
+1134,21202,Naratuximab emtansine
+1135,21216,Allicin
+1136,21218,Carmegliptin
+1137,21219,Remogliflozin etabonate
+1138,21222,Taspoglutide
+1139,21229,Xanomeline
+1140,21232,Oleandrin
+1141,21234,Proscillaridin
+1142,21238,Paclitaxel poliglumex
+1143,21239,Lymecycline
+1144,21252,Oxitriptan
+1145,21254,Tramiprosate
+1146,21258,Taranabant
+1147,21262,Unoprostone
+1148,21269,Edivoxetine
+1149,21287,Psilocybin
+1150,21288,Mosapride
+1151,21293,Idalopirdine
+1152,21294,Setrobuvir
+1153,21295,Vabicaserin
+1154,21303,Carisbamate
+1155,21305,Esreboxetine
+1156,21311,Ibipinabant
+1157,21317,Neosaxitoxin
+1158,21319,Nefiracetam
+1159,21361,Oxiracetam
+1160,21381,Palmidrol
+1161,21388,Cannabinol
+1162,21403,Atipamezole
+1163,21405,Ritobegron
+1164,21406,Abediterol
+1165,21408,Acotiamide
+1166,21433,SOR-C13
+1167,21434,Mipomersen
+1168,21458,Aramchol
+1169,21472,Betulinic Acid
+1170,21474,Pranoprofen
+1171,21481,Levoleucovorin
+1172,21498,Motesanib
+1173,21499,Glesatinib
+1174,21500,Pacritinib
+1175,21503,Savolitinib
+1176,21506,Bismuth subcitrate potassium
+1177,21517,Tacalcitol
+1178,21520,Ferumoxides
+1179,21529,Peginterferon alfacon-1
+1180,21540,Ferric carboxymaltose
+1181,21554,ABT-288
+1182,21564,Fosmidomycin
+1183,21566,Salicylhydroxamic Acid
+1184,21573,Thiamphenicol
+1185,21579,Florfenicol
+1186,21585,Thiostrepton
+1187,21588,Ceftiofur
+1188,21593,Cordycepin
+1189,21594,Protionamide
+1190,21596,Biapenem
+1191,21598,Tunicamycin
+1192,21605,Nifuratel
+1193,21611,Murepavadin
+1194,21615,Amorolfine
+1195,21616,Ethiodized oil
+1196,21617,Iohexol
+1197,21618,Iopamidol
+1198,21619,Glucarpidase
+1199,21628,Flubendazole
+1200,21630,Fenbendazole
+1201,21641,Gamolenic acid
+1202,21643,Satraplatin
+1203,21647,R-306465
+1204,21661,Verinurad
+1205,21668,Thymalfasin
+1206,21670,Ranpirnase
+1207,21675,Pixantrone
+1208,21676,Sapacitabine
+1209,21677,Ginsenoside C
+1210,21679,Masitinib
+1211,21680,Aclarubicin
+1212,21682,Dactolisib
+1213,21683,Rabusertib
+1214,21685,Treosulfan
+1215,21688,Epacadostat
+1216,21690,GSK-2636771
+1217,21692,Infigratinib
+1218,21693,Efatutazone
+1219,21695,Guadecitabine
+1220,21696,Vosaroxin
+1221,21699,Trebananib
+1222,21700,Volasertib
+1223,21704,LCL-161
+1224,21705,Taselisib
+1225,21707,Rigosertib
+1226,21713,Merestinib
+1227,21714,10-hydroxycamptothecin
+1228,21715,Sulforaphane
+1229,21716,Taurolidine
+1230,21717,Oltipraz
+1231,21718,Pyrazoloacridine
+1232,21719,Fosbretabulin
+1233,21722,PU-H71
+1234,21725,Salirasib
+1235,21726,Methylselenocysteine
+1236,21731,Buthionine Sulfoximine
+1237,21732,Dianhydrogalactitol
+1238,21733,Indole-3-carbinol
+1239,21736,Mitolactol
+1240,21737,Pinometostat
+1241,21741,Rebastinib
+1242,21744,Nimustine
+1243,21745,X-396
+1244,21746,Sizofiran
+1245,21753,Lentinan
+1246,21762,Combretastatin A4
+1247,21763,Rivoceranib
+1248,21764,AZD-5991
+1249,21765,ONC-201
+1250,21769,NUC-1031
+1251,21772,Perillyl alcohol
+1252,21783,Rupintrivir
+1253,21784,Pleconaril
+1254,21786,Alovudine
+1255,21787,Maribavir
+1256,21788,Elvucitabine
+1257,21790,Dapivirine
+1258,21791,Ruzasvir
+1259,21792,Cenicriviroc
+1260,21793,Faldaprevir
+1261,21796,Sorivudine
+1262,21799,Dexelvucitabine
+1263,21800,Vesatolimod
+1264,21803,Odalasvir
+1265,21807,Adafosbuvir
+1266,21809,BMS-955176
+1267,21810,Uprifosbuvir
+1268,21866,Selenomethionine
+1269,21878,Nalorphine
+1270,21881,Samidorphan
+1271,21884,Nefopam
+1272,21892,Bergapten
+1273,21909,Cinnamaldehyde
+1274,21913,Patiromer
+1275,21920,Cinepazide
+1276,21933,Ornidazole
+1277,21939,Tagatose
+1278,14014,Flunisolide
+1279,14015,Alclometasone
+1280,14016,Medrysone
+1281,14017,Fluorometholone
+1282,14018,Beclomethasone dipropionate
+1283,14019,Betamethasone
+1284,14020,Fluticasone propionate
+1285,14021,Fluocinolone acetonide
+1286,14022,Ulobetasol
+1287,14023,Triamcinolone
+1288,14024,Prednisone
+1289,14025,Mitotane
+1290,14026,Flumethasone
+1291,14027,Fludrocortisone
+1292,14028,Hydrocortisone
+1293,14029,Flurandrenolide
+1294,14030,Prednisolone
+1295,14031,Rimexolone
+1296,14032,Clobetasol propionate
+1297,14033,Fluocinonide
+1298,14034,Budesonide
+1299,14036,Ciclesonide
+1300,14038,Fluticasone furoate
+1301,14042,Hydrocortisone acetate
+1302,14048,Prednisolone phosphate
+1303,14050,Prednisolone acetate
+1304,14052,Vitamin A
+1305,14054,Vitamin E
+1306,14056,Fenretinide
+1307,14058,Diethylstilbestrol
+1308,14059,Liothyronine
+1309,14060,Levothyroxine
+1310,14061,Diclofenac
+1311,14062,Diflunisal
+1312,14063,Dimethyl sulfoxide
+1313,14065,Genistein
+1314,14066,Tetraiodothyroacetic acid
+1315,14072,Resveratrol
+1316,14106,Hydroxocobalamin
+1317,14107,Glycyrrhizic acid
+1318,14108,Ubidecarenone
+1319,14110,alpha-Tocopherol acetate
+1320,14111,Alitretinoin
+1321,14112,Etretinate
+1322,14113,Tamibarotene
+1323,14114,Iron Dextran
+1324,14115,Bismuth subsalicylate
+1325,14127,Octreotide
+1326,14128,Ascorbic acid
+1327,14129,Lutein
+1328,14130,Thiamine
+1329,14131,Icosapent
+1330,14132,Pyridoxine
+1331,14133,Torasemide
+1332,14134,Nelfinavir
+1333,14135,Lovastatin
+1334,14137,Butabarbital
+1335,14138,Nevirapine
+1336,14139,Benzatropine
+1337,14140,Ziprasidone
+1338,14141,Phenytoin
+1339,14142,Metoprolol
+1340,14143,Dicoumarol
+1341,14144,Topiramate
+1342,14145,Cefmetazole
+1343,14146,Argatroban
+1344,14147,Conjugated estrogens
+1345,14148,Atomoxetine
+1346,14149,Etonogestrel
+1347,14150,Morphine
+1348,14151,Desogestrel
+1349,14152,Chlorthalidone
+1350,14153,Valproic acid
+1351,14154,Acetaminophen
+1352,14155,Gefitinib
+1353,14156,Amitriptyline
+1354,14157,Hydromorphone
+1355,14158,Indomethacin
+1356,14159,Ipratropium
+1357,14160,Methadone
+1358,14161,Olanzapine
+1359,14162,Atenolol
+1360,14163,Diltiazem
+1361,14164,Alprazolam
+1362,14165,Rosiglitazone
+1363,14166,Acetohexamide
+1364,14167,Ampicillin
+1365,14168,Spironolactone
+1366,14170,Trifluridine
+1367,14171,Meperidine
+1368,14172,Cefalotin
+1369,14173,Imipramine
+1370,14174,Acitretin
+1371,14175,Nabumetone
+1372,14176,Fluoxetine
+1373,14177,Duloxetine
+1374,14178,Chlorpromazine
+1375,14179,Raloxifene
+1376,14180,Buspirone
+1377,14181,Zidovudine
+1378,14182,Oxycodone
+1379,14183,Tolmetin
+1380,14184,Ritonavir
+1381,14185,Vancomycin
+1382,14186,Cisplatin
+1383,14187,Erlotinib
+1384,14188,Ciprofloxacin
+1385,14189,Nortriptyline
+1386,14190,Fluorouracil
+1387,14191,Piroxicam
+1388,14192,Lamotrigine
+1389,14193,Hydroxyzine
+1390,14194,Methotrexate
+1391,14195,Cephalexin
+1392,14196,Propranolol
+1393,14197,Fenoprofen
+1394,14198,Clonidine
+1395,14199,Sulfamethizole
+1396,14200,Enalapril
+1397,14201,Oxytetracycline
+1398,14202,Labetalol
+1399,14203,Medroxyprogesterone acetate
+1400,14204,Sulindac
+1401,14205,Nafcillin
+1402,14206,Chloroquine
+1403,14207,Imatinib
+1404,14208,Testosterone
+1405,14209,Efavirenz
+1406,14210,Stavudine
+1407,14211,Estrone
+1408,14212,Verapamil
+1409,14213,Tamoxifen
+1410,14215,Losartan
+1411,14216,Warfarin
+1412,14217,Furosemide
+1413,14218,Lamivudine
+1414,14219,Flurbiprofen
+1415,14220,Apomorphine
+1416,14221,Norethisterone
+1417,14222,Nateglinide
+1418,14223,Risperidone
+1419,14224,Meclizine
+1420,14225,Gadobenic acid
+1421,14226,Zileuton
+1422,14227,Etodolac
+1423,14228,Isoflurane
+1424,14229,Tretinoin
+1425,14230,Tetracycline
+1426,14231,Irinotecan
+1427,14232,Olopatadine
+1428,14233,Hydroflumethiazide
+1429,14234,Oxcarbazepine
+1430,14235,Estradiol
+1431,14236,Mefenamic acid
+1432,14237,Acyclovir
+1433,14238,Naproxen
+1434,14239,Alfentanil
+1435,14240,Indapamide
+1436,14241,Fentanyl
+1437,14242,Meloxicam
+1438,14243,Sodium lauryl sulfate
+1439,14244,Propofol
+1440,14245,Diazepam
+1441,14246,Oxazepam
+1442,14247,Clofazimine
+1443,14248,Cysteamine
+1444,14249,Pseudoephedrine
+1445,14250,Terbinafine
+1446,14251,Tacrolimus
+1447,14253,Chlorhexidine
+1448,14254,Emtricitabine
+1449,14255,Quinapril
+1450,14256,Didanosine
+1451,14257,Etacrynic acid
+1452,14258,Quinidine
+1453,14259,Repaglinide
+1454,14260,Cyclobenzaprine
+1455,14261,Metacycline
+1456,14262,Salicylic acid
+1457,14263,Salmeterol
+1458,14264,Zalcitabine
+1459,14265,Phenprocoumon
+1460,14266,Fexofenadine
+1461,14267,Isoniazid
+1462,14268,Norgestimate
+1463,14269,Methylprednisolone
+1464,14270,Ethinylestradiol
+1465,14271,Isotretinoin
+1466,14272,Formoterol
+1467,14273,Azathioprine
+1468,14274,Auranofin
+1469,14275,Doxorubicin
+1470,14276,Hydrochlorothiazide
+1471,14277,Letrozole
+1472,14278,Ketoprofen
+1473,14279,Sulfamethoxazole
+1474,14280,Glyburide
+1475,14281,Ketoconazole
+1476,14282,Irbesartan
+1477,14283,Probenecid
+1478,14284,Fenofibrate
+1479,14285,Gatifloxacin
+1480,14286,Rifampicin
+1481,14287,Ibuprofen
+1482,14288,Benzylpenicillin
+1483,14290,Echothiophate
+1484,14291,Amoxicillin
+1485,14292,Oxybutynin
+1486,14293,Glipizide
+1487,14294,Clonazepam
+1488,14295,Promethazine
+1489,14296,Atazanavir
+1490,14297,Atorvastatin
+1491,14298,Rosuvastatin
+1492,14299,Sertraline
+1493,14300,Miconazole
+1494,14301,Nifedipine
+1495,14302,Amiodarone
+1496,14303,Gliclazide
+1497,14304,Tolbutamide
+1498,14305,Dutasteride
+1499,14306,Pioglitazone
+1500,14307,Tiludronic acid
+1501,14308,Carvedilol
+1502,14309,Levofloxacin
+1503,14310,Doxepin
+1504,14311,Cloxacillin
+1505,14313,Arsenic trioxide
+1506,14314,Naloxone
+1507,14315,Desflurane
+1508,14316,Flecainide
+1509,14317,Captopril
+1510,14318,Ceftriaxone
+1511,14319,Saquinavir
+1512,14320,Dexamethasone
+1513,14321,Levodopa
+1514,14322,Sevoflurane
+1515,14323,Aripiprazole
+1516,14324,Gemfibrozil
+1517,14325,Clomipramine
+1518,14326,Darunavir
+1519,14327,Hydralazine
+1520,14328,Exenatide
+1521,14329,Insulin detemir
+1522,14330,Fosphenytoin
+1523,14331,Polythiazide
+1524,14332,Cefazolin
+1525,14333,Cefonicid
+1526,14334,Cefoperazone
+1527,14335,Cefotetan
+1528,14336,Ephedrine
+1529,14338,Colchicine
+1530,14339,Digitoxin
+1531,14340,Magnesium salicylate
+1532,14341,Acenocoumarol
+1533,14342,Testosterone propionate
+1534,14346,Lopinavir
+1535,14347,Hydroxychloroquine
+1536,14351,Thiothixene
+1537,14352,Topiroxostat
+1538,14358,Palmitic Acid
+1539,14359,Quercetin
+1540,14360,Oleic Acid
+1541,14362,Arachidonic Acid
+1542,14364,Camptothecin
+1543,14366,Dantron
+1544,14368,Dronedarone
+1545,14369,Nebivolol
+1546,14370,Oritavancin
+1547,14371,Pirfenidone
+1548,14372,Tanespimycin
+1549,14373,Vandetanib
+1550,14374,Iodine
+1551,14375,Telaprevir
+1552,14376,Abiraterone
+1553,14377,Cenobamate
+1554,14378,Rufinamide
+1555,14379,Prasugrel
+1556,14380,Asenapine
+1557,14381,Levocetirizine
+1558,14382,Simeprevir
+1559,14383,Oxymetholone
+1560,14384,Prucalopride
+1561,14385,Liraglutide
+1562,14387,Methyltestosterone
+1563,14388,Fospropofol
+1564,14390,Azapropazone
+1565,14398,Triflusal
+1566,14399,Ticagrelor
+1567,14400,Ivacaftor
+1568,14401,Vismodegib
+1569,14402,Pitavastatin
+1570,14403,Rilpivirine
+1571,14405,Vemurafenib
+1572,14406,Mirabegron
+1573,14407,Tofacitinib
+1574,14408,Enzalutamide
+1575,14409,Riociguat
+1576,14410,Macitentan
+1577,14411,Ibrutinib
+1578,14412,Palbociclib
+1579,14413,Nintedanib
+1580,14415,Chlortetracycline
+1581,14419,Dexibuprofen
+1582,14420,Blonanserin
+1583,14421,Aranidipine
+1584,14422,Lacidipine
+1585,14423,Levamlodipine
+1586,14424,Methylene blue
+1587,14425,Imidafenacin
+1588,14426,Artesunate
+1589,14427,Lumacaftor
+1590,14428,Tenofovir alafenamide
+1591,14434,Hydroquinone
+1592,14435,Insulin degludec
+1593,14436,Calcium citrate
+1594,14439,Butamben
+1595,14440,Arbutin
+1596,14443,Grazoprevir
+1597,14445,Delamanid
+1598,14446,Vinflunine
+1599,14447,Pitolisant
+1600,14449,Selumetinib
+1601,14450,Acalabrutinib
+1602,14451,Rifamycin
+1603,14452,Istradefylline
+1604,14454,Nifurtimox
+1605,14455,Ertugliflozin
+1606,14456,Neratinib
+1607,14457,Relugolix
+1608,14458,Revefenacin
+1609,14459,Delafloxacin
+1610,14461,Glasdegib
+1611,14462,Abemaciclib
+1612,14463,Gilteritinib
+1613,14465,Omadacycline
+1614,14466,Favipiravir
+1615,14467,Copanlisib
+1616,14468,Lurbinectedin
+1617,14469,Grapiprant
+1618,14470,Darolutamide
+1619,14471,Pexidartinib
+1620,14472,Hypericin
+1621,14475,Semaglutide
+1622,14476,Testosterone cypionate
+1623,14477,Testosterone enanthate
+1624,14478,Testosterone undecanoate
+1625,14479,Estradiol acetate
+1626,14481,Estradiol cypionate
+1627,14483,Estradiol valerate
+1628,14484,Tenofovir
+1629,14485,Aripiprazole lauroxil
+1630,14489,Aluminum acetate
+1631,14490,Zinc chloride
+1632,14493,Dexamethasone acetate
+1633,14494,Ripretinib
+1634,14495,Cefiderocol
+1635,14496,Human interferon beta
+1636,14499,Elexacaftor
+1637,14502,Asparaginase Escherichia coli
+1638,14503,Pegaspargase
+1639,14504,Floxuridine
+1640,14505,Mephenytoin
+1641,14506,Niacin
+1642,14507,Clofibrate
+1643,14508,Ethotoin
+1644,14509,Meclofenamic acid
+1645,14510,Heparin
+1646,14511,Dantrolene
+1647,14512,Diamorphine
+1648,14514,Asparaginase Erwinia chrysanthemi
+1649,14515,Etofenamate
+1650,14516,Tegafur
+1651,14520,Allantoin
+1652,14522,Neocitrullamon
+1653,14524,alpha-Tocopherol succinate
+1654,14527,Fluoxymesterone
+1655,14528,Danazol
+1656,14529,2-Methoxyestradiol
+1657,14530,Stanolone
+1658,14537,Ranolazine
+1659,14538,Disopyramide
+1660,14539,Prazosin
+1661,14540,Amoxapine
+1662,14541,Tamsulosin
+1663,14542,Maprotiline
+1664,14543,Desipramine
+1665,14544,Bupropion
+1666,14545,Clindamycin
+1667,14546,Metoclopramide
+1668,14547,Penbutolol
+1669,14551,Canagliflozin
+1670,14552,Omega-3-carboxylic acids
+1671,14554,Mecasermin
+1672,14557,Turoctocog alfa pegol
+1673,14558,Etomidate
+1674,14559,Calcitriol
+1675,14560,Ergocalciferol
+1676,14561,Cholecalciferol
+1677,14562,Alfacalcidol
+1678,14572,alpha-Linolenic acid
+1679,14574,Sulfinpyrazone
+1680,14575,Dexchlorpheniramine maleate
+1681,14578,Cholic Acid
+1682,14579,Nitazoxanide
+1683,14581,Cocaine
+1684,14582,Nadolol
+1685,14583,Solifenacin
+1686,14584,L-Glutamine
+1687,14585,Ammonia
+1688,14587,Ethanol
+1689,14588,Isosorbide mononitrate
+1690,14589,Polyethylene glycol 400
+1691,14590,Ozanimod
+1692,14591,Glycine
+1693,14594,Albutrepenonacog alfa
+1694,14595,Desmopressin
+1695,14596,Eletriptan
+1696,14597,Dapsone
+1697,14598,Dronabinol
+1698,14599,Montelukast
+1699,14600,Rofecoxib
+1700,14601,Zafirlukast
+1701,14602,Voriconazole
+1702,14603,Chlorpropamide
+1703,14604,Etoposide
+1704,14605,Candesartan cilexetil
+1705,14606,Thalidomide
+1706,14607,Diphenhydramine
+1707,14608,Ifosfamide
+1708,14609,Zopiclone
+1709,14610,Ketamine
+1710,14612,Trabectedin
+1711,14613,Zaltoprofen
+1712,14615,Seratrodast
+1713,14616,Dexketoprofen
+1714,14619,"Antihemophilic factor, human recombinant"
+1715,14620,Betrixaban
+1716,14621,Lonoctocog alfa
+1717,14622,Moroctocog alfa
+1718,14623,Prasterone
+1719,14624,Tibolone
+1720,14625,Corticotropin
+1721,14628,Tioguanine
+1722,14629,Tryptophan
+1723,14630,Omega-3-acid ethyl esters
+1724,14632,Adenosine phosphate
+1725,14633,Lumateperone
+1726,14634,Nitric Oxide
+1727,14635,Nitroglycerin
+1728,14636,Amyl Nitrite
+1729,14638,Benzyl alcohol
+1730,14640,Propylthiouracil
+1731,14641,Dopamine
+1732,14643,Capsaicin
+1733,14644,Sodium oxybate
+1734,14645,Methionine
+1735,14646,Succinic acid
+1736,14650,Dabigatran etexilate
+1737,14652,Potassium gluconate
+1738,14653,Choline
+1739,14655,Masoprocol
+1740,14656,Cannabidiol
+1741,14658,Omega-3 fatty acids
+1742,14661,Nabiximols
+1743,14662,Ribavirin
+1744,14663,Aldesleukin
+1745,14664,Sapropterin
+1746,14665,Clodronic acid
+1747,14667,Risedronic acid
+1748,14668,Bumetanide
+1749,14669,Bromfenac
+1750,14670,Drospirenone
+1751,14672,Prasterone sulfate
+1752,14674,Seliciclib
+1753,14677,Tafluprost
+1754,14678,Folic acid
+1755,14680,Zinc acetate
+1756,14681,Ademetionine
+1757,14682,Trimetrexate
+1758,14684,Cupric sulfate
+1759,14685,Progesterone
+1760,14686,Clomifene
+1761,14690,Bempedoic acid
+1762,14691,Amiloride
+1763,14694,Pegfilgrastim
+1764,14695,Pegvisomant
+1765,14696,Pentamidine
+1766,14697,Plitidepsin
+1767,14698,Pyrantel
+1768,14699,Lusutrombopag
+1769,14700,Tildrakizumab
+1770,14701,Mefloquine
+1771,14702,Ranitidine
+1772,14703,Methantheline
+1773,14704,Calcifediol
+1774,14706,Cyanocobalamin
+1775,14707,Ferrous sulfate anhydrous
+1776,14708,Tucatinib
+1777,14709,Gabapentin
+1778,14710,Doxercalciferol
+1779,14711,Chenodeoxycholic acid
+1780,14712,Glycerin
+1781,14713,Decitabine
+1782,14714,Sofosbuvir
+1783,14715,Coenzyme M
+1784,14717,Streptokinase
+1785,14718,Carbamoylcholine
+1786,14719,Epirubicin
+1787,14720,Carbenicillin
+1788,14721,Orlistat
+1789,14722,Suramin
+1790,14725,Glycerol phenylbutyrate
+1791,14726,Melatonin
+1792,14727,Pralatrexate
+1793,14729,Cimetidine
+1794,14730,Metyrapone
+1795,14731,Mibefradil
+1796,14733,Levomefolic acid
+1797,14734,Polaprezinc
+1798,14735,Brexanolone
+1799,14736,Oxaliplatin
+1800,14737,Carboplatin
+1801,14738,Busulfan
+1802,14739,Curcumin
+1803,14740,Chlorambucil
+1804,14745,Levmetamfetamine
+1805,14746,Trastuzumab deruxtecan
+1806,14751,Zinc sulfate
+1807,14754,Loteprednol etabonate
+1808,14755,Edetate calcium disodium anhydrous
+1809,14758,Capecitabine
+1810,14759,Tegafur-uracil
+1811,14761,Niraparib
+1812,14762,Bendroflumethiazide
+1813,14763,Trichlormethiazide
+1814,14764,Mercaptopurine
+1815,14765,Cobimetinib
+1816,14768,Dalteparin
+1817,14769,Ataluren
+1818,14770,Bivalirudin
+1819,14771,Ticlopidine
+1820,14772,Aminosalicylic acid
+1821,14773,Cefaclor
+1822,14774,Enoxaparin
+1823,14775,Calcipotriol
+1824,14779,Tiopronin
+1825,14780,Cytarabine
+1826,14782,Biotin
+1827,14783,Caffeine
+1828,14784,Theophylline
+1829,14785,Omeprazole
+1830,14786,Lansoprazole
+1831,14787,Flutamide
+1832,14788,Amodiaquine
+1833,14789,Daunorubicin
+1834,14790,Primaquine
+1835,14791,Mitoxantrone
+1836,14792,Paclitaxel
+1837,14793,Docetaxel
+1838,14794,Dasatinib
+1839,14796,Triclabendazole
+1840,14797,Imipenem
+1841,14798,Doripenem
+1842,14799,Insulin human
+1843,14801,Urokinase
+1844,14802,Pemetrexed
+1845,14805,Gabexate
+1846,14806,Entacapone
+1847,14807,Epinephrine
+1848,14808,Dobutamine
+1849,14809,Methyldopa
+1850,14810,Micafungin
+1851,14811,Nylidrin
+1852,14813,Troglitazone
+1853,14815,Carbimazole
+1854,14816,Edetic acid
+1855,14817,Exemestane
+1856,14818,Tioconazole
+1857,14819,Econazole
+1858,14820,Bifonazole
+1859,14821,Cyproterone acetate
+1860,14822,Sulfathiazole
+1861,14824,Buserelin
+1862,14827,Oxytocin
+1863,14828,Cycloserine
+1864,14829,Flupentixol
+1865,14830,Amantadine
+1866,14831,Droxidopa
+1867,14833,Riboflavin
+1868,14834,Menadione
+1869,14835,Benazepril
+1870,14836,Ramipril
+1871,14837,Pentagastrin
+1872,14838,Succinylcholine
+1873,14839,Sulpiride
+1874,14841,Triflupromazine
+1875,14842,Cinchocaine
+1876,14843,Nizatidine
+1877,14844,Diethylcarbamazine
+1878,14845,Procaine
+1879,14846,Perindopril
+1880,14848,Terbutaline
+1881,14849,Mechlorethamine
+1882,14850,Oxybuprocaine
+1883,14851,Cyclopentolate
+1884,14853,Trimethaphan
+1885,14854,Ambenonium
+1886,14856,Chloroprocaine
+1887,14861,Neostigmine
+1888,14862,Bambuterol
+1889,14864,Butyric Acid
+1890,14868,Thiotepa
+1891,14869,Clevidipine
+1892,14871,Aprotinin
+1893,14872,Glycine betaine
+1894,14873,Aclidinium
+1895,14874,Moxisylyte
+1896,14875,Tretamine
+1897,14876,Miltefosine
+1898,14877,Glutathione
+1899,14878,Cidofovir
+1900,14880,Nicotine
+1901,14881,Phenylephrine
+1902,14882,Linezolid
+1903,14883,Furazolidone
+1904,14884,Phenelzine
+1905,14885,Moclobemide
+1906,14888,Farnesol
+1907,14893,Iproniazid
+1908,14895,Tedizolid phosphate
+1909,14897,Zolmitriptan
+1910,14898,Phenylpropanolamine
+1911,14899,Sumatriptan
+1912,14900,Almotriptan
+1913,14901,Naratriptan
+1914,14902,Rizatriptan
+1915,14904,Safinamide
+1916,14905,Pirlindole
+1917,14906,Toloxatone
+1918,14908,Ubrogepant
+1919,14910,Pyrazinamide
+1920,14911,Allopurinol
+1921,14912,Deferoxamine
+1922,14913,Trifluoperazine
+1923,14914,Procarbazine
+1924,14915,Inosine
+1925,14918,Adenosine
+1926,14919,Nelarabine
+1927,14920,Erdosteine
+1928,14921,Aspartic acid
+1929,14922,Taurine
+1930,14924,Diazoxide
+1931,14926,Paricalcitol
+1932,14933,Valaciclovir
+1933,14934,Cyclosporine
+1934,14935,Fluconazole
+1935,14936,Erythromycin
+1936,14937,Sildenafil
+1937,14938,Reserpine
+1938,14939,Indinavir
+1939,14940,Lidocaine
+1940,14941,Amcinonide
+1941,14942,Terfenadine
+1942,14943,Levonorgestrel
+1943,14944,Amlodipine
+1944,14945,Sorafenib
+1945,14946,Nisoldipine
+1946,14947,Cerivastatin
+1947,14948,Teniposide
+1948,14949,Chloramphenicol
+1949,14950,Loratadine
+1950,14951,Quinine
+1951,14952,Haloperidol
+1952,14953,Lercanidipine
+1953,14954,Cyclophosphamide
+1954,14955,Vincristine
+1955,14956,Carbamazepine
+1956,14957,Fenfluramine
+1957,14958,Cisapride
+1958,14959,Nicardipine
+1959,14960,Astemizole
+1960,14961,Simvastatin
+1961,14962,Trazodone
+1962,14963,Midazolam
+1963,14964,Mycophenolate mofetil
+1964,14965,Eplerenone
+1965,14966,Amprenavir
+1966,14967,Delavirdine
+1967,14968,Modafinil
+1968,14969,Clopidogrel
+1969,14970,Mometasone
+1970,14971,Tadalafil
+1971,14972,Disulfiram
+1972,14973,Mifepristone
+1973,14974,Vardenafil
+1974,14975,Sirolimus
+1975,14976,Triazolam
+1976,14977,Ondansetron
+1977,14978,Bimatoprost
+1978,14979,Zonisamide
+1979,14980,Metronidazole
+1980,14981,Buprenorphine
+1981,14982,Zaleplon
+1982,14983,Azelastine
+1983,14984,Felodipine
+1984,14985,Nitrendipine
+1985,14986,Praziquantel
+1986,14987,Fluvastatin
+1987,14988,Pimozide
+1988,14989,Quinacrine
+1989,14990,Chlorpheniramine
+1990,14991,Cilostazol
+1991,14992,Itraconazole
+1992,14993,Phenobarbital
+1993,14994,Domperidone
+1994,14995,Clarithromycin
+1995,14996,Finasteride
+1996,14997,Anastrozole
+1997,14998,Halofantrine
+1998,14999,Quetiapine
+1999,15000,Lapatinib
+2000,15001,Paliperidone
+2001,15002,Sunitinib
+2002,15003,Cortisone acetate
+2003,15006,Iloperidone
+2004,15008,Trastuzumab emtansine
+2005,15009,Romidepsin
+2006,15010,Rivaroxaban
+2007,15011,Udenafil
+2008,15012,Temsirolimus
+2009,15013,Saxagliptin
+2010,15014,Ambrisentan
+2011,15015,Armodafinil
+2012,15017,Lonafarnib
+2013,15018,Midostaurin
+2014,15019,Apixaban
+2015,15020,Axitinib
+2016,15021,Vicriviroc
+2017,15022,Artemether
+2018,15023,Gestodene
+2019,15025,Cabazitaxel
+2020,15026,Hydroxyprogesterone caproate
+2021,15027,Crizotinib
+2022,15028,Boceprevir
+2023,15029,Perampanel
+2024,15030,Ponatinib
+2025,15033,Idelalisib
+2026,15034,Cobicistat
+2027,15035,Vortioxetine
+2028,15036,Olaparib
+2029,15038,Daclatasvir
+2030,15039,Benidipine
+2031,15040,Paritaprevir
+2032,15042,Elbasvir
+2033,15043,Asunaprevir
+2034,15044,Isavuconazole
+2035,15045,Tezacaftor
+2036,15046,Icotinib
+2037,15049,Osilodrostat
+2038,15050,Valbenazine
+2039,15051,Deflazacort
+2040,15052,Lemborexant
+2041,15053,Letermovir
+2042,15054,Lorlatinib
+2043,15055,Deutetrabenazine
+2044,15056,Doravirine
+2045,15057,Rucaparib
+2046,15059,Troleandomycin
+2047,15061,Umifenovir
+2048,15062,Halometasone
+2049,15063,Cloprednol
+2050,15064,Mometasone furoate
+2051,15067,Methylprednisolone hemisuccinate
+2052,15072,Peginterferon alfa-2b
+2053,15073,Fluvoxamine
+2054,15074,Amphetamine
+2055,15075,Cevimeline
+2056,15076,Esmolol
+2057,15077,Bortezomib
+2058,15078,Tramadol
+2059,15079,Betaxolol
+2060,15080,Trospium
+2061,15081,Midodrine
+2062,15082,Citalopram
+2063,15083,Reboxetine
+2064,15084,Clotrimazole
+2065,15085,Sulfanilamide
+2066,15086,Clemastine
+2067,15087,Venlafaxine
+2068,15088,Bupivacaine
+2069,15089,Codeine
+2070,15090,Clobazam
+2071,15092,Vinorelbine
+2072,15093,Clozapine
+2073,15094,Mirtazapine
+2074,15095,Timolol
+2075,15096,Palonosetron
+2076,15097,Mexiletine
+2077,15098,Promazine
+2078,15099,Zolpidem
+2079,15100,Prochlorperazine
+2080,15101,Celecoxib
+2081,15102,Sotalol
+2082,15103,Darifenacin
+2083,15104,Dextromethorphan
+2084,15105,Carteolol
+2085,15106,Cinnarizine
+2086,15107,Vinblastine
+2087,15108,Doxazosin
+2088,15109,Piperazine
+2089,15110,Fluphenazine
+2090,15111,Dexmedetomidine
+2091,15113,Galantamine
+2092,15114,Thioridazine
+2093,15115,Nicergoline
+2094,15116,Paroxetine
+2095,15117,Trimipramine
+2096,15118,Epinastine
+2097,15119,Tranylcypromine
+2098,15121,Methimazole
+2099,15122,Tripelennamine
+2100,15124,Biperiden
+2101,15125,Loperamide
+2102,15126,Donepezil
+2103,15127,Perphenazine
+2104,15129,Phenformin
+2105,15130,Tipranavir
+2106,15131,Mesoridazine
+2107,15132,Hydrocodone
+2108,15133,Pindolol
+2109,15134,Hydroxyurea
+2110,15135,Cinacalcet
+2111,15137,Tolterodine
+2112,15138,Selegiline
+2113,15139,Mequitazine
+2114,15141,Tegaserod
+2115,15142,Oxamniquine
+2116,15143,Bicalutamide
+2117,15144,Rabeprazole
+2118,15145,Proguanil
+2119,15146,Nefazodone
+2120,15147,Orphenadrine
+2121,15148,Escitalopram
+2122,15149,Idarubicin
+2123,15150,Propafenone
+2124,15151,Dexfenfluramine
+2125,15152,Oxymorphone
+2126,15153,Acebutolol
+2127,15154,Lomustine
+2128,15155,Levobunolol
+2129,15156,Metipranolol
+2130,15159,Lisdexamfetamine
+2131,15160,Arformoterol
+2132,15164,Yohimbine
+2133,15166,Tiotropium
+2134,15167,Antipyrine
+2135,15168,Midomafetamine
+2136,15171,Dihydrocodeine
+2137,15173,Dextroamphetamine
+2138,15174,Metamfetamine
+2139,15175,Oxprenolol
+2140,15176,Everolimus
+2141,15177,Zuclopenthixol
+2142,15178,Etoricoxib
+2143,15179,Nicotinamide
+2144,15180,Fusidic acid
+2145,15184,Flunarizine
+2146,15185,Tetrabenazine
+2147,15186,Celiprolol
+2148,15187,Nilotinib
+2149,15188,Lorcaserin
+2150,15189,Dapoxetine
+2151,15191,Ospemifene
+2152,15193,Rotigotine
+2153,15194,Cariprazine
+2154,15196,Sertindole
+2155,15197,Mianserin
+2156,15198,Alogliptin
+2157,15199,Tapentadol
+2158,15200,Vernakalant
+2159,15201,Dapagliflozin
+2160,15205,Pazopanib
+2161,15206,Panobinostat
+2162,15207,Tafenoquine
+2163,15209,Vilazodone
+2164,15210,Mepyramine
+2165,15211,Desvenlafaxine
+2166,15212,Fesoterodine
+2167,15213,Lumefantrine
+2168,15218,Phenylbutyric acid
+2169,15219,Sulconazole
+2170,15220,Bopindolol
+2171,15221,Bupranolol
+2172,15222,Levomilnacipran
+2173,15223,Perospirone
+2174,15225,Befunolol
+2175,15226,Eliglustat
+2176,15228,Naloxegol
+2177,15229,Umeclidinium
+2178,15230,Lenvatinib
+2179,15231,Stiripentol
+2180,15232,Brexpiprazole
+2181,15233,Dosulepin
+2182,15235,Dasabuvir
+2183,15237,Manidipine
+2184,15239,Levobetaxolol
+2185,15240,Ixazomib
+2186,15241,Rupatadine
+2187,15242,Artenimol
+2188,15243,Encorafenib
+2189,15244,Lasmiditan
+2190,15245,Talinolol
+2191,15246,Anisodamine
+2192,15247,Elagolix
+2193,15250,Fedratinib
+2194,15251,Mizolastine
+2195,15252,Ritanserin
+2196,15254,Levosalbutamol
+2197,15260,Dexchlorpheniramine
+2198,15263,Enasidenib
+2199,15267,Remdesivir
+2200,15269,Upadacitinib
+2201,15270,Lipoic acid
+2202,15271,Mitomycin
+2203,15272,Nilutamide
+2204,15273,Nitrofurantoin
+2205,15274,Benzphetamine
+2206,15275,Flavin mononucleotide
+2207,15276,Amrubicin
+2208,15277,Peginterferon alfa-2a
+2209,15280,Interferon gamma-1b
+2210,15281,"Interferon alfa-2a, Recombinant"
+2211,15282,Insulin lispro
+2212,15283,Insulin glargine
+2213,15284,Interferon beta-1a
+2214,15285,Interferon beta-1b
+2215,15286,Interferon alfacon-1
+2216,15288,Interferon alfa-2b
+2217,15289,Moxifloxacin
+2218,15290,Anagrelide
+2219,15291,Ropinirole
+2220,15292,Ropivacaine
+2221,15293,Grepafloxacin
+2222,15294,Tacrine
+2223,15295,Triamterene
+2224,15296,Griseofulvin
+2225,15297,Secobarbital
+2226,15298,Streptozocin
+2227,15299,Trimethoprim
+2228,15300,Enoxacin
+2229,15301,Pefloxacin
+2230,15302,Albendazole
+2231,15303,Methoxsalen
+2232,15304,Guanabenz
+2233,15305,Trovafloxacin
+2234,15306,Tizanidine
+2235,15307,Thiabendazole
+2236,15308,Riluzole
+2237,15309,Malathion
+2238,15311,Primidone
+2239,15312,Pentoxifylline
+2240,39889,Bromhexine
+2241,15314,Cinoxacin
+2242,15315,Dacarbazine
+2243,15316,Famotidine
+2244,39892,Ioxaglic acid
+2245,15318,Lomefloxacin
+2246,15319,Ramelteon
+2247,15320,Frovatriptan
+2248,15321,Levobupivacaine
+2249,15322,Norfloxacin
+2250,39895,Butoconazole
+2251,15324,Leflunomide
+2252,15325,Gemifloxacin
+2253,15326,Ofloxacin
+2254,15327,Sparfloxacin
+2255,15323,Hesperetin
+2256,15329,Lumiracoxib
+2257,15331,Insulin aspart
+2258,15332,Insulin glulisine
+2259,15333,Rasagiline
+2260,15335,Theobromine
+2261,15338,Deferasirox
+2262,15344,Belinostat
+2263,15346,Interferon alfa
+2264,15349,Apremilast
+2265,15350,GTS-21
+2266,15351,Dovitinib
+2267,15352,Obeticholic acid
+2268,15353,Garenoxacin
+2269,15354,Eltrombopag
+2270,15355,Vadimezan
+2271,15356,Tolperisone
+2272,15357,Avasimibe
+2273,15358,Propentofylline
+2274,15360,Agomelatine
+2275,15363,Bendamustine
+2276,15364,Besifloxacin
+2277,15365,Niclosamide
+2278,15366,Teriflunomide
+2279,15367,Pomalidomide
+2280,15369,Tasimelteon
+2281,15371,Peginterferon beta-1a
+2282,15372,Viloxazine
+2283,15373,Lobeglitazone
+2284,15375,Doxofylline
+2285,15376,Ramosetron
+2286,15377,Osimertinib
+2287,15380,Enrofloxacin
+2288,15382,Pimobendan
+2289,15388,Capmatinib
+2290,15391,Binimetinib
+2291,15392,Voxilaprevir
+2292,15393,Lisofylline
+2293,15395,Dihydralazine
+2294,15399,Acefylline
+2295,15409,Ropeginterferon alfa-2b
+2296,15412,Histamine
+2297,15413,Gemcitabine
+2298,15414,Azacitidine
+2299,15416,Lorazepam
+2300,15417,Phentermine
+2301,15418,Dofetilide
+2302,15419,Azithromycin
+2303,15420,Pantoprazole
+2304,15421,Temazepam
+2305,15422,Oxiconazole
+2306,15424,Cabergoline
+2307,15425,Doxycycline
+2308,15426,Isradipine
+2309,15427,Flucloxacillin
+2310,15428,Bexarotene
+2311,15429,Vindesine
+2312,15430,Pentobarbital
+2313,15431,Dihydroergotamine
+2314,15432,Pimecrolimus
+2315,15433,Alfuzosin
+2316,15434,Trimethadione
+2317,15435,Megestrol acetate
+2318,15436,Methylergometrine
+2319,15438,Sulfadiazine
+2320,15439,Dydrogesterone
+2321,15440,Nimodipine
+2322,15441,Eszopiclone
+2323,15442,Dicloxacillin
+2324,15443,Caspofungin
+2325,15444,Toremifene
+2326,15446,Bosentan
+2327,15447,Valdecoxib
+2328,15448,Lisuride
+2329,15449,Ethosuximide
+2330,15450,Ivermectin
+2331,15451,Bisoprolol
+2332,15452,Rifabutin
+2333,15453,Paramethadione
+2334,15455,Aprepitant
+2335,15456,Amphotericin B
+2336,15457,Flurazepam
+2337,15458,Ergotamine
+2338,15459,Sufentanil
+2339,15460,Azatadine
+2340,15461,Imiquimod
+2341,15462,Esomeprazole
+2342,15464,Roxithromycin
+2343,15465,Phenylbutazone
+2344,15466,Acetazolamide
+2345,15467,Ethynodiol diacetate
+2346,15468,Levomenthol
+2347,15469,Natamycin
+2348,15471,Granisetron
+2349,15472,Tiagabine
+2350,15473,Tinidazole
+2351,15474,Fulvestrant
+2352,15475,Felbamate
+2353,15476,Dirithromycin
+2354,15477,Ezetimibe
+2355,15478,Telithromycin
+2356,15479,Salbutamol
+2357,15480,Guanfacine
+2358,15481,Topotecan
+2359,15482,Ergoloid mesylate
+2360,15483,Pilocarpine
+2361,15484,Sibutramine
+2362,15485,Atovaquone
+2363,15486,Prednicarbate
+2364,15488,Candicidin
+2365,15490,Pergolide
+2366,15491,Brinzolamide
+2367,15492,Estramustine
+2368,15493,Bromocriptine
+2369,15494,Rifapentine
+2370,15496,Rifaximin
+2371,15497,Levacetylmethadol
+2372,15499,Retapamulin
+2373,15500,Desonide
+2374,15501,Sitagliptin
+2375,15502,Posaconazole
+2376,15503,Fosamprenavir
+2377,15504,Cefradine
+2378,15505,Tasosartan
+2379,15506,Aprobarbital
+2380,15507,Mestranol
+2381,15508,Quinupristin
+2382,15509,Ginkgo biloba
+2383,15510,Bezafibrate
+2384,15511,Pranlukast
+2385,15513,Barbital
+2386,15517,Prazepam
+2387,15518,Quazepam
+2388,15519,Nitrazepam
+2389,15520,Roflumilast
+2390,15521,Rutin
+2391,15522,Dalfopristin
+2392,15523,Epothilone D
+2393,15526,Patupilone
+2394,15530,Corticosterone
+2395,15531,Nimesulide
+2396,15532,Metamizole
+2397,15536,Maraviroc
+2398,15538,Fluspirilene
+2399,15539,Ixabepilone
+2400,15542,Milnacipran
+2401,15543,Flibanserin
+2402,15544,Rifalazil
+2403,15545,Banoxantrone
+2404,15546,Indacaterol
+2405,15547,Pretomanid
+2406,15549,Dexlansoprazole
+2407,15550,7-ethyl-10-hydroxycamptothecin
+2408,15551,Brivaracetam
+2409,15553,Seletracetam
+2410,15555,Rimonabant
+2411,15557,Silodosin
+2412,15558,Tolvaptan
+2413,15559,Lacosamide
+2414,15560,Ridaforolimus
+2415,15561,Avanafil
+2416,15562,Sitaxentan
+2417,15563,Tocilizumab
+2418,15565,Coltuximab ravtansine
+2419,15566,Etravirine
+2420,15569,Lestaurtinib
+2421,15570,Clomethiazole
+2422,15572,Bosutinib
+2423,15573,Isavuconazonium
+2424,15574,Pasireotide
+2425,15576,Laquinimod
+2426,15578,Fosaprepitant
+2427,15579,Ambroxol
+2428,15580,Pinacidil
+2429,15582,Difluprednate
+2430,15583,Halcinonide
+2431,15584,Lanreotide
+2432,15585,Brefeldin A
+2433,15586,Tranilast
+2434,15587,Parecoxib
+2435,15590,Lurasidone
+2436,15591,Lomitapide
+2437,15593,Agmatine
+2438,15594,Brentuximab vedotin
+2439,15595,Fidaxomicin
+2440,15596,Cabozantinib
+2441,15597,Ruxolitinib
+2442,15598,Linagliptin
+2443,15599,Regorafenib
+2444,15600,Bedaquiline
+2445,15601,Formestane
+2446,15602,Trametinib
+2447,15603,Dabrafenib
+2448,15604,Luliconazole
+2449,15606,Fendiline
+2450,15607,Eperisone
+2451,15609,Aliskiren
+2452,15610,Vorapaxar
+2453,15611,Suvorexant
+2454,15612,Siltuximab
+2455,15613,Ceritinib
+2456,15614,Vilanterol
+2457,15615,Ivabradine
+2458,15616,Trimebutine
+2459,15619,Elvitegravir
+2460,15620,Eslicarbazepine acetate
+2461,15621,Dienogest
+2462,15622,Sonidegib
+2463,15623,Etizolam
+2464,15629,Azelnidipine
+2465,15630,Cilnidipine
+2466,15632,Efonidipine
+2467,15635,Tianeptine
+2468,15638,Norethynodrel
+2469,15640,Dihydroergocornine
+2470,15642,Selexipag
+2471,15646,Oleandomycin
+2472,15653,Lesinurad
+2473,15654,Venetoclax
+2474,15655,Velpatasvir
+2475,15659,Ribociclib
+2476,15660,Ebastine
+2477,15661,Bryostatin 1
+2478,15662,Sarilumab
+2479,15663,Danoprevir
+2480,15664,Bictegravir
+2481,15665,Saracatinib
+2482,15666,Baricitinib
+2483,15667,Esketamine
+2484,15668,Apalutamide
+2485,15669,6-O-benzylguanine
+2486,15670,Selinexor
+2487,15671,Duvelisib
+2488,15672,Carboxyamidotriazole
+2489,15673,Entrectinib
+2490,15674,Fostamatinib
+2491,15675,Alpelisib
+2492,15676,Lorvotuzumab mertansine
+2493,15677,Naftopidil
+2494,15679,Vinpocetine
+2495,15680,Erdafitinib
+2496,15681,Polatuzumab vedotin
+2497,15683,Brigatinib
+2498,15684,Propiverine
+2499,15685,Siponimod
+2500,15686,Sagopilone
+2501,15687,Rimegepant
+2502,15689,Mirvetuximab Soravtansine
+2503,15693,Piperine
+2504,15696,Trifarotene
+2505,15697,Lefamulin
+2506,15698,Tazemetostat
+2507,15701,Enfortumab vedotin
+2508,15703,Clobetasone
+2509,15709,Terguride
+2510,15712,Bencyclane
+2511,15713,Otilonium
+2512,15725,Glecaprevir
+2513,15726,Piperaquine
+2514,15728,Fish oil
+2515,15730,Baloxavir marboxil
+2516,15739,Ivosidenib
+2517,15746,Vibegron
+2518,15747,Voxelotor
+2519,15748,Zanubrutinib
+2520,15750,Avapritinib
+2521,15753,Miglitol
+2522,15754,Icodextrin
+2523,15755,Beta-D-Glucose
+2524,15761,Oseltamivir
+2525,15762,Trandolapril
+2526,15763,Benzocaine
+2527,15765,Phenylacetic acid
+2528,15767,Homatropine
+2529,15769,Valsartan
+2530,15770,Glimepiride
+2531,15771,Sulfisoxazole
+2532,15772,Tolcapone
+2533,15773,Treprostinil
+2534,15774,Ketorolac
+2535,15775,Tenoxicam
+2536,15776,Nabilone
+2537,15777,Oxandrolone
+2538,15778,Tolazamide
+2539,15779,Dorzolamide
+2540,15780,Sulfapyridine
+2541,15781,Acetylsalicylic acid
+2542,15782,Vigabatrin
+2543,15783,Cyclizine
+2544,15784,Gliquidone
+2545,15785,Glisoxepide
+2546,15786,Doconexent
+2547,15788,Licofelone
+2548,15789,Tienilic acid
+2549,15790,Ximelagatran
+2550,15791,Crisaborole
+2551,15793,Lornoxicam
+2552,15794,Aceclofenac
+2553,15796,Glibornuride
+2554,15797,Olodaterol
+2555,15798,Lifitegrast
+2556,15799,Avatrombopag
+2557,15800,Fluindione
+2558,15801,Carbutamide
+2559,15804,Cladribine
+2560,15805,Clofarabine
+2561,15808,Pyrimethamine
+2562,15809,Tazarotene
+2563,15810,Beraprost
+2564,15811,Ombitasvir
+2565,15812,Opicapone
+2566,15813,Lubiprostone
+2567,15815,Sofalcone
+2568,15816,Loxoprofen
+2569,15817,Adefovir dipivoxil
+2570,15818,Memantine
+2571,15820,Enfuvirtide
+2572,15821,Isosorbide dinitrate
+2573,15822,Ursodeoxycholic acid
+2574,15825,Tirapazamine
+2575,15826,Dalfampridine
+2576,15828,Ellagic acid
+2577,15829,Fingolimod
+2578,15832,Carisoprodol
+2579,15833,Methohexital
+2580,15834,Thiopental
+2581,15835,Methylphenobarbital
+2582,15836,Telmisartan
+2583,15837,Methsuximide
+2584,15838,Benzbromarone
+2585,15839,Dexrabeprazole
+2586,15840,Digoxin
+2587,15841,Glutethimide
+2588,15842,Mycophenolic acid
+2589,15844,Ezogabine
+2590,15846,Dolutegravir
+2591,15847,Empagliflozin
+2592,15848,Famciclovir
+2593,15849,Brimonidine
+2594,15850,Aminocaproic acid
+2595,15852,ATP
+2596,15853,Abacavir
+2597,15855,Minoxidil
+2598,15856,Naltrexone
+2599,15857,Alvocidib
+2600,15858,Migalastat
+2601,15859,Raltegravir
+2602,15860,Sodium aurothiomalate
+2603,15861,Silibinin
+2604,15862,Tecovirimat
+2605,15863,Sacituzumab govitecan
+2606,15864,Pibrentasvir
+2607,15865,Torcetrapib
+2608,15866,Nitroprusside
+2609,15867,Mebendazole
+2610,15868,Isoprenaline
+2611,15869,Clenbuterol
+2612,15870,Amifostine
+2613,15872,Permethrin
+2614,15873,Artemisinin
+2615,15875,Amifampridine
+2616,15876,Mesalazine
+2617,15877,Cyproheptadine
+2618,15878,Mitiglinide
+2619,15879,Nalmefene
+2620,15880,Naldemedine
+2621,15881,Bazedoxifene
+2622,15882,Acemetacin
+2623,15885,Inositol nicotinate
+2624,15886,Sodium fluoride
+2625,15887,Certolizumab pegol
+2626,15889,Tenofovir disoproxil
+2627,15890,Tinzaparin
+2628,15891,Deferiprone
+2629,15892,Ferric maltol
+2630,15893,Bleomycin
+2631,15895,Mirodenafil
+2632,15896,Foretinib
+2633,15897,Ambroxol acefyllinate
+2634,15898,Betahistine
+2635,15901,Evolocumab
+2636,15902,Vonicog Alfa
+2637,15903,Von Willebrand Factor Human
+2638,15906,Pyridoxal phosphate
+2639,15907,Histidine
+2640,15911,Human thrombin
+2641,15912,Arginine
+2642,15913,Citrulline
+2643,15914,Minocycline
+2644,15932,Pimagedine
+2645,15955,5-methyltetrahydrofolic acid
+2646,15956,Dyphylline
+2647,15958,Defibrotide
+2648,15959,Tecadenoson
+2649,15960,Naxifylline
+2650,15970,Radotinib
+2651,15971,Omalizumab
+2652,15974,Drotrecogin alfa
+2653,15975,Coagulation Factor IX (Recombinant)
+2654,15979,Coagulation Factor IX Human
+2655,15982,Sulfasalazine
+2656,15984,Oxaprozin
+2657,15985,Balsalazide
+2658,15986,Salsalate
+2659,15987,Choline magnesium trisalicylate
+2660,15989,Tiaprofenic acid
+2661,15999,Nepafenac
+2662,16011,Loxapine
+2663,16012,Fenoldopam
+2664,16014,Chlorprothixene
+2665,16016,Pipamperone
+2666,16018,Vatalanib
+2667,16023,Collagenase clostridium histolyticum
+2668,16028,Eribulin
+2669,16030,Phenethyl Isothiocyanate
+2670,16031,Phenylalanine
+2671,16032,OSI-930
+2672,16036,Acetylcysteine
+2673,16041,Mecasermin rinfabate
+2674,16054,Trihexyphenidyl
+2675,16055,Oxyphencyclimine
+2676,16056,Procyclidine
+2677,16057,Hyoscyamine
+2678,16058,Methscopolamine bromide
+2679,16059,Tridihexethyl
+2680,16060,Anisotropine methylbromide
+2681,16061,Atropine
+2682,16062,Homatropine methylbromide
+2683,16063,Scopolamine
+2684,16065,Tropicamide
+2685,16066,Brompheniramine
+2686,16067,Glycopyrronium
+2687,16068,Bethanechol
+2688,16070,Diphenidol
+2689,16071,Isopropamide
+2690,16072,Acetylcholine
+2691,16074,Mepenzolate
+2692,16078,Butylscopolamine
+2693,16082,Pyruvic acid
+2694,16085,Potassium chloride
+2695,16086,Lepirudin
+2696,16087,Proflavine
+2697,16179,Turoctocog alfa
+2698,16180,Conestat alfa
+2699,16182,Nafamostat
+2700,16183,Aminolevulinic acid
+2701,16191,Trilostane
+2702,16193,Lindane
+2703,16195,Glucosamine
+2704,16203,Ricinoleic Acid
+2705,16208,Tetrahydrocannabivarin
+2706,16209,Olmesartan
+2707,16210,Eprosartan
+2708,16214,Azilsartan medoxomil
+2709,16215,Fimasartan
+2710,16216,Angiotensin II
+2711,16217,Serine
+2712,16219,Alprostadil
+2713,16220,Dinoprostone
+2714,16221,Misoprostol
+2715,16222,Iloprost
+2716,16223,Limaprost
+2717,16224,Radicicol
+2718,16226,Rituximab
+2719,16227,Ibritumomab tiuxetan
+2720,16228,Tositumomab
+2721,16229,Ofatumumab
+2722,16230,Obinutuzumab
+2723,16232,Ocrelizumab
+2724,16253,Caprylic acid
+2725,16256,Cardarine
+2726,16260,GW-590735
+2727,16262,Aleglitazar
+2728,16264,Ciprofibrate
+2729,16266,Isoflavone
+2730,16267,Leukotriene B4
+2731,16268,Fenofibric acid
+2732,16271,Somatotropin
+2733,16272,Somatrem
+2734,16276,Adapalene
+2735,16281,Cysteine
+2736,16282,Telotristat ethyl
+2737,16283,Creatine
+2738,16285,Alemtuzumab
+2739,16296,Ferric pyrophosphate citrate
+2740,16301,Amsacrine
+2741,16302,Ibutilide
+2742,16303,Terazosin
+2743,16305,Potassium nitrate
+2744,16306,Pentoxyverine
+2745,16309,Buclizine
+2746,16311,Pirenzepine
+2747,16312,Clidinium
+2748,16313,Propantheline
+2749,16314,Dicyclomine
+2750,16315,Cycrimine
+2751,16317,Molindone
+2752,16318,Staurosporine
+2753,16321,Lasofoxifene
+2754,16322,Levocarnitine
+2755,16323,Nedocromil
+2756,16330,N-Acetylglucosamine
+2757,16331,Epoprostenol
+2758,16334,Cangrelor
+2759,16337,Tolazoline
+2760,16340,Roxatidine acetate
+2761,16341,Iron
+2762,16344,Ferrous gluconate
+2763,16347,Ferrous fumarate
+2764,16350,Citric acid
+2765,16352,Norepinephrine
+2766,16353,Mazindol
+2767,16357,Isometheptene
+2768,16360,Probucol
+2769,16370,Naringenin
+2770,16373,Afimoxifene
+2771,16375,Estriol
+2772,16376,Quinestrol
+2773,16377,Phenolphthalein
+2774,33577,hypertensive disorder
+2775,36035,hypertension
+2776,38121,restless legs syndrome
+2777,28547,Parkinson disease
+2778,30093,parkinsonian-pyramidal syndrome
+2779,31408,X-linked parkinsonism-spasticity syndrome
+2780,28974,early-onset parkinsonism-intellectual disability syndrome
+2781,28801,juvenile onset Parkinson disease 19A
+2782,32759,hemiparkinsonism-hemiatrophy syndrome
+2783,32974,atypical juvenile parkinsonism
+2784,33241,hereditary late onset Parkinson disease
+2785,28396,multiple system atrophy
+2786,31524,postural orthostatic tachycardia syndrome
+2787,28149,orthostatic hypotension
+2788,83750,hyperemesis gravidarum (disease)
+2789,83751,torsades de pointes
+2790,35641,epilepsy
+2791,38003,basal ganglia disease
+2792,83752,focal hand dystonia
+2793,30324,blepharospasm
+2794,32033,insomnia (disease)
+2795,83753,tinea pedis
+2796,37617,chronic obstructive pulmonary disease
+2797,30374,"COPD, severe early onset"
+2798,37830,bronchitis
+2799,37564,gastric ulcer (disease)
+2800,83754,common wart
+2801,27932,epidermodysplasia verruciformis
+2802,39774,anogenital human papillomavirus infection
+2803,36196,vulva cancer
+2804,35776,vulvar neoplasm
+2805,28756,photoparoxysmal response
+2806,37762,photosensitivity disease
+2807,28478,autoimmune disease
+2808,32520,graft versus host disease
+2809,83755,superficial multifocal basal cell carcinoma
+2810,83756,actinic keratosis (disease)
+2811,39470,keratoacanthoma
+2812,36644,skin disease
+2813,31850,seborrheic keratosis
+2814,83757,actinic cheilitis
+2815,38031,inverted follicular keratosis
+2816,83758,melanoacanthoma
+2817,27933,anxiety disorder
+2818,37703,neurotic disorder
+2819,83760,dysthymic disorder
+2820,83761,epilepsy with generalized tonic-clonic seizures
+2821,29186,carbamoyl phosphate synthetase I deficiency disease
+2822,38242,bipolar disorder
+2823,29832,hyperargininemia
+2824,28249,major affective disorder
+2825,83763,manic bipolar affective disorder
+2826,32132,citrullinemia
+2827,36743,partial epilepsy
+2828,27626,thrombocytopenia
+2829,33125,early myoclonic encephalopathy
+2830,33115,absence epilepsy
+2831,33649,exanthem (disease)
+2832,36432,congestive heart failure
+2833,39145,herpes simplex virus keratitis
+2834,32217,hypopituitarism
+2835,33166,isolated congenital growth hormone deficiency
+2836,27219,hypogonadotropic hypogonadism with or without anosmia
+2837,27249,isolated growth hormone deficiency
+2838,31714,short stature due to growth hormone qualitative anomaly
+2839,32337,"combined pituitary hormone deficiencies, genetic form"
+2840,39203,pituitary deficiency
+2841,38179,congenital hypogonadotropic hypogonadism
+2842,39025,non-acquired combined pituitary hormone deficiencies without extra-pituitary malformations
+2843,83765,hypogonadotropic hypogonadism-frontoparietal alopecia syndrome
+2844,28407,hypogonadotropic hypogonadism
+2845,39202,non-acquired combined pituitary hormone deficiency
+2846,33453,Kallmann syndrome
+2847,83766,short stature due to isolated growth hormone deficiency with X-linked hypogammaglobulinemia
+2848,33232,X-linked intellectual disability with isolated growth hormone deficiency
+2849,32899,pituitary deficiency due to Rathke's pouch cysts
+2850,27741,pituitary deficiency due to empty sella turcica syndrome
+2851,32905,Sheehan syndrome
+2852,38508,non-acquired pituitary hormone deficiency
+2853,38085,acquired pituitary hormone deficiency
+2854,39539,pituitary hormone defiency from vascular origin
+2855,37285,thymus gland disease
+2856,83767,humoral hypercalcemia of malignancy
+2857,33621,acute lymphoblastic leukemia (disease)
+2858,28830,"leukemia, lymphocytic, susceptibility to"
+2859,30654,acute lymphoblastic/lymphocytic leukemia
+2860,83769,precursor T-cell acute lymphoblastic leukemia
+2861,33206,eosinophilic pneumonia
+2862,39506,pulmonary eosinophilia
+2863,38666,adrenocortical insufficiency
+2864,30813,Addison disease
+2865,36469,hypothyroidism
+2866,31732,myxedema
+2867,32719,congenital hypothyroidism
+2868,37784,Crohn disease
+2869,28158,inflammatory bowel disease
+2870,83770,Crohn's colitis
+2871,38513,congenital adrenal hyperplasia
+2872,35510,adrenogenital syndrome
+2873,38016,pemphigus
+2874,83771,strongyloidiasis
+2875,39540,angioedema
+2876,39111,acquired angioedema
+2877,83772,renin-angiotensin-aldosterone system-blocker-induced angioedema
+2878,83773,non-histaminic angioedema
+2879,29854,hereditary angioedema
+2880,36272,bursitis
+2881,36048,peptic ulcer disease
+2882,36347,synovitis (disease)
+2883,36436,tenosynovitis
+2884,39524,psoriatic arthritis
+2885,36604,nephrotic syndrome
+2886,38719,familial nephrotic syndrome
+2887,83774,lipoid nephrosis
+2888,83775,brain edema
+2889,36026,open-angle glaucoma
+2890,29078,rheumatoid arthritis
+2891,35823,eye disease
+2892,35665,disease of orbital region
+2893,36129,atopic eczema
+2894,29709,"dermatitis, atopic"
+2895,29614,osteoporosis
+2896,83776,postmenopausal osteoporosis
+2897,29182,systemic lupus erythematosus (disease)
+2898,33534,pediatric systemic lupus erythematosus
+2899,37770,contact dermatitis
+2900,83777,occupational dermatitis
+2901,31511,autoimmune thrombocytopenic
+2902,33572,psychotic disorder
+2903,83778,schizophreniform disorder
+2904,35915,mental disorder
+2905,83779,schizoaffective disorder
+2906,31723,autoimmune hemolytic anemia
+2907,83780,fetal erythroblastosis
+2908,37541,pneumonitis
+2909,33596,aspiration pneumonia (disease)
+2910,32384,adrenal insufficiency
+2911,33675,asthma
+2912,83781,intrinsic asthma
+2913,39773,allergic asthma
+2914,83782,exfoliative dermatitis
+2915,33679,potassium deficiency disease
+2916,37722,multiple sclerosis
+2917,39808,trichinosis
+2918,32815,Trichinellosis
+2919,83783,enterobiasis
+2920,83784,Trichinella spiralis infectious disease
+2921,39820,ankylosing spondylitis
+2922,27366,"spondyloarthropathy, susceptibility to"
+2923,27452,Diamond-Blackfan anemia
+2924,38496,inherited aplastic anemia
+2925,30990,mycosis fungoides and variants
+2926,39208,primary cutaneous T-cell lymphoma
+2927,83785,folliculotropic mycosis fungoides
+2928,83786,localized pagetoid reticulosis
+2929,33452,granulomatous slack skin disease
+2930,35992,tendinitis
+2931,36562,exostosis
+2932,83787,periarthritis
+2933,83788,erythema multiforme
+2934,32746,Stevens-Johnson syndrome
+2935,33601,gastritis
+2936,36433,rheumatic heart disease
+2937,33410,dermatitis herpetiformis
+2938,38024,psoriasis
+2939,39728,parapsoriasis
+2940,83789,serum sickness
+2941,83790,gout
+2942,37888,allergic rhinitis
+2943,83791,vasomotor rhinitis
+2944,37558,herpes simplex infectious disease
+2945,83792,obsolete Hodgkin's granuloma
+2946,33077,Hodgkins lymphoma
+2947,29993,classic Hodgkin lymphoma
+2948,83793,Hodgkin's paragranuloma
+2949,83794,"classic Hodgkin lymphoma, lymphocyte-rich type"
+2950,30892,newborn respiratory distress syndrome
+2951,39872,acute respiratory distress syndrome
+2952,32967,sarcoidosis
+2953,33575,diabetes mellitus (disease)
+2954,29113,diabetic ketoacidosis
+2955,83795,chronic beryllium disease
+2956,35650,non-Hodgkin lymphoma
+2957,83796,lymphosarcoma
+2958,35970,lymphoma
+2959,32531,mantle cell lymphoma
+2960,36458,Langerhans cell histiocytosis
+2961,30447,"lymphoma, non-Hodgkin, familial"
+2962,35651,B-cell neoplasm
+2963,33576,thyroiditis (disease)
+2964,39546,acquired thrombocytopenia
+2965,32563,heparin-induced thrombocytopenia (disease)
+2966,36298,hairy cell leukemia
+2967,83798,hairy cell leukemia variant
+2968,33653,melanoma
+2969,33294,follicular lymphoma
+2970,36724,neoplasm of mature B-cells
+2971,32589,Kaposi's sarcoma (disease)
+2972,83799,chronic hepatitis C virus infection
+2973,37743,hepatitis C virus infection
+2974,83800,chronic hepatitis B virus infection
+2975,31395,benign prostatic hyperplasia (disease)
+2976,33474,typhoid fever
+2977,37797,salmonellosis
+2978,83801,paratyphoid fever
+2979,36322,urinary tract infection (disease)
+2980,83802,obsolete hyperuricemia (disease)
+2981,33618,atrial fibrillation (disease)
+2982,28441,hereditary angioedema with C1Inh deficiency
+2983,83803,diastolic heart failure
+2984,36286,diabetic nephropathy
+2985,33605,hypotensive disorder
+2986,29387,hyperparathyroidism
+2987,83804,osteitis fibrosa
+2988,83805,hepatic coma
+2989,36266,hepatic encephalopathy
+2990,28052,hypertrophic cardiomyopathy
+2991,33656,hypercalcemia disease
+2992,38682,nephrocalcinosis
+2993,35583,phosphorus metabolism disease
+2994,39696,pulmonary tuberculosis
+2995,30035,substance abuse/dependence
+2996,83808,meningeal tuberculosis
+2997,83809,tuberculous meningitis
+2998,33703,acne (disease)
+2999,83810,pellagra
+3000,83811,beriberi
+3001,83812,acute coronary syndrome
+3002,28921,sickle cell anemia
+3003,83813,hereditary persistence of fetal hemoglobin
+3004,39480,methemoglobinemia
+3005,38462,sulfhemoglobinemia
+3006,33657,goiter (disease)
+3007,36252,thyroid gland disease
+3008,84734,Hashimoto thyroiditis
+3009,29946,primary hyperoxaluria
+3010,33695,hypertriglyceridemia (disease)
+3011,36151,gynecomastia
+3012,36280,hypertrophy of breast
+3013,36194,female breast carcinoma
+3014,37768,migraine disorder
+3015,28017,"migraine with or without aura, susceptibility to"
+3016,36043,primary ovarian failure
+3017,33658,hyperlipidemia
+3018,37764,familial hyperlipidemia
+3019,33593,obesity disorder
+3020,28651,monogenic obesity
+3021,31477,ovarian cancer
+3022,36794,ovarian adenocarcinoma
+3023,32617,hereditary breast ovarian cancer syndrome
+3024,83816,ovarian carcinosarcoma
+3025,37466,ovarian small cell carcinoma
+3026,36792,ovarian mucinous adenocarcinoma
+3027,36527,yolk sac tumor
+3028,37423,ovarian clear cell adenocarcinoma
+3029,37967,ovarian endometrioid adenocarcinoma
+3030,39615,borderline epithelial tumor of ovary
+3031,37150,malignant non-dysgerminomatous germ cell tumor of ovary
+3032,37152,familial ovarian cancer
+3033,83817,hereditary site-specific ovarian cancer syndrome
+3034,83818,primary non-gestational choriocarcinoma of ovary
+3035,37082,malignant germ cell tumor of ovary
+3036,39603,malignant sex cord stromal tumor of ovary
+3037,37047,immature ovarian teratoma
+3038,83819,malignant dysgerminomatous germ cell tumor of ovary
+3039,83820,maligant granulosa cell tumor of ovary
+3040,83821,malignant Sertoli-Leydig cell tumor of ovary
+3041,83822,"theca steroid-producing cell malignant tumor of ovary, not further specified"
+3042,35966,prostate cancer
+3043,36688,prostate neoplasm
+3044,35963,prostate carcinoma
+3045,30756,polycystic ovary syndrome
+3046,29220,hyperlipoproteinemia
+3047,33680,endometriosis (disease)
+3048,29061,endometriosis of uterus
+3049,35738,endometrial carcinoma (disease)
+3050,30827,endometrial cancer
+3051,37038,endometrium neoplasm
+3052,35739,uterine corpus cancer
+3053,37573,dementia (disease)
+3054,33598,stroke disorder
+3055,35909,cerebrovascular disorder
+3056,30382,obsolete susceptibility to ischemic stroke
+3057,38040,cerebral infarction
+3058,33699,pulmonary embolism (disease)
+3059,29075,thrombophilia
+3060,36330,hepatic porphyria
+3061,37180,myocardial infarction (disease)
+3062,83823,coronary thrombosis
+3063,83824,myocardial infarction
+3064,35958,hemoglobinopathy
+3065,83825,metastasis from malignant tumor of colon
+3066,33632,anemia (disease)
+3067,33623,macrocytic anemia (disease)
+3068,29173,small cell lung carcinoma
+3069,36645,hyperbilirubinemia
+3070,38312,hereditary hyperbilirubinemia
+3071,27476,Gilbert syndrome
+3072,83826,anaplastic astrocytoma
+3073,36983,astrocytoma (excluding glioblastoma)
+3074,33594,diarrheal disease
+3075,33688,non-small cell lung carcinoma (disease)
+3076,31116,lung cancer
+3077,39293,brain glioblastoma
+3078,89218,Ewing sarcoma
+3079,36881,pancreatic adenocarcinoma
+3080,91614,Clostridium difficile colitis
+3081,83828,perinatal necrotizing enterocolitis
+3082,35546,tonsillitis
+3083,83829,infectious otitis media
+3084,36117,streptococcal infection
+3085,28208,type 2 diabetes mellitus
+3086,83830,ocular hypertension
+3087,29865,Lennox-Gastaut syndrome
+3088,32456,cutis verticis gyrata
+3089,36307,amnestic disorder
+3090,83833,retrograde amnesia
+3091,83834,central nervous system origin vertigo
+3092,33651,seborrheic dermatitis
+3093,83835,pityriasis simplex
+3094,35462,folliculitis
+3095,36924,dermatitis
+3096,37815,amebiasis
+3097,32326,amoebiasis due to Entamoeba histolytica
+3098,36080,respiratory failure
+3099,36398,angle-closure glaucoma
+3100,83836,closed-angle glaucoma
+3101,38515,chronic primary adrenal insufficiency
+3102,30602,familial adrenal hypoplasia with absent pituitary luteinizing hormone
+3103,27648,familial glucocorticoid deficiency
+3104,27878,X-linked adrenal hypoplasia congenita
+3105,32584,inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency
+3106,28552,type 1 diabetes mellitus
+3107,30877,IDDM 1
+3108,27478,renal tubular acidosis
+3109,31650,myasthenia gravis
+3110,83837,adult-onset myasthenia gravis
+3111,39491,neuromuscular junction disease
+3112,33459,malignant hyperthermia of anesthesia
+3113,83838,exercise-induced malignant hyperthermia
+3114,35833,lung disease
+3115,83839,obsolete rare pulmonary disease
+3116,83840,unipolar depression
+3117,83841,endogenous depression
+3118,38957,major depressive disorder
+3119,83842,anorexia nervosa
+3120,38945,bulimia nervosa
+3121,35664,vitamin deficiency disorder
+3122,38059,cholestasis
+3123,31033,benign recurrent intrahepatic cholestasis
+3124,32629,familial intrahepatic cholestasis
+3125,37574,bacterial pneumonia
+3126,37702,Pseudomonas aeruginosa infectious disease
+3127,32649,meningococcal infection
+3128,32710,inhalational anthrax
+3129,36339,anthrax infection
+3130,36442,cholangitis
+3131,83843,suppurative cholangitis
+3132,27700,sclerosing cholangitis
+3133,83844,IgG4-related sclerosing cholangitis
+3134,33333,melioidosis
+3135,36334,peritonitis
+3136,35878,bacterial meningitis
+3137,83845,viral meningitis
+3138,83846,pneumococcal meningitis
+3139,38087,streptococcal meningitis
+3140,33334,nocardiosis
+3141,37879,pneumonia caused by gram negative bacteria
+3142,35523,gastrointestinal anthrax
+3143,83847,Campylobacter fetus infectious disease
+3144,35761,cardiovascular disease
+3145,35669,heart disease
+3146,37919,adrenal gland pheochromocytoma
+3147,31122,phaeochromocytoma
+3148,35894,duodenum cancer
+3149,35895,small intestine cancer
+3150,36149,heart cancer
+3151,36860,adrenal gland cancer
+3152,35735,sympathetic paraganglioma
+3153,33707,skin carcinoma
+3154,37738,basal cell carcinoma
+3155,37009,sweat gland cancer
+3156,36240,carcinoma
+3157,37166,sebaceous adenocarcinoma
+3158,30826,familial prostate carcinoma
+3159,83848,hyperphosphatemia (disease)
+3160,39126,chronic diarrheal disease
+3161,83849,Plasmodium vivax malaria
+3162,37826,toxoplasmosis
+3163,83850,hirudiniasis
+3164,37855,myiasis
+3165,83851,Plasmodium falciparum malaria
+3166,33128,malaria
+3167,32638,babesiosis
+3168,33210,pneumocystosis
+3169,28520,myeloid leukemia
+3170,37714,unclassified acute myeloid leukemia
+3171,83852,acute myeloid leukemia with minimal differentiation
+3172,83853,acute myeloblastic leukemia without maturation
+3173,83854,acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor
+3174,83855,acute myeloid leukemia with t(8;21)(q22;q22) translocation
+3175,38274,inherited acute myeloid leukemia
+3176,83856,acute myeloid leukemia with CEBPA somatic mutations
+3177,83857,acute myeloid leukemia with t(8;16)(p11;p13) translocation
+3178,83858,acute myeloid leukemia with t(6;9)(p23;q34)
+3179,83859,acute myeloid leukemia with t(9;11)(p22;q23)
+3180,83860,acute myeloid leukemia with inv3(p21;q26.2) or t(3;3)(p21;q26.2)
+3181,83861,acute myeloid leukemia with NPM1 somatic mutations
+3182,39124,therapy related acute myeloid leukemia and myelodysplastic syndrome
+3183,83862,acute myeloblastic leukemia with maturation
+3184,35616,testicular cancer
+3185,28920,testicular germ cell tumor
+3186,37343,testicular seminoma
+3187,83863,testicular teratoma
+3188,83864,spermatocytic seminoma
+3189,37179,seminoma
+3190,36050,head and neck cancer
+3191,83865,upper aerodigestive tract neoplasm
+3192,31756,urinary bladder cancer
+3193,33642,urinary bladder carcinoma
+3194,35624,urinary bladder neoplasm
+3195,33464,urinary bladder small cell neuroendocrine carcinoma
+3196,83866,non-papillary transitional cell carcinoma of the bladder
+3197,83867,paracetamol poisoning
+3198,36540,sarcoma
+3199,36078,soft tissue sarcoma
+3200,35612,cancer
+3201,83868,Richter syndrome
+3202,36004,gastric adenocarcinoma
+3203,29646,hepatocellular carcinoma
+3204,36634,liver cancer
+3205,83869,fibrolamellar hepatocellular carcinoma
+3206,32621,pediatric hepatocellular carcinoma
+3207,36999,adenocarcinoma of liver and intrahepatic biliary tract
+3208,83870,undifferentiated carcinoma of liver and intrahepatic biliary tract
+3209,37115,squamous cell carcinoma of liver and intrahepatic biliary tract
+3210,37311,squamous cell lung carcinoma
+3211,35727,metastatic melanoma
+3212,30494,plasma cell myeloma
+3213,29361,acute promyelocytic leukemia
+3214,37785,ulcerative colitis (disease)
+3215,30039,"chronic myelogenous leukemia, BCR-ABL1 positive"
+3216,29118,acquired polycythemia vera
+3217,36825,plasmacytoma
+3218,33590,polycythemia (disease)
+3219,37570,myeloproliferative neoplasm
+3220,37676,bone marrow neoplasm
+3221,27610,primary myelofibrosis
+3222,83871,myelofibrosis
+3223,83872,Coronavinae infectious disease
+3224,29229,glaucoma
+3225,36034,hyperthyroidism
+3226,93493,Graves disease
+3227,29175,thyrotoxicosis
+3228,83874,paralytic ileus (disease)
+3229,36785,intestinal obstruction
+3230,32778,familial visceral myopathy
+3231,28374,gastroesophageal reflux disease
+3232,33714,esophagitis (disease)
+3233,83878,peptic esophagitis
+3234,83880,folic acid deficiency anemia
+3235,83882,granuloma annulare
+3236,35931,peripheral vascular disease
+3237,83883,intermittent vascular claudication
+3238,39798,peripheral arterial disease
+3239,33654,uveitis
+3240,36584,iris disease
+3241,37608,ciliary body disease
+3242,39245,panuveitis (disease)
+3243,83885,hypoglycemia
+3244,38244,diabetes insipidus
+3245,28294,neurohypophyseal diabetes insipidus
+3246,32772,central diabetes insipidus
+3247,83886,appendicitis
+3248,33440,thrombocytopenic purpura
+3249,39609,pharyngitis
+3250,33677,constipation disorder
+3251,83888,nasal cavity polyp
+3252,83889,dyspepsia
+3253,27656,congenital prothrombin deficiency
+3254,35535,tinea corporis
+3255,83893,tinea infection
+3256,33603,arteriosclerosis disorder
+3257,35953,atherosclerosis
+3258,37769,ventricular tachycardia
+3259,27503,catecholaminergic polymorphic ventricular tachycardia
+3260,27703,incessant infant ventricular tachycardia
+3261,83894,priapism
+3262,83897,common cold
+3263,83898,obsolete familial combined hyperlipidemia
+3264,30034,"hyperlipidemia, familial combined, LPL related"
+3265,29945,gastric cancer
+3266,36000,gastric neoplasm
+3267,31380,diffuse gastric adenocarcinoma
+3268,83899,gastric linitis plastica
+3269,37273,gastric carcinoma
+3270,28714,cystic fibrosis
+3271,32213,Waldenstrom macroglobulinemia
+3272,39883,lymphoplasmacytic lymphoma
+3273,83900,macroglobulinemia
+3274,83901,pulmonary edema
+3275,37786,myocardial ischemia
+3276,36187,coronary artery disease
+3277,33454,neuroleptic malignant syndrome
+3278,83903,post-traumatic stress disorder
+3279,83904,social phobia
+3280,36105,phobic disorder
+3281,83905,inappropriate ADH syndrome
+3282,28456,nephrogenic syndrome of inappropriate antidiuresis
+3283,39261,neuralgia
+3284,33091,serotonin syndrome
+3285,83906,status epilepticus
+3286,31072,pseudotumor cerebri
+3287,38066,intracranial hypertension
+3288,28899,obsessive-compulsive disorder
+3289,35897,pulmonary emphysema
+3290,36091,atopic conjunctivitis
+3291,83912,papillary conjunctivitis
+3292,83913,vernal conjunctivitis
+3293,37811,rhinitis
+3294,33306,necrotizing enterocolitis
+3295,35547,nasopharyngitis
+3296,83914,alcohol withdrawal delirium
+3297,36492,brain cancer
+3298,35790,brain neoplasm
+3299,32856,hereditary von Willebrand disease
+3300,39535,von Willebrand disease (hereditary or acquired)
+3301,27581,von Willebrand disease
+3302,39365,headache disorder
+3303,27502,familial lipoprotein lipase deficiency
+3304,30373,familial apolipoprotein C-II deficiency
+3305,30905,chylomicron retention disease
+3306,27755,familial chylomicronemia syndrome
+3307,28977,Cushing disease due to pituitary adenoma
+3308,38592,ACTH-dependent Cushing syndrome
+3309,39600,Cushing syndrome
+3310,35831,respiratory tract infectious disease
+3311,37549,staphylococcus aureus infection
+3312,37787,staphylococcal infection
+3313,83918,fibromyalgia
+3314,39701,myofascial pain syndrome
+3315,83919,aphthous stomatitis
+3316,33666,canker sore
+3317,37892,cutaneous candidiasis
+3318,36140,keratitis
+3319,32702,keratoconjunctivitis
+3320,37609,iritis (disease)
+3321,36855,bronchial disease
+3322,31790,cholelithiasis
+3323,83920,cholecystolithiasis
+3324,83921,choledocholithiasis
+3325,37607,iridocyclitis (disease)
+3326,37628,cholecystitis
+3327,31501,low phospholipid associated cholelithiasis
+3328,36893,biliary tract disease
+3329,83922,obstructive jaundice
+3330,29244,familial dermatographia
+3331,33683,urticaria (disease)
+3332,83925,obsolete vascular headache
+3333,83926,streptococcal pneumonia
+3334,35871,cytomegalovirus infection
+3335,36450,dysentery
+3336,39824,infectious diarrheal disease
+3337,36249,intestinal infectious disease
+3338,32999,shigellosis
+3339,38481,cryopyrin-associated periodic syndrome
+3340,32692,systemic-onset juvenile idiopathic arthritis
+3341,32325,juvenile idiopathic arthritis
+3342,31768,mevalonic aciduria
+3343,38736,mevalonate kinase deficiency
+3344,32202,familial Mediterranean fever
+3345,30773,autosomal recessive familial Mediterranean fever
+3346,30937,autosomal dominant familial periodic fever
+3347,28313,schizophrenia
+3348,83928,partial motor epilepsy
+3349,83929,tinea unguium
+3350,83930,pityriasis versicolor
+3351,83931,dermatophytosis of groin and perianal area
+3352,32764,chromomycosis
+3353,38512,female infertility
+3354,36414,male infertility
+3355,29505,male infertility due to large-headed multiflagellar polyploid spermatozoa
+3356,30823,Young syndrome
+3357,38126,male infertility due to globozoospermia
+3358,38938,non-syndromic male infertility due to sperm motility disorder
+3359,39466,male infertility due to gonadal dysgenesis or sperm disorder
+3360,39438,male infertility due to sperm disorder
+3361,39176,male infertility with spermatogenesis disorder
+3362,39467,male infertility with spermatogenesis disorder due to single gene mutation
+3363,32388,male infertility with azoospermia or oligozoospermia due to single gene mutation
+3364,32368,male infertility with teratozoospermia due to single gene mutation
+3365,38997,male infertility due to sperm motility disorder
+3366,37589,male infertility due to obstructive azoospermia
+3367,83932,rare idiopathic male infertility
+3368,31481,bone osteosarcoma
+3369,83933,idiopathic urticaria
+3370,27304,mucopolysaccharidosis
+3371,83934,thrombocytopenia due to immune destruction
+3372,83935,pancreatic insulinoma
+3373,32272,pancreatic insulin-producing neuroendocrine tumor
+3374,35916,dry eye syndrome
+3375,83938,xerophthalmia
+3376,28764,Sjogren syndrome
+3377,30094,antithrombin III deficiency
+3378,36325,diabetic retinopathy
+3379,83940,diabetic cataract
+3380,35849,disseminated intravascular coagulation
+3381,39484,purpura fulminans
+3382,32296,acquired purpura fulminans
+3383,33670,endocarditis
+3384,83939,subacute bacterial endocarditis
+3385,30741,varicose disease
+3386,33358,West syndrome
+3387,28005,developmental and epileptic encephalopathy
+3388,29528,Peyronie disease
+3389,83946,penile fibromatosis
+3390,83947,balanitis xerotica obliterans
+3391,37760,elephantiasis
+3392,37759,lymphedema
+3393,32524,filarial elephantiasis
+3394,83948,loiasis
+3395,37835,filariasis
+3396,37870,onchocerciasis
+3397,38437,pulmonary hypertension
+3398,36119,bladder calculus
+3399,83950,stone in bladder diverticulum
+3400,83951,Plasmodium ovale malaria
+3401,83952,obsolete vitamin D deficiency
+3402,39444,osteomalacia (disease)
+3403,33626,rickets (disease)
+3404,38409,bone Paget disease
+3405,31137,juvenile Paget disease
+3406,35985,periodontitis
+3407,29273,osteoarthritis susceptibility
+3408,33609,osteoarthritis
+3409,36209,arthropathy
+3410,83955,frozen shoulder
+3411,83958,oral candidiasis
+3412,35873,candidiasis
+3413,83959,ulcerative proctosigmoiditis
+3414,27248,amyotrophic lateral sclerosis
+3415,28780,Alzheimer disease
+3416,83960,Alzheimer disease without neurofibrillary tangles
+3417,38575,cerebellar degeneration
+3418,83911,Reye syndrome
+3419,28473,Pick disease
+3420,28772,Gaucher disease
+3421,38436,pulmonary arterial hypertension
+3422,83961,duodenal ulcer (disease)
+3423,83962,Prinzmetal angina
+3424,38084,esophageal ulcer
+3425,35993,esophageal disease
+3426,29402,esophageal cancer
+3427,32924,carcinoma of esophagus
+3428,83964,bruxism (disease)
+3429,32149,Duchenne muscular dystrophy
+3430,31181,muscular dystrophy
+3431,30669,Becker muscular dystrophy
+3432,37777,Clostridium infectious disease
+3433,33027,scleroderma (disease)
+3434,33228,localized scleroderma
+3435,33225,systemic sclerosis
+3436,83965,acute gonococcal cervicitis
+3437,83966,maxillary sinusitis
+3438,35983,gonorrhea
+3439,37397,chronic lymphocytic leukemia/small lymphocytic lymphoma
+3440,38078,gingivitis
+3441,33625,hypophosphatemia (disease)
+3442,31208,hypoalphalipoproteinemia
+3443,32950,Lyme disease
+3444,37640,actinomycosis
+3445,83970,erythrasma
+3446,37803,Actinomycetales infectious disease
+3447,83971,necrotizing ulcerative gingivitis
+3448,83972,erysipelas
+3449,36468,anaerobic bacteria infectious disease
+3450,83973,scarlet fever
+3451,83974,staphylococcal scarlet fever
+3452,83975,cycloplegia
+3453,83976,irritable bowel syndrome
+3454,83977,neurocirculatory asthenia
+3455,35592,smallpox
+3456,83978,exanthema subitum
+3457,83979,variola major infectious disease
+3458,83980,contagious pustular dermatitis
+3459,83981,cowpox
+3460,83982,milker's nodule
+3461,83983,erythema infectiosum
+3462,27591,myotonia congenita
+3463,83984,gastroparesis (disease)
+3464,28811,cystinuria
+3465,27292,glycogen storage disease
+3466,36372,G6PD deficiency
+3467,27286,galactosemia
+3468,83831,acute urate nephropathy
+3469,38640,gestational trophoblastic neoplasm
+3470,30264,letterer-Siwe disease
+3471,33188,neuroblastoma
+3472,32651,coccidioidomycosis
+3473,83985,tinea manuum
+3474,83986,vulvovaginal candidiasis
+3475,33316,leishmaniasis
+3476,83987,esophageal candidiasis
+3477,91609,Cryptococcal meningitis
+3478,83989,candidemia
+3479,35956,histoplasmosis
+3480,83990,white piedra
+3481,33216,aspergillosis
+3482,83991,black piedra
+3483,39809,sporotrichosis
+3484,83992,disseminated candidiasis
+3485,83993,blastomycosis
+3486,83994,hemorrhagic disease of newborn
+3487,37604,erectile dysfunction (disease)
+3488,83995,psychologic dyspareunia
+3489,83996,premature ejaculation (disease)
+3490,28869,macular degeneration
+3491,33064,retinal artery occlusion
+3492,83997,diabetic macular edema
+3493,38916,pituitary dwarfism
+3494,32468,postencephalitic Parkinson disease
+3495,31348,tardive dyskinesia (disease)
+3496,83998,lingual-facial-buccal dyskinesia
+3497,37706,parkinsonian disorder
+3498,32090,congenital sucrase-isomaltase deficiency
+3499,35549,otitis externa
+3500,36088,conjunctivitis
+3501,84002,acute contagious conjunctivitis
+3502,84003,invasive non-typhoidal salmonellosis
+3503,84004,malignant otitis externa caused by Pseudomonas aeruginosa
+3504,84005,rhinoscleroma
+3505,39805,bacterial arthritis
+3506,84006,chancroid
+3507,33314,leptospirosis
+3508,84007,lymphogranuloma venereum
+3509,36007,yaws
+3510,35682,cystitis
+3511,84008,trigonitis
+3512,36243,prostatitis (disease)
+3513,84009,escherichia coli infection
+3514,84010,cutaneous anthrax
+3515,37612,external ear disease
+3516,32729,botulism
+3517,35548,skin disease caused by infection
+3518,84011,drug-induced akathisia
+3519,28813,myelodysplastic syndrome
+3520,27664,idiopathic aplastic anemia
+3521,36344,aplastic anemia
+3522,31523,"essential hypertension, genetic"
+3523,28640,nonpapillary renal cell carcinoma
+3524,36935,renal cell adenocarcinoma
+3525,33643,renal cell carcinoma (disease)
+3526,36937,clear cell renal carcinoma
+3527,32909,medullary thyroid gland carcinoma
+3528,84012,staphylococcus aureus pneumonia
+3529,84013,Klebsiella pneumonia
+3530,84014,Mycoplasma pneumoniae pneumonia
+3531,84015,Legionnaires' disease
+3532,33292,legionellosis
+3533,32664,fusariosis
+3534,84018,penicilliosis
+3535,37659,heart failure
+3536,37565,delirium
+3537,39815,visual epilepsy
+3538,38038,alcohol withdrawal
+3539,30715,Wernicke-Korsakoff syndrome
+3540,84019,anxiety
+3541,36312,transient ischemic attack (disease)
+3542,84020,vertebrobasilar insufficiency
+3543,33179,porphyria cutanea tarda
+3544,28985,familial porphyria cutanea tarda
+3545,30961,sporadic porphyria cutanea tarda
+3546,39052,inborn disorder of porphyrin metabolism
+3547,32977,inherited porphyria
+3548,29134,erythropoietic protoporphyria
+3549,33555,autosomal erythropoietic protoporphyria
+3550,27843,acute intermittent porphyria
+3551,84021,pregnancy disorder with abortive outcome
+3552,84022,multidrug-resistant tuberculosis
+3553,37845,herpes zoster
+3554,39081,hyperprolactinemia (disease)
+3555,28375,familial hyperprolactinemia
+3556,29637,prolactin producing pituitary gland tumor
+3557,84023,acquired hyperprolactinemia
+3558,36241,hepatitis
+3559,84024,ascaridiasis
+3560,31107,cervical cancer
+3561,84025,cervical carcinosarcoma
+3562,36665,cervical carcinoma
+3563,28900,familial isolated deficiency of vitamin E
+3564,31820,abetalipoproteinemia
+3565,84026,obsolete atrophic vulva
+3566,84027,postmenopausal atrophic vaginitis
+3567,30459,motion sickness
+3568,38708,primary cutaneous T-cell non-Hodgkin lymphoma
+3569,84028,neurodermatitis
+3570,38021,lichen disease
+3571,84029,chickenpox
+3572,84030,discoid lupus erythematosus
+3573,39533,chronic cutaneous lupus erythematosus
+3574,38342,lupus erythematosus
+3575,84031,pneumonia caused by chlamydia
+3576,33543,boutonneuse fever
+3577,35520,spotted fever
+3578,84032,pertussis
+3579,27647,hypoparathyroidism
+3580,32827,hepatic veno-occlusive disease
+3581,30317,hepatic veno-occlusive disease-immunodeficiency syndrome
+3582,39455,short bowel syndrome
+3583,84033,dumping syndrome
+3584,36456,postgastrectomy syndrome
+3585,38720,hyperinsulinemic hypoglycemia
+3586,29606,islet cell adenomatosis
+3587,30471,"hyperinsulinemic hypoglycemia, familial"
+3588,38889,congenital isolated hyperinsulinism
+3589,36376,endocrine pancreas disease
+3590,35646,vitamin B12 deficiency
+3591,39692,esophageal varices
+3592,84034,esophageal varices with bleeding
+3593,32847,acromegaly
+3594,37854,hyperpituitarism
+3595,33104,carcinoid syndrome
+3596,35537,non-infectious diarrheal disease
+3597,84035,carcinoid crisis
+3598,28194,Raynaud disease
+3599,27921,attention deficit-hyperactivity disorder
+3600,84036,"attention deficit hyperactivity disorder, inattentive type"
+3601,84038,giardiasis
+3602,33597,pneumothorax (disease)
+3603,30612,Leber hereditary optic neuropathy
+3604,31606,glutaryl-CoA dehydrogenase deficiency
+3605,30653,multiple acyl-CoA dehydrogenase deficiency
+3606,35955,pericarditis (disease)
+3607,30800,juvenile arthritis due to defect in LACC1
+3608,36265,spondyloarthropathy
+3609,84040,epicondylitis
+3610,39868,anaphylaxis
+3611,27692,temporal arteritis
+3612,32986,polyarteritis nodosa
+3613,84041,single-organ polyarteritis nodosa
+3614,30511,anti-glomerular basement membrane disease
+3615,32099,granulomatosis with polyangiitis
+3616,32123,Takayasu arteritis
+3617,36041,myocarditis
+3618,37523,inflammation of heart layer
+3619,32807,rheumatic fever
+3620,84042,acute articular rheumatism
+3621,35750,musculoskeletal system disease
+3622,29715,chondrocalcinosis
+3623,84043,polymyalgia rheumatica
+3624,36123,vasculitis
+3625,84044,miliary tuberculosis
+3626,38941,celiac disease
+3627,84045,refractory celiac disease
+3628,33194,bullous pemphigoid
+3629,84046,intracranial vasospasm
+3630,37128,pyelonephritis
+3631,84047,chronic tubotympanic suppurative otitis media
+3632,32393,staphylococcal pneumonia
+3633,38100,urethritis (disease)
+3634,84048,acute gonococcal endometritis
+3635,35552,pneumonia
+3636,84050,multifocal atrial tachycardia (disease)
+3637,32495,His bundle tachycardia
+3638,84051,cytomegalovirus retinitis
+3639,36138,diabetic neuropathy
+3640,84052,diabetic polyneuropathy
+3641,84053,punctate epithelial keratoconjunctivitis
+3642,39828,rosacea
+3643,35988,infectious anterior uveitis
+3644,33526,idiopathic uveitis
+3645,84055,ophthalmic herpes zoster
+3646,36954,endometritis
+3647,35471,pulmonary fibrosis
+3648,84056,postinflammatory pulmonary fibrosis
+3649,38476,severe pre-eclampsia
+3650,33512,preeclampsia
+3651,84058,cardiac arrest
+3652,84059,digitalis poisoning
+3653,39880,ventricular fibrillation (disease)
+3654,35930,malignant hypertension
+3655,84060,acute diarrhea
+3656,35766,thrombotic disease
+3657,84061,tropical sprue
+3658,84064,intracranial embolism
+3659,31144,primary biliary cholangitis
+3660,29955,Reynolds syndrome
+3661,31541,cerebrotendinous xanthomatosis
+3662,84065,obsolete contact dermatitis caused by poison oak
+3663,32844,refractory anemia
+3664,33585,adrenal gland hyperfunction
+3665,33611,megaloblastic anemia (disease)
+3666,84066,cyanide poisoning
+3667,84067,Pthirus pubis infestation
+3668,84068,Pediculus humanus corporis infestation
+3669,84069,Pediculus humanus capitis infestation
+3670,33494,pyoderma gangrenosum
+3671,33293,leprosy
+3672,32734,mycetoma
+3673,32522,subcorneal pustular dermatosis
+3674,37715,vesiculobullous skin disease
+3675,32381,mucous membrane pemphigoid
+3676,84070,ocular pemphigoid
+3677,33299,homozygous familial hypercholesterolemia
+3678,84071,bacterial vaginosis
+3679,36199,vaginitis (disease)
+3680,38102,vulvitis
+3681,37893,vulvovaginitis
+3682,37805,HIV infectious disease
+3683,84072,AIDS
+3684,33574,amenorrhea (disease)
+3685,84075,ascorbic acid deficiency
+3686,29448,scurvy
+3687,84076,cat-scratch disease
+3688,84077,Rocky mountain spotted fever
+3689,36216,trypanosomiasis
+3690,35588,typhus
+3691,32959,Q fever
+3692,36106,chlamydia trachomatis infectious disease
+3693,37820,chlamydia infectious disease
+3694,32932,brucellosis
+3695,32949,relapsing fever
+3696,35601,syphilis
+3697,84078,ornithosis
+3698,84079,trachoma
+3699,33332,tularemia
+3700,33193,plague
+3701,37862,granuloma inguinale
+3702,36046,sinusitis
+3703,84080,gonococcal epididymo-orchitis
+3704,30276,enterocolitis (disease)
+3705,35538,gastroenteritis
+3706,84081,rickettsialpox
+3707,84082,Japanese spotted fever
+3708,32875,Zollinger-Ellison syndrome
+3709,39537,gastrin secretion abnormality
+3710,33659,hyperinsulinism (disease)
+3711,38191,familial hypertrophic cardiomyopathy
+3712,33567,corneal ulcer
+3713,30749,thyroid gland carcinoma
+3714,31918,phenylketonuria
+3715,38741,disorder of phenylalanine metabolism
+3716,37627,hemorrhoid
+3717,39498,systemic mastocytosis
+3718,28542,mastocytosis
+3719,28426,multiple endocrine neoplasia
+3720,31502,Wilson disease
+3721,36214,iron metabolism disease
+3722,38641,hereditary hemochromatosis
+3723,31937,acrodermatitis enteropathica
+3724,32012,congenital alveolar capillary dysplasia
+3725,84085,persistent fetal circulation syndrome
+3726,84086,anemia of prematurity
+3727,84087,iron deficiency anemia
+3728,33589,hypochromic anemia
+3729,36315,deficiency anemia
+3730,33622,microcytic anemia
+3731,84088,acneiform dermatitis
+3732,33586,atrioventricular block (disease)
+3733,32990,precocious puberty
+3734,31745,aromatase excess syndrome
+3735,29908,familial male-limited precocious puberty
+3736,84089,mycotic corneal ulcer
+3737,84090,neonatal thyrotoxicosis
+3738,28445,Creutzfeldt Jacob disease
+3739,32477,Creutzfeldt-Jakob disease
+3740,38072,human prion disease
+3741,38018,keratinization disease
+3742,36593,blepharoconjunctivitis
+3743,36302,dacryocystitis
+3744,36170,peritoneum cancer
+3745,37975,primary malignant peritoneal tumor
+3746,32623,primary peritoneal carcinoma (disease)
+3747,84091,primary peritoneal serous/papillary carcinoma
+3748,32307,desmoplastic small round cell tumor
+3749,36618,ovarian epithelial tumor
+3750,37718,brain ischemia
+3751,27522,Noonan syndrome
+3752,27609,Prader-Willi syndrome
+3753,31531,"hypogonadism, male"
+3754,84093,eunuchism
+3755,84094,premature menopause
+3756,31630,androgen insensitivity syndrome
+3757,30073,cryptorchidism (disease)
+3758,84095,Klinefelter syndrome
+3759,32518,trisomy 13
+3760,39821,keloid
+3761,27925,keloid formation
+3762,29689,alopecia areata
+3763,32619,lichen planus
+3764,84096,sympathetic ophthalmia
+3765,84097,subacute bursitis
+3766,36696,prostate adenocarcinoma
+3767,32220,acquired hemophilia
+3768,36108,extrinsic allergic alveolitis
+3769,37548,hypersensitivity pneumonitis
+3770,84099,farmer's lung disease
+3771,84100,thyroid crisis (disease)
+3772,29194,gastrointestinal stromal tumor
+3773,32598,cryptosporidiosis
+3774,84102,mild pre-eclampsia
+3775,35533,dermatophytosis
+3776,84103,tinea favosa
+3777,36306,dermatomycosis
+3778,35543,fungal infectious disease
+3779,32760,tricuspid atresia (disease)
+3780,27670,aorta coarctation
+3781,32363,autosomal dominant coarctation of aorta
+3782,84104,atypical coarctation of aorta
+3783,27857,tetralogy of fallot
+3784,84105,double outlet right ventricle with subaortic or doubly committed ventricular septal defect with pulmonary stenosis
+3785,84106,epiglottitis
+3786,28448,thromboangiitis obliterans
+3787,37653,mature T-cell and NK-cell non-Hodgkin lymphoma
+3788,84107,"peripheral T-cell lymphoma, not otherwise specified"
+3789,84108,primary cutaneous peripheral T-cell lymphoma not otherwise specified
+3790,84109,primary cutaneous CD4+ small/medium-sized pleomorphic T-cell lymphoma
+3791,84110,primary cutaneous aggressive epidermotropic CD8+ T-cell lymphoma
+3792,84111,primary cutaneous gamma/delta-positive T-cell lymphoma
+3793,35732,malignant epithelial tumor of ovary
+3794,32249,Zygomycosis
+3795,33704,recurrent pneumonia (disease)
+3796,35587,mycobacterial infectious disease
+3797,32626,cholera
+3798,84112,Listeria meningitis
+3799,84113,paracoccidioidomycosis
+3800,33359,Whipple disease
+3801,39803,Yersinia pseudotuberculosis infectious disease
+3802,39795,pasteurellosis
+3803,36348,gonococcal infection of joint
+3804,84114,Escherichia coli meningitis
+3805,84115,Peptostreptococcus infectious disease
+3806,38103,Yersinia infectious disease
+3807,84116,Yersinia enterocolitica infectious disease
+3808,84117,"sleep disorder, initiating and maintaining sleep"
+3809,27430,Niemann-Pick disease
+3810,31283,Tourette syndrome
+3811,84121,endomyometritis
+3812,32503,human African trypanosomiasis
+3813,84122,burn
+3814,36223,malignant colon neoplasm
+3815,28849,colorectal cancer
+3816,36581,colonic neoplasm
+3817,37144,squamous cell carcinoma of colon
+3818,84123,furunculosis
+3819,84124,endemic typhus
+3820,32879,neurotrophic keratopathy
+3821,32918,vernal keratoconjunctivitis
+3822,84125,superior limbic keratoconjunctivitis
+3823,36310,Rickettsiosis
+3824,37882,pneumococcal infection
+3825,84127,exposure keratitis
+3826,33297,listeriosis
+3827,37559,paronychia (disease)
+3828,84128,Brill-Zinsser disease
+3829,37816,epidemic louse-borne typhus
+3830,84129,relapsing epidemic typhus
+3831,35518,ehrlichiosis
+3832,35844,bartonellosis
+3833,33542,scrub typhus
+3834,84130,HER2 positive breast carcinoma
+3835,31493,pancreatitis
+3836,84132,acquired keratosis
+3837,31176,palmoplantar keratoderma
+3838,84133,plantar wart
+3839,36944,thyroid cancer
+3840,32622,thyroid gland undifferentiated (anaplastic) carcinoma
+3841,31971,familial thyroid carcinoma
+3842,32194,familial papillary thyroid carcinoma with renal papillary neoplasia
+3843,37668,differentiated thyroid carcinoma
+3844,33296,familial papillary or follicular thyroid carcinoma
+3845,84134,endemic goiter
+3846,27718,"goiter, multinodular 1, with or without Sertoli-Leydig cell tumors"
+3847,84135,substernal goiter
+3848,84136,fascioliasis
+3849,28391,narcolepsy
+3850,33324,narcolepsy-cataplexy syndrome
+3851,35742,central nervous system disease
+3852,84092,Balo concentric sclerosis
+3853,30664,X-linked adrenoleukodystrophy
+3854,33619,mitral valve prolapse (disease)
+3855,38947,familial mitral valve prolapse
+3856,31911,MVP1
+3857,84137,congenital mitral valve insufficiency
+3858,33350,growth hormone insensitivity syndrome
+3859,30816,Laron syndrome
+3860,28536,thrombocythemia
+3861,32293,familial thrombocytosis
+3862,33645,infectious meningitis
+3863,35974,meningitis (disease)
+3864,28332,arachnoiditis
+3865,84139,IgG4-related pachymeningitis
+3866,36702,stomatitis
+3867,35501,chorioretinitis (disease)
+3868,84140,neuroretinitis
+3869,39366,choroiditis
+3870,35870,retinitis
+3871,84141,collagenous colitis
+3872,32823,congenital toxoplasmosis
+3873,84142,vitamin A deficiency (disease)
+3874,29820,pernicious anemia
+3875,37603,homocystinuria (disease)
+3876,39044,methylmalonic acidemia
+3877,27913,Stargardt disease
+3878,28402,severe early-childhood-onset retinal dystrophy
+3879,35971,esotropia
+3880,37151,embryonal carcinoma
+3881,33510,pituicytoma
+3882,84143,giant cell glioblastoma
+3883,39297,diffuse astrocytoma
+3884,84144,protoplasmic astrocytoma
+3885,84145,fibrillary astrocytoma
+3886,84146,gemistocytic astrocytoma
+3887,84147,pleomorphic xanthoastrocytoma
+3888,36988,juvenile pilocytic astrocytoma
+3889,84148,pilomyxoid astrocytoma
+3890,35701,oligodendroglial tumor
+3891,84149,anaplastic oligodendroglioma
+3892,37184,anaplastic ependymoma
+3893,39299,oligoastrocytoma
+3894,84150,anaplastic oligoastrocytoma
+3895,84151,angiocentric glioma
+3896,84152,chordoid glioma of the third ventricle
+3897,84153,astroblastoma
+3898,37438,ependymoblastoma
+3899,39301,neuroepithelial neoplasm
+3900,32214,glioblastoma (disease)
+3901,32636,peripheral primitive neuroectodermal tumor
+3902,37398,embryonal carcinoma of the central nervous system
+3903,35884,diffuse large B-cell lymphoma
+3904,36425,primary central nervous system lymphoma
+3905,84154,"primary cutaneous diffuse large B-cell lymphoma, Leg type"
+3906,84155,Epstein-Barr virus-positive diffuse large B-cell lymphoma of the elderly
+3907,84156,plasmablastic lymphoma
+3908,84157,diffuse large B-cell lymphoma of the central nervous system
+3909,84158,T-cell/histiocyte rich large B cell lymphoma
+3910,84159,ALK-positive large B-cell lymphoma
+3911,84160,primary mediastinal large B-cell lymphoma
+3912,84161,intravascular large B-cell lymphoma
+3913,84162,renal osteodystrophy
+3914,33249,interstitial cystitis
+3915,84166,herpes labialis
+3916,39532,subarachnoid hemorrhage (disease)
+3917,32930,acquired aneurysmal subarachnoid hemorrhage
+3918,84167,gestational diabetes
+3919,33385,acute interstitial pneumonia
+3920,30661,idiopathic pulmonary fibrosis
+3921,38435,idiopathic interstitial pneumonia
+3922,84168,relapsing-remitting multiple sclerosis
+3923,28745,dermatomyositis
+3924,84169,pyridoxine deficiency anemia
+3925,84170,alcoholic hepatitis
+3926,36198,impetigo
+3927,32392,bullous impetigo
+3928,33451,Lambert-Eaton myasthenic syndrome
+3929,35659,progressive multiple sclerosis
+3930,84171,ophthalmia neonatorum
+3931,29771,lactose intolerance
+3932,33068,chronic thromboembolic pulmonary hypertension
+3933,39493,bronchiectasis
+3934,32537,idiopathic bronchiectasis
+3935,27203,intestinal obstruction in the newborn due to guanylate cyclase 2C deficiency
+3936,37758,meconium ileus
+3937,33591,amyloidosis (disease)
+3938,84174,AH amyloidosis
+3939,27710,AL amyloidosis
+3940,39743,drug-induced osteoporosis
+3941,38542,urea cycle disorder
+3942,30829,argininosuccinic aciduria
+3943,29034,hyperammonemia due to N-acetylglutamate synthase deficiency
+3944,29408,neonatal intrahepatic cholestasis due to citrin deficiency
+3945,84175,acute neonatal citrullinemia type I
+3946,84176,adult-onset citrullinemia type I
+3947,38931,citrin deficiency
+3948,84177,streptococcal toxic-shock syndrome
+3949,32283,wound botulism
+3950,32284,infant botulism
+3951,32290,intestinal botulism
+3952,32228,foodborne botulism
+3953,33347,toxin-mediated infectious botulism
+3954,32484,inhalational botulism
+3955,32473,iatrogenic botulism
+3956,84178,congenital syphilis
+3957,35590,neurosyphilis
+3958,84179,asymptomatic neurosyphilis
+3959,84180,tabes dorsalis
+3960,38083,Pasteurella multocida infectious disease
+3961,84181,latent yaws
+3962,32494,tetanus
+3963,84182,erysipeloid
+3964,39632,diphtheria
+3965,84183,latent syphilis
+3966,33329,rat-bite fever
+3967,84184,pinta disease
+3968,84185,bejel
+3969,35903,Treponema infectious disease
+3970,84186,cervicofacial actinomycosis
+3971,84187,lung abscess (disease)
+3972,35640,omphalitis
+3973,84188,tertiary lesion of yaws
+3974,84189,meningococcemia
+3975,32227,non-24-hour sleep-wake syndrome
+3976,84190,binge eating disorder
+3977,27275,neurofibromatosis
+3978,27869,"factor XIII, A subunit, deficiency"
+3979,35995,anus disease
+3980,84192,postherpetic neuralgia
+3981,32469,cystinosis
+3982,27421,nephropathic cystinosis
+3983,36147,arthritic joint disease
+3984,36453,hypogonadism
+3985,84193,ATTRV122I amyloidosis
+3986,33127,herpes simplex encephalitis
+3987,84194,genital herpes
+3988,35671,vascular disease
+3989,38419,familial periodic paralysis
+3990,33647,periodic paralysis (disease)
+3991,35507,myopathy
+3992,27428,hypokalemic periodic paralysis
+3993,84196,obstructive hydrocephalus
+3994,36429,hydrocephalus
+3995,39699,altitude sickness
+3996,39501,proctitis
+3997,32978,polymyositis
+3998,84199,juvenile polymyositis
+3999,36812,lung neoplasm
+4000,90237,Burkitt lymphoma
+4001,84200,mucocutaneous leishmaniasis
+4002,38998,visceral leishmaniasis
+4003,36440,purulent otitis media
+4004,32446,nephrogenic diabetes insipidus
+4005,36448,scabies
+4006,84201,Norwegian scabies
+4007,37530,mite infestation
+4008,39619,nutritional biotin deficiency
+4009,28555,biotinidase deficiency
+4010,29070,propionic acidemia
+4011,28786,holocarboxylase synthetase deficiency
+4012,31245,Huntington disease
+4013,29652,Huntington disease-like
+4014,33341,juvenile Huntington disease
+4015,32740,Huntington disease-like syndrome due to C9ORF72 expansions
+4016,29089,McLeod neuroacanthocytosis syndrome
+4017,84203,oppositional defiant disorder (disease)
+4018,84204,mixed anxiety and depressive disorder
+4019,38215,cluster headache syndrome
+4020,27770,paroxysmal Hemicrania
+4021,84207,hemicrania continua
+4022,84209,primary motor cortex epilepsy
+4023,84210,neonatal abstinence syndrome
+4024,33715,rhabdomyosarcoma (disease)
+4025,33158,kidney Wilms tumor
+4026,28873,Wilms tumor
+4027,36536,adenosarcoma
+4028,37334,breast carcinoma
+4029,35771,breast neoplasm
+4030,29887,Meniere disease
+4031,38359,endolymphatic hydrops
+4032,84211,overactive bladder (disease)
+4033,84212,obsolete neurogenic bladder (disease)
+4034,39622,cauda equina syndrome
+4035,84213,necrobiosis lipoidica
+4036,27950,paroxysmal nocturnal hemoglobinuria
+4037,84219,pustular psoriasis
+4038,37710,injury
+4039,84222,opisthorchiasis
+4040,36112,schistosomiasis
+4041,31039,Darier disease
+4042,84217,mongolian spot
+4043,28790,autosomal recessive inherited pseudoxanthoma elasticum
+4044,32259,lamellar ichthyosis
+4045,27513,autosomal recessive congenital ichthyosis
+4046,33648,ichthyosis (disease)
+4047,27791,bathing suit ichthyosis
+4048,33143,self-healing collodion baby
+4049,31218,congenital ichthyosiform erythroderma
+4050,27310,Sjogren-Larsson syndrome
+4051,84225,denture stomatitis
+4052,33482,cystic echinococcosis
+4053,32593,cysticercosis
+4054,39468,echinococcus granulosus infectious disease
+4055,84226,postpartum depression
+4056,32306,narcolepsy without cataplexy
+4057,32631,Castleman disease
+4058,33450,Kimura disease
+4059,84229,nicotine dependence
+4060,84231,Plasmodium malariae malaria
+4061,84232,polymorphic light eruption
+4062,31634,actinic prurigo
+4063,38905,hydroa vacciniforme
+4064,36132,cutaneous vasculitis
+4065,39015,exocrine pancreatic insufficiency
+4066,36158,rheumatologic disorder
+4067,29275,lymphangioleiomyomatosis
+4068,84233,twin reversal arterial perfusion syndrome
+4069,28861,patent ductus arteriosus
+4070,27629,Bartter disease
+4071,39275,primary aldosteronism
+4072,39276,hyperaldosteronism
+4073,28419,Liddle syndrome
+4074,32829,Turner syndrome
+4075,32635,monosomy X
+4076,37763,gonadal dysgenesis
+4077,39404,Bell's palsy
+4078,36317,facial paralysis
+4079,31509,familial recurrent peripheral facial palsy
+4080,33562,hemangioma
+4081,33705,cavernous hemangioma
+4082,29587,hereditary neurocutaneous angioma
+4083,30533,cavernous hemangiomas of face-supraumbilical midline raphe syndrome
+4084,28851,Kasabach-Merritt syndrome
+4085,27684,pulmonary venoocclusive disease
+4086,30635,primary intraosseous venous malformation
+4087,30820,tufted angioma (disease)
+4088,32241,laryngotracheal angioma
+4089,32222,congenital hemangioma
+4090,84235,epithelioid hemangioendothelioma
+4091,84236,spindle cell hemangioma
+4092,84237,kaposiform hemangioendothelioma
+4093,36589,glomus tumor
+4094,84238,composite hemangioendothelioma
+4095,84239,retiform hemangioendothelioma
+4096,84240,primary intralymphatic angioendothelioma
+4097,33276,verrucous hemangioma
+4098,33398,retinal capillary malformation
+4099,36025,lymphangioma
+4100,84241,placental hemangioma
+4101,37753,opiate dependence
+4102,84242,morphine dependence
+4103,36691,breast cancer
+4104,28347,hereditary breast carcinoma
+4105,84243,squamous cell carcinoma of the corpus uteri
+4106,84244,undifferentiated carcinoma of the corpus uteri
+4107,30061,Felty syndrome
+4108,84245,rheumatoid vasculitis
+4109,84246,Waterhouse-Friderichsen syndrome
+4110,84247,intracranial abscess
+4111,36423,anus cancer
+4112,39707,oral mucosa leukoplakia
+4113,38490,hereditary mucosal leukokeratosis
+4114,38026,radiodermatitis
+4115,27985,nocturnal enuresis
+4116,84252,subacute cutaneous lupus erythematosus
+4117,31008,allergic bronchopulmonary aspergillosis
+4118,32783,adrenomyeloneuropathy
+4119,31883,retinoblastoma
+4120,84253,retinal neuroblastoma
+4121,27285,hereditary hypophosphatemic rickets
+4122,84254,croup
+4123,37766,influenza
+4124,84255,"influenza, severe, susceptibility to"
+4125,84256,Dravet syndrome
+4126,36531,alopecia
+4127,27158,osteogenesis imperfecta
+4128,27263,"osteogenesis imperfecta with opalescent teeth, blue sclerae and wormian bones but without fractures"
+4129,28337,congenital osteogenesis imperfecta-microcephaly-cataracts syndrome
+4130,30423,osteocraniostenosis
+4131,27314,Cole-Carpenter syndrome
+4132,84257,high bone mass osteogenesis imperfecta
+4133,30606,Ehlers-Danlos syndrome
+4134,38392,constitutional neutropenia
+4135,33449,severe congenital neutropenia
+4136,33348,autoimmune hepatitis
+4137,84258,balantidiasis
+4138,37884,trichomoniasis
+4139,32442,dracunculiasis
+4140,36514,neuroendocrine neoplasm
+4141,35630,neuroendocrine carcinoma
+4142,84259,hand-Schuller-Christian disease
+4143,29339,"thyroid cancer, nonmedullary"
+4144,37130,papillary adenocarcinoma
+4145,28455,papillary renal cell carcinoma
+4146,31298,orotic aciduria
+4147,30486,vitiligo
+4148,84260,scalp dermatosis
+4149,33229,Acanthamoeba keratitis
+4150,84261,"blast phase chronic myelogenous leukemia, BCR-ABL1 positive"
+4151,33588,osteomyelitis (disease)
+4152,35904,bacterial meningitis caused by gram-negative bacteria
+4153,29923,lysinuric protein intolerance
+4154,32351,Lassa fever
+4155,32347,Crimean-Congo hemorrhagic fever
+4156,32954,Rift valley fever
+4157,39884,respiratory syncytial virus infectious disease
+4158,35562,hantavirus hemorrhagic fever with renal syndrome
+4159,32203,hemorrhagic fever-renal syndrome
+4160,29296,Lewy body dementia
+4161,35545,cutaneous mycosis
+4162,84262,obsolete pityriasis
+4163,35554,salpingitis
+4164,37161,pelvic inflammatory disease
+4165,36068,oophoritis
+4166,37887,pleural empyema (disease)
+4167,32877,retinopathy of prematurity
+4168,28128,exudative vitreoretinopathy
+4169,84263,metastatic malignant neoplasm in the colon
+4170,36172,hemosiderosis
+4171,39739,hidradenitis suppurativa
+4172,38017,hidradenitis
+4173,84264,dyshidrosis
+4174,38930,non-infectious uveitis
+4175,37017,neoplasm of esophagus
+4176,36821,fallopian tube carcinoma
+4177,36534,fallopian tube cancer
+4178,28502,myelomonocytic leukemia
+4179,28670,adenine phosphoribosyltransferase deficiency
+4180,84266,phosphoribosylpyrophosphate synthetase deficiency
+4181,84267,trichuriasis
+4182,84268,gnathomiasis
+4183,84269,capillariasis
+4184,35575,Enoplea infectious disease
+4185,30371,beta-thalassemia HBB/LCRB
+4186,33003,beta thalassemia
+4187,33437,dominant beta-thalassemia
+4188,33434,beta-thalassemia intermedia
+4189,39270,beta-thalassemia and related diseases
+4190,29375,squamous cell carcinoma
+4191,33352,glossopharyngeal neuralgia
+4192,84280,glossopharyngeal motor neuropathy
+4193,30449,trigeminal neuralgia
+4194,29933,"obsolete diabetes insipidus, neurohypophyseal type, X-linked inheritance"
+4195,27361,hemophilia
+4196,32354,symptomatic form of hemophilia in female carriers
+4197,33520,liposarcoma
+4198,39835,intervertebral disc degenerative disorder
+4199,84284,tibia fracture
+4200,84285,tinea barbae
+4201,84286,dermatophytosis of scalp or beard
+4202,33602,venous insufficiency (disease)
+4203,32504,Chagas disease
+4204,36751,myositis
+4205,33400,neuromyelitis optica
+4206,28059,glioma susceptibility
+4207,35741,cervical adenocarcinoma
+4208,28579,Hurler syndrome
+4209,27894,Hurler-Scheie syndrome
+4210,27355,Scheie syndrome
+4211,29863,monocytic leukemia
+4212,32256,acute erythroid leukemia
+4213,84288,antisocial personality disorder
+4214,39836,pharyngeal squamous cell carcinoma
+4215,36834,laryngeal squamous cell carcinoma
+4216,84289,CD4+/CD56+ hematodermic neoplasm
+4217,84293,multibacillary leprosy
+4218,84295,peritonsillar abscess
+4219,84296,hypoactive sexual desire disorder
+4220,33327,Berardinelli-Seip congenital lipodystrophy
+4221,28482,congenital generalized lipodystrophy
+4222,31864,lipodystrophy
+4223,33711,lipodystrophy (disease)
+4224,28466,isovaleric acidemia
+4225,30491,obstructive sleep apnea syndrome
+4226,36380,acute cystitis (disease)
+4227,36735,breast fibrocystic disease
+4228,84297,eumycotic mycetoma
+4229,29161,hemophagocytic lymphohistiocytosis
+4230,39170,hemophagocytic syndrome
+4231,28490,sitosterolemia
+4232,36863,transitional cell carcinoma
+4233,37543,kidney angiomyolipoma
+4234,30967,tuberous sclerosis
+4235,31487,Marfan syndrome
+4236,31396,situs inversus
+4237,27494,cystoid macular edema
+4238,38350,macular retinal edema
+4239,84301,ancylostomiasis
+4240,84302,trichostrongylosis
+4241,38551,hypertrichosis of eyelid
+4242,33616,hypertrichosis (disease)
+4243,36712,malignant glioma
+4244,35786,glioma
+4245,84303,gliosarcoma
+4246,27810,cutaneous neuroendocrine carcinoma
+4247,84304,chronic eosinophilic leukemia
+4248,84305,"chronic eosinophilic leukemia, not otherwise specified"
+4249,33089,dermatofibrosarcoma protuberans
+4250,28414,idiopathic hypereosinophilic syndrome
+4251,37613,hypereosinophilic syndrome
+4252,28175,neuronal ceroid lipofuscinosis
+4253,28550,infantile neuronal ceroid lipofuscinosis
+4254,84306,pneumonic plague
+4255,84307,septicemic plague
+4256,28262,polycystic kidney disease
+4257,39753,cutaneous larva migrans
+4258,84308,creeping myiasis
+4259,39752,toxocariasis
+4260,84309,baylisascariasis
+4261,84310,autism (disease)
+4262,31912,autism susceptibility 1
+4263,37717,autism spectrum disorder
+4264,30483,CINCA syndrome
+4265,84311,diphtheritic myocarditis
+4266,84312,thallium poisoning
+4267,37427,epithelioid sarcoma
+4268,36227,fungal meningitis
+4269,32601,cryptococcosis
+4270,84313,disseminated sporotrichosis
+4271,84314,mycotic endocarditis
+4272,37983,malignant pleural mesothelioma
+4273,30725,malignant mesothelioma (disease)
+4274,84318,paucibacillary leprosy
+4275,84319,acute myeloid leukemia with abnormal bone marrow eosinophils inv(16)(p13q22) or t(16;16)(p13;q22)
+4276,32100,adenosine deaminase deficiency
+4277,38550,congenital combined immunodeficiency
+4278,35745,severe combined immunodeficiency (disease)
+4279,32680,Wolman disease
+4280,28518,lysosomal acid lipase deficiency
+4281,35475,lysosomal lipid storage disorder
+4282,32483,acute lung injury
+4283,36326,degeneration of macula and posterior pole
+4284,38909,sickle cell disease and related diseases
+4285,38011,epidermolysis bullosa
+4286,27434,epidermolysis bullosa simplex
+4287,84323,ecthyma
+4288,28197,spinal muscular atrophy
+4289,38043,syndromic dyslipidemia
+4290,84324,arteriolosclerosis
+4291,36750,head and neck neoplasm
+4292,29352,cyclic hematopoiesis
+4293,30739,"neutropenia, chronic familial"
+4294,37135,T-cell leukemia
+4295,84325,T-lymphoblastic lymphoma
+4296,32834,aggressive systemic mastocytosis
+4297,39171,mast cell leukemia
+4298,84326,obsolete classic mast cell leukemia
+4299,84327,aleukemic mast cell leukemia
+4300,84329,laryngeal papillomatosis
+4301,28265,hypophosphatasia
+4302,84330,female stress incontinence
+4303,36535,leiomyosarcoma
+4304,84331,ST-elevation myocardial infarction
+4305,36186,penile cancer
+4306,36153,penile neoplasm
+4307,36758,adenocarcinoma of penis
+4308,36909,squamous cell carcinoma of penis
+4309,33518,pituitary gigantism
+4310,31384,Fabry disease
+4311,36798,invasive ductal breast carcinoma
+4312,37132,breast ductal adenocarcinoma
+4313,27446,tyrosinemia
+4314,36246,endocrine exophthalmos
+4315,36638,tenosynovial giant cell tumor
+4316,33151,pigmented villonodular synovitis
+4317,84333,"tenosynovial giant cell tumor, localized type"
+4318,27527,Glanzmann thrombasthenia
+4319,38622,factor VII deficiency
+4320,28673,congenital factor VII deficiency
+4321,39497,allergic urticaria
+4322,39188,acquired immunodeficiency
+4323,38044,coronary atherosclerosis
+4324,39751,metastatic neoplasm
+4325,36932,extragonadal germ cell tumor
+4326,35778,central nervous system neoplasm
+4327,36906,kidney cancer
+4328,95316,relapsed/refractory diffuse large B-cell lymphoma
+4329,33635,leukemia (disease)
+4330,37576,myelodysplastic/myeloproliferative Neoplasm
+4331,36104,neutropenia
+4332,36678,head and neck carcinoma
+4333,39460,colon mucinous adenocarcinoma
+4334,36813,rectum mucinous adenocarcinoma
+4335,95910,colon signet ring cell adenocarcinoma
+4336,96708,rectal signet ring cell adenocarcinoma
+4337,35584,infectious disease
+4338,35686,lung adenocarcinoma
+4339,97011,adenosquamous lung carcinoma
+4340,37338,lung large cell carcinoma
+4341,36197,skin cancer
+4342,36626,teratoma
+4343,36523,vaginal cancer
+4344,30659,desmoid tumor
+4345,36371,radiation-induced disorder
+4346,39579,myelodysplastic/myeloproliferative disease
+4347,35852,acute lymphoblastic leukemia
+4348,35880,colon adenocarcinoma
+4349,36757,rectum adenocarcinoma
+4350,98797,acute myeloid leukemia with 11q23 abnormalities
+4351,96948,refractory plasma cell neoplasm
+4352,37170,hepatoblastoma
+4353,37619,metastatic carcinoma
+4354,94658,neurotic depression
+4355,83924,end stage renal failure
+4356,94757,"leukemia, myeloid, accelerated-phase"
+4357,39846,childhood myelodysplastic syndrome
+4358,96080,childhood kidney cell carcinoma
+4359,98663,nodal marginal zone B-cell lymphoma
+4360,38290,marginal zone lymphoma
+4361,96562,refractory hairy cell leukemia
+4362,98662,splenic marginal zone lymphoma
+4363,95051,T-cell large granular lymphocyte leukemia
+4364,97293,endometrial clear cell adenocarcinoma
+4365,97295,endometrial serous adenocarcinoma
+4366,39614,ureter transitional cell carcinoma
+4367,37411,urethra cancer
+4368,36694,kidney failure
+4369,84276,acute undifferentiated leukemia
+4370,94959,extranodal nasal NK/T cell lymphoma
+4371,37924,anaplastic large cell lymphoma
+4372,94719,angioimmunoblastic T-cell lymphoma
+4373,99089,large-cell immunoblastic lymphoma
+4374,39209,primary cutaneous B-cell lymphoma
+4375,84251,hepatosplenic T-cell lymphoma
+4376,96718,intraocular lymphoma
+4377,38268,"myeloproliferative neoplasm, unclassifiable"
+4378,84332,post-transplant lymphoproliferative disease
+4379,98378,primary amyloidosis
+4380,37991,small intestine lymphoma
+4381,95552,testicular lymphoma
+4382,94895,acute basophilic leukemia
+4383,39434,acute megakaryoblastic leukemia
+4384,94812,childhood acute myeloid leukemia
+4385,37222,childhood germ cell tumor
+4386,37002,peritoneal carcinoma
+4387,98020,refractory anemia with excess blasts in transformation
+4388,30402,severe congenital hypochromic anemia with ringed sideroblasts
+4389,37720,refractory cytopenia with multilineage dysplasia
+4390,35458,autosomal recessive disease
+4391,35762,immune system disease
+4392,31390,purine nucleoside phosphorylase deficiency
+4393,38128,T-B- severe combined immunodeficiency
+4394,27595,"combined immunodeficiency, X-linked"
+4395,32061,thymoma
+4396,32257,thymic carcinoma
+4397,30668,transient myeloproliferative syndrome (disease)
+4398,97515,nasal cavity and paranasal sinus lethal midline granuloma
+4399,37615,plasma cell neoplasm
+4400,35767,precancerous condition
+4401,31067,medulloblastoma
+4402,37907,appendix carcinoma
+4403,37773,estrogen-receptor negative breast cancer
+4404,37775,Her2-receptor negative breast cancer
+4405,36876,ovarian sarcoma
+4406,37774,progesterone-receptor negative breast cancer
+4407,97007,metastatic prostate carcinoma
+4408,35724,small intestine adenocarcinoma
+4409,96211,small intestine leiomyosarcoma
+4410,37655,triple-negative breast carcinoma
+4411,29041,familial adenomatous polyposis
+4412,94920,hemoglobin C disease
+4413,38911,thalassemia
+4414,37694,pleural mesothelioma
+4415,35760,hematologic disease
+4416,37487,adult glioblastoma
+4417,35982,chronic leukemia
+4418,36512,malignant pancreatic neoplasm
+4419,95114,acute myeloid leukemia with multilineage dysplasia
+4420,28465,acute leukemia (disease)
+4421,32282,Sezary syndrome
+4422,35684,tongue cancer
+4423,35874,hematopoietic and lymphoid cell neoplasm
+4424,35792,ovarian neoplasm
+4425,35777,endocrine gland neoplasm
+4426,33672,neoplasm (disease)
+4427,36424,ovarian disease
+4428,36408,eye adnexa disease
+4429,35840,female reproductive system disease
+4430,35784,tumor of uterus
+4431,35773,female reproductive system neoplasm
+4432,37752,hepatitis B virus infection
+4433,36736,embryonal neoplasm
+4434,96629,childhood germ cell brain tumor
+4435,37230,pediatric ovarian germ cell tumor
+4436,37244,childhood testicular germ cell tumor
+4437,37503,ovarian embryonal carcinoma
+4438,37229,ovarian yolk sac tumor
+4439,37243,choriocarcinoma of testis
+4440,37246,testicular embryonal carcinoma
+4441,32319,Fanconi anemia
+4442,37974,salivary gland squamous cell carcinoma
+4443,32505,tuberculosis
+4444,37536,cervical adenosquamous carcinoma
+4445,36830,cervical squamous cell carcinoma
+4446,97426,estrogen-receptor positive breast cancer
+4447,95249,progesterone-receptor positive breast cancer
+4448,36617,Brenner tumor
+4449,96633,ovarian clear cell cystadenocarcinoma
+4450,95970,ovarian mucinous cystadenocarcinoma
+4451,97234,ovarian serous cystadenocarcinoma
+4452,94862,undifferentiated ovarian carcinoma
+4453,35448,congenital nonspherocytic hemolytic anemia
+4454,96152,gastroesophageal junction adenocarcinoma
+4455,97015,gastric intestinal type adenocarcinoma
+4456,36498,peritoneal neoplasm
+4457,36533,fallopian tube neoplasm
+4458,32541,esophageal squamous cell carcinoma
+4459,36476,periodontal disease
+4460,27277,lymphoproliferative syndrome
+4461,94637,sarcomatoid renal cell carcinoma
+4462,37754,infertility disorder
+4463,35791,uterine cervix neoplasm
+4464,36612,kidney neoplasm
+4465,38186,aggressive B-cell non-Hodgkin lymphoma
+4466,37647,indolent B-cell non-Hodgkin lymphoma
+4467,94716,male breast carcinoma
+4468,37432,childhood ependymoma
+4469,35565,liver disease
+4470,35764,kidney disease
+4471,96515,ovary mixed epithelial carcinoma
+4472,37037,pleural neoplasm
+4473,36917,prolymphocytic leukemia
+4474,97893,"human herpesvirus 8, susceptibility to"
+4475,29589,anal carcinoma
+4476,32433,adrenal cortex carcinoma
+4477,35876,mucositis
+4478,95304,T-cell childhood acute lymphocytic leukemia
+4479,37077,childhood central nervous system germ cell tumor
+4480,37294,childhood brain stem glioma
+4481,39005,Ewing sarcoma/peripheral primitive neuroectodermal tumor
+4482,96191,metachronous kidney Wilms' tumor
+4483,36621,mesothelioma
+4484,35782,connective and soft tissue neoplasm
+4485,36010,glucose metabolism disease
+4486,99947,hormone-resistant prostate carcinoma
+4487,29761,African iron overload
+4488,37183,hemolytic anemia
+4489,98665,aggressive NK-cell leukemia
+4490,97245,AIDS-related primary central nervous system lymphoma
+4491,94742,chronic neutrophilic leukemia
+4492,95986,extramedullary plasmacytoma
+4493,97905,primary plasmacytoma of the bone
+4494,37489,mixed glioma
+4495,96137,pineal gland astrocytoma
+4496,94650,subependymal giant cell astrocytoma
+4497,37616,smoldering plasma cell myeloma
+4498,31676,MALT lymphoma
+4499,35719,pharynx cancer
+4500,36133,larynx cancer
+4501,36054,nasal cavity cancer
+4502,36370,paranasal sinus neoplasm (disease)
+4503,37554,oral cavity cancer
+4504,39531,liver failure
+4505,94836,"atypical chronic myeloid leukemia, BCR-ABL1 negative"
+4506,99866,panic disorder without or with agoraphobia
+4507,38035,acute kidney failure
+4508,83923,chronic renal failure syndrome
+4509,36040,chronic kidney disease
+4510,99032,prurigo
+4511,36959,biliary tract cancer
+4512,36767,gallbladder adenocarcinoma
+4513,36483,alcohol-related disorders
+4514,32933,cocaine intoxication
+4515,37402,urinary system neoplasm
+4516,36253,impaired renal function disease
+4517,36986,brain astrocytoma
+4518,94774,chronic liver failure
+4519,30543,Shwachman-Diamond syndrome
+4520,96277,T-cell adult acute lymphocytic leukemia
+4521,35867,lymphoblastic lymphoma
+4522,99923,high grade B-cell lymphoma
+4523,35979,adenocarcinoma
+4524,37858,pancreatic neoplasm
+4525,36279,calcinosis
+4526,32552,atypical teratoid rhabdoid tumor
+4527,36395,squamous cell neoplasm
+4528,95146,tumor lysis syndrome
+4529,98661,B-cell prolymphocytic leukemia
+4530,36843,neoplasm of testis
+4531,36168,uterine cancer
+4532,27859,immune suppression
+4533,33599,arteriovenous hemangioma/malformation
+4534,33489,insulin-resistance syndrome
+4535,36951,rectal neoplasm
+4536,33686,biliary tract neoplasm (disease)
+4537,27559,dilated cardiomyopathy
+4538,94775,lupus nephritis
+4539,97351,ocular melanoma with extraocular extension
+4540,37314,iris melanoma
+4541,36480,colorectal carcinoma
+4542,30222,congenital amegakaryocytic thrombocytopenia
+4543,36416,rectal cancer
+4544,37765,cirrhosis of liver
+4545,36075,disorder involving pain
+4546,37196,small cell carcinoma
+4547,98570,plasma cell leukemia
+4548,33208,microscopic polyangiitis
+4549,36766,pancreatic ductal adenocarcinoma
+4550,33664,sleep apnea syndrome
+4551,36538,colorectal neoplasm
+4552,37781,malignant tumor of neck
+4553,35733,neoplasm of neck
+4554,36578,colon carcinoma
+4555,36875,gallbladder cancer
+4556,37926,central nervous system non-hodgkin lymphoma
+4557,28176,hemochromatosis
+4558,97057,acute graft vs. host disease
+4559,36001,digestive system cancer
+4560,28983,preterm premature rupture of the membranes
+4561,39750,metastatic malignant neoplasm
+4562,33236,X-linked lymphoproliferative syndrome
+4563,94799,"Hodgkin's lymphoma, mixed cellularity"
+4564,32866,nodular lymphocyte predominant Hodgkin lymphoma
+4565,95139,nodular sclerosis classical Hodgkin lymphoma
+4566,28304,metachromatic leukodystrophy
+4567,31661,Tay-Sachs disease
+4568,27896,Sandhoff disease
+4569,28866,Sanfilippo syndrome
+4570,27167,GM1 gangliosidosis
+4571,37134,lymphoid neoplasm
+4572,32849,myelodysplastic syndrome with excess blasts
+4573,37600,renal carcinoma
+4574,39672,parotid gland cancer
+4575,39832,"candidiasis, invasive"
+4576,37480,pancreatic acinar cell carcinoma
+4577,33678,glomerulonephritis
+4578,38388,IgA glomerulonephritis
+4579,33641,carcinoid tumor (disease)
+4580,35468,neoplastic syndrome
+4581,36748,osteosarcoma
+4582,36772,invasive breast carcinoma
+4583,94657,ischemia reperfusion injury
+4584,98541,necrotizing soft tissue infection
+4585,39153,nasopharyngeal neoplasm
+4586,38386,nasopharyngeal carcinoma
+4587,33552,dyskeratosis congenita
+4588,99946,hormone-resistant breast carcinoma
+4589,36051,nasal cavity neoplasm
+4590,27618,Hermansky-Pudlak syndrome
+4591,38813,ocular albinism (disease)
+4592,31307,platelet storage pool deficiency
+4593,35457,metabolic disease
+4594,39704,muscular atrophy
+4595,97428,sarcopenia
+4596,36890,uterine corpus mixed epithelial and mesenchymal neoplasm
+4597,35898,ocular melanoma
+4598,36503,conjunctival cancer
+4599,38928,metabolic syndrome
+4600,95670,occlusion of tributary of retinal vein
+4601,36780,choroid plexus neoplasm
+4602,35573,helminthiasis
+4603,94956,hypopharynx squamous cell carcinoma
+4604,35789,primitive neuroectodermal tumor
+4605,35749,digestive system disease
+4606,37902,retroperitoneal neuroblastoma
+4607,35851,adult lymphoma
+4608,83917,brain injury
+4609,37747,physiological sexual disorder
+4610,36020,nephritis
+4611,30731,radio-renal syndrome
+4612,35683,uterine disease
+4613,35837,cervix disease
+4614,36867,urothelial carcinoma
+4615,99581,metastatic carcinoma in the bone
+4616,37384,basaloid squamous cell carcinoma
+4617,37790,undifferentiated carcinoma
+4618,37137,adenosquamous carcinoma
+4619,36927,pancreatic neuroendocrine tumor
+4620,32186,chronic granulomatous disease
+4621,31225,myxoid liposarcoma
+4622,36541,colorectal adenocarcinoma
+4623,36953,large cell carcinoma
+4624,37496,refractory malignant neoplasm
+4625,97180,mycobacterium avium complex disease
+4626,33634,lymphoid leukemia (disease)
+4627,39255,poisoning
+4628,30998,pemphigus vulgaris
+4629,36958,bile duct neoplasm
+4630,36303,carotid artery disease
+4631,93465,Barrett esophagus
+4632,99906,lumbar spinal stenosis
+4633,39691,primary brain neoplasm
+4634,99567,pancreatic gastrinoma
+4635,32267,glucagonoma
+4636,97338,malignant adrenal gland pheochromocytoma
+4637,32263,somatostatinoma
+4638,33045,cholangiocarcinoma
+4639,31730,alpha-mannosidosis
+4640,27474,fucosidosis
+4641,31742,aspartylglucosaminuria
+4642,36457,sphingolipidosis
+4643,30578,Krabbe disease
+4644,98094,Niemann-Pick disease type C
+4645,36643,digestive system neoplasm
+4646,36539,rectal carcinoma
+4647,36888,uterine carcinosarcoma
+4648,95076,"diabetes mellitus, noninsulin-dependent"
+4649,38648,lysosomal glycogen storage disease
+4650,33215,meningioma (disease)
+4651,39676,benign neoplasm of pancreas
+4652,84277,acute biphenotypic leukemia
+4653,35832,abscess (disease)
+4654,99989,methicillin-resistant staphylococcus aureus infectious disease
+4655,36396,blepharitis
+4656,29762,"apnea, central sleep"
+4657,35788,central nervous system cancer
+4658,27276,osteopetrosis
+4659,97312,gastric mucosa-associated lymphoid tissue lymphoma
+4660,37412,adrenal carcinoma
+4661,83999,Achilles bursitis
+4662,27227,immunodeficiency
+4663,37592,non-invasive bladder urothelial carcinoma
+4664,35677,tumor of duodenum
+4665,36822,endometrium adenocarcinoma
+4666,36901,ovarian Brenner tumor
+4667,37275,gastric cardia carcinoma
+4668,36121,spinal cord neoplasm
+4669,84173,prediabetes syndrome
+4670,96695,cholangiolocellular carcinoma
+4671,36765,extrahepatic bile duct carcinoma
+4672,36232,bile duct cancer
+4673,96795,periampullary adenocarcinoma
+4674,84131,non-alcoholic steatohepatitis
+4675,36314,bladder benign neoplasm
+4676,36824,ovarian carcinoma
+4677,29664,familial hypercholesterolemia
+4678,98171,gliomatosis cerebri
+4679,36979,adult brainstem glioma
+4680,97230,diffuse intrinsic pontine glioma
+4681,36710,childhood malignant neoplasm
+4682,36526,histiocytoma
+4683,33713,angiosarcoma (disease)
+4684,37744,coronary stenosis
+4685,36693,substance-related disorder
+4686,94636,amphetamine abuse
+4687,35465,brain disease
+4688,83764,hyperglycemia
+4689,37175,proteinuria
+4690,37691,viral disease or post-viral disorder
+4691,99829,engraftment syndrome
+4692,36567,epithelial neoplasm
+4693,27247,polycystic liver disease
+4694,36783,childhood choroid plexus neoplasm
+4695,32939,craniopharyngioma
+4696,96734,pediatric cerebral ependymoblastoma
+4697,37233,pediatric meningioma
+4698,37537,grade II meningioma
+4699,39610,grade III meningioma
+4700,96412,childhood cerebellar astrocytic neoplasm
+4701,37322,childhood cerebral astrocytoma
+4702,96648,pediatric infratentorial ependymoma
+4703,94871,medulloepithelioma
+4704,96649,pediatric supratentorial ependymoma
+4705,36862,adrenal gland neoplasm
+4706,33698,atrial flutter (disease)
+4707,35696,bone cancer
+4708,29107,"neuropathy, painful"
+4709,36838,brain meningioma
+4710,94571,adenomatous colon polyp
+4711,96479,pediatric CNS choriocarcinoma
+4712,37422,childhood central nervous system germinoma
+4713,96654,childhood central nervous system mixed germ cell tumor
+4714,36802,central nervous system teratoma
+4715,37079,yolk sac tumor of central nervous system
+4716,96524,childhood brain meningioma
+4717,36699,brain glioma
+4718,28969,bone marrow failure syndrome
+4719,39589,mitral valve stenosis
+4720,36496,secondary neoplasm
+4721,30671,Hunter-Macdonald syndrome
+4722,38985,peroxisomal disease
+4723,37856,Epstein-Barr virus infection
+4724,37732,infective vaginitis
+4725,36015,cervicitis (disease)
+4726,96587,childhood central nervous system embryonal carcinoma
+4727,94817,extra-adrenal sympathetic paraganglioma
+4728,98705,light chain deposition disease
+4729,99709,benign ovarian mucinous tumor
+4730,97156,hepatitis D virus infection
+4731,35718,oropharynx squamous cell carcinoma
+4732,36981,brain stem glioma
+4733,35846,peripheral neuropathy
+4734,36704,papillary carcinoma
+4735,95104,thyroid gland oncocytic follicular carcinoma
+4736,95105,thyroid Hurthle cell carcinoma
+4737,35744,endocrine system disease
+4738,37415,sarcomatoid mesothelioma
+4739,37304,bladder transitional cell carcinoma
+4740,94640,nephrosclerosis
+4741,30104,focal segmental glomerulosclerosis
+4742,31869,lipoprotein glomerulopathy
+4743,94687,membranous glomerulonephritis
+4744,94973,hereditary papillary renal cell carcinoma
+4745,97918,acute myeloid leukemia and myelodysplastic syndromes related to alkylating agent
+4746,94782,opioid abuse
+4747,95048,radiation injury
+4748,37595,hepatobiliary neoplasm
+4749,94981,cervical intraepithelial neoplasia
+4750,95060,chromosome 17p deletion
+4751,36925,mucosal melanoma
+4752,28207,DOCK2 deficiency
+4753,98515,undifferentiated carcinoma of esophagus
+4754,37896,gastric squamous cell carcinoma
+4755,98522,undifferentiated carcinoma of stomach
+4756,36507,thyroid tumor
+4757,94707,adult T-cell leukemia/lymphoma
+4758,83907,pancytopenia
+4759,99047,acute mountain sickness
+4760,36092,chronic otitis media
+4761,35528,pulmonary aspergilloma
+4762,97183,neuroaspergillosis
+4763,39858,ductal breast carcinoma in situ
+4764,36768,ampulla of vater adenocarcinoma
+4765,39402,ampulla of vater cancer
+4766,100010,immune reconstitution inflammatory syndrome
+4767,32942,progressive multifocal leukoencephalopathy
+4768,37788,chronic pain syndrome
+4769,35817,adenoid cystic carcinoma
+4770,37809,human papilloma virus infection
+4771,32050,alveolar rhabdomyosarcoma
+4772,96641,pleomorphic rhabdomyosarcoma
+4773,96027,rhabdomyosarcoma with mixed embryonal and alveolar features
+4774,36706,gallbladder neoplasm
+4775,98983,squamous cell carcinoma of floor of mouth
+4776,98969,carcinoma of soft palate
+4777,36466,paranasal sinus squamous cell carcinoma
+4778,33072,bronchopulmonary dysplasia
+4779,37651,non-small cell squamous lung carcinoma
+4780,33502,ependymoma
+4781,96949,non-secretory plasma cell myeloma
+4782,37001,serous adenocarcinoma
+4783,35633,pleural cancer
+4784,39146,toxic dermatosis
+4785,28956,ureter cancer
+4786,37783,malignant renal pelvis neoplasm
+4787,98167,sickle cell-hemoglobin c disease syndrome
+4788,98166,sickle cell-beta-thalassemia disease syndrome
+4789,31393,metabolic syndrome X
+4790,37148,urethra neoplasm
+4791,99701,acute myeloid leukemia with BCR-ABL1
+4792,98604,high grade B-cell lymphoma with MYC and/ or BCL2 and/or BCL6 rearrangement
+4793,99476,KSHV inflammatory cytokine syndrome
+4794,94764,hyperandrogenism
+4795,96469,invasive tubular breast carcinoma
+4796,94693,inflammatory breast carcinoma
+4797,94600,bronchiolitis obliterans with obstructive pulmonary disease
+4798,32926,cryptogenic organizing pneumonia
+4799,36836,interstitial lung disease
+4800,98714,multicentric Castleman disease
+4801,31596,uterine corpus leiomyoma
+4802,29698,subcutaneous panniculitis-like T-cell lymphoma
+4803,97107,AIDS related complex
+4804,98239,pulmonary hypertension owing to lung disease and/or hypoxia
+4805,95034,"hepatitis C virus, susceptibility"
+4806,28036,"arthritis, sacroiliac"
+4807,37810,diverticulitis of colon
+4808,37417,supratentorial primitive neuroectodermal tumor
+4809,37070,germ cell tumor
+4810,95680,non-renal secondary hyperparathyroidism
+4811,96081,multilocular clear cell renal cell carcinoma
+4812,95112,myelodysplastic syndrome with excess blasts-1
+4813,32010,Wiskott-Aldrich syndrome
+4814,94998,primary cutaneous anaplastic large cell lymphoma
+4815,39667,oropharyngeal carcinoma
+4816,97502,Helicobacter pylori infectious disease
+4817,39489,migraine with aura
+4818,36809,myeloid neoplasm
+4819,38452,immune dysregulation disease with immunodeficiency
+4820,39817,vascular dementia
+4821,35938,liver neoplasm
+4822,33519,rhabdoid tumor
+4823,37014,clear cell adenocarcinoma
+4824,38506,lysosomal storage disease
+4825,36606,laryngeal carcinoma
+4826,29973,Omenn syndrome
+4827,28607,reticular dysgenesis
+4828,32587,common variable immunodeficiency
+4829,29423,combined immunodeficiency due to OX40 deficiency
+4830,28853,hyper-IgM syndrome
+4831,27582,Griscelli syndrome
+4832,29392,Chediak-Higashi syndrome
+4833,32562,Hoyeraal-Hreidarsson syndrome
+4834,31158,Revesz syndrome
+4835,36459,malignant peripheral nerve sheath tumor
+4836,98925,laryngeal granuloma
+4837,99098,pyogenic granuloma
+4838,94809,atypical endometrial hyperplasia
+4839,97008,stage I endometrioid carcinoma
+4840,98236,pulmonary arterial hypertension associated with portal hypertension
+4841,94551,obsolete inguinal hernia
+4842,98341,ALK-negative anaplastic large cell lymphoma
+4843,37992,enteropathy-associated T-cell lymphoma
+4844,36327,gram-negative bacterial infections
+4845,37390,refractory hematologic cancer
+4846,28553,retinal detachment
+4847,96785,carotid artery occlusion
+4848,94655,middle cerebral artery infarction
+4849,38709,acquired aplastic anemia
+4850,39448,ovarian sex cord-stromal tumor
+4851,83749,drug-induced dyskinesia
+4852,36525,bone sarcoma
+4853,99926,metastatic malignant neoplasm in the eye
+4854,39746,posterior uveal melanoma
+4855,30257,"platelet aggregation, spontaneous"
+4856,37800,genetic cerebral small vessel disease
+4857,37970,pancreatic endocrine carcinoma
+4858,38054,peripheral vertigo
+4859,36700,astrocytic tumor
+4860,37011,optic nerve glioma
+4861,36713,low grade glioma
+4862,38140,anal canal cancer
+4863,96355,distal biliary tract carcinoma
+4864,39065,intracranial hemorrhage
+4865,37053,intrahepatic cholangiocarcinoma
+4866,38022,cellulitis (disease)
+4867,96747,refractory precursor T-lymphoblastic lymphoma/leukemia
+4868,35631,intestinal cancer
+4869,39580,mixed phenotype acute leukemia
+4870,36063,cognitive disorder
+4871,39007,acute myeloid leukemia with recurrent genetic anomaly
+4872,36012,pancreas disease
+4873,95682,eclampsia
+4874,38899,"hypertension, pregnancy-induced"
+4875,99572,Philadelphia-positive myelogenous leukemia
+4876,28495,"glaucoma, primary closed-angle"
+4877,35836,tooth disease
+4878,28737,short QT syndrome
+4879,33560,ovarian cyst (disease)
+4880,30583,open angle glaucoma
+4881,97074,methamphetamine-induced psychosis
+4882,95946,Ewing sarcoma of bone
+4883,36922,extraskeletal Ewing sarcoma/peripheral primitive neuroectodermal tumor
+4884,94666,invasive lobular breast carcinoma
+4885,36563,primary immunodeficiency disease
+4886,35638,inflammatory disease
+4887,36709,soft tissue neoplasm
+4888,33172,uveal melanoma
+4889,96719,adult brain ependymoma
+4890,96482,adult pineoblastoma
+4891,36113,skin infection
+4892,36892,intestinal neoplasm
+4893,33013,ganglioneuroma (disease)
+4894,39154,ganglioglioma
+4895,35964,malignant urinary system neoplasm
+4896,95075,habitual spontaneous abortion
+4897,97612,congenital hydronephrosis
+4898,94715,choledochal cyst
+4899,37730,bone fracture
+4900,32717,AA amyloidosis
+4901,35531,cardiomyopathy
+4902,37206,aleukemic leukemia
+4903,36161,thoracic cancer
+4904,31247,mismatch repair cancer syndrome
+4905,37369,intraocular retinoblastoma
+4906,36245,eustachian tube disease
+4907,83876,Horner syndrome
+4908,37572,high grade malignant neoplasm
+4909,97489,epilepsia partialis continua
+4910,37844,bacterial infectious disease with sepsis
+4911,37100,squamous cell intraepithelial neoplasia
+4912,35825,corneal disease
+4913,35999,pterygium
+4914,28206,myopia
+4915,39574,hyperopia
+4916,35607,gallbladder carcinoma
+4917,32612,malignant peritoneal mesothelioma
+4918,36948,"cystic, mucinous, and serous neoplasm"
+4919,97053,venous thromboembolism
+4920,95313,mucinous bronchioloalveolar adenocarcinoma
+4921,36510,pituitary tumor
+4922,38961,anti-neutrophil antibody associated vasculitis
+4923,37512,breast mucinous carcinoma
+4924,36819,fallopian tube adenocarcinoma
+4925,84275,spinal cord injury
+4926,36095,diverticulitis
+4927,94694,ALK-positive anaplastic large cell lymphoma
+4928,27365,"periodontitis, aggressive"
+4929,33071,primary effusion lymphoma
+4930,27170,agammaglobulinemia
+4931,37305,infiltrating urothelial carcinoma
+4932,39822,nervous system injury
+4933,36478,nervous system disorder
+4934,36719,spinal cord disease
+4935,35446,gonadal disease
+4936,35775,male reproductive system disease
+4937,37953,myeloid sarcoma
+4938,36749,small cell sarcoma
+4939,36690,breast carcinoma in situ
+4940,96516,ovarian seromucinous carcinoma
+4941,96431,ovarian serous surface papillary adenocarcinoma
+4942,28082,chronic Epstein-Barr virus infection syndrome
+4943,95050,chronic lymphoproliferative disorder of NK-cells
+4944,36904,smooth muscle tumor
+4945,37006,renal pelvis carcinoma
+4946,99174,benign metastasizing leiomyoma
+4947,35670,heart valve disease
+4948,97051,radius fracture
+4949,35868,endophthalmitis
+4950,35795,nervous system cancer
+4951,36891,intestinal neuroendocrine neoplasm
+4952,35695,ameloblastoma
+4953,39613,human papillomavirus-related squamous cell carcinoma
+4954,37385,human papillomavirus-related penile squamous cell carcinoma
+4955,37171,nephrolithiasis
+4956,32327,amoebiasis due to free-living amoebae
+4957,37658,clear cell sarcoma
+4958,37656,bilineal acute myeloid leukemia
+4959,35781,bone neoplasm
+4960,33628,anal fistula (disease)
+4961,96574,anal verrucous carcinoma
+4962,98883,upper tract urothelial carcinoma
+4963,97553,pulpitis
+4964,98993,benign neoplasm of endometrium
+4965,37027,ovarian germ cell tumor
+4966,95464,gingival recession
+4967,37364,renal pelvis/ureter carcinoma
+4968,96394,prostatic urethra urothelial carcinoma
+4969,28344,synovial sarcoma (disease)
+4970,33606,scoliosis
+4971,31237,spondylolisthesis (disease)
+4972,99848,"tuberculosis, spinal"
+4973,29345,androgenetic alopecia
+4974,95491,portal vein thrombosis
+4975,96273,acute pyelonephritis
+4976,37160,leiomyomatosis
+4977,35680,ischemic disease
+4978,94660,AIDS dementia complex
+4979,29800,"channelopathy-associated congenital insensitivity to pain, autosomal recessive"
+4980,83916,morbid obesity
+4981,96229,anterograde amnesia
+4982,95987,solitary osseous plasmacytoma
+4983,36415,anus neoplasm
+4984,94779,Henoch-Schoenlein purpura
+4985,29793,pilonidal sinus (disease)
+4986,39715,cryoglobulinemia
+4987,94835,atypical chronic myeloid leukemia
+4988,94889,atopic dermatitis
+4989,32785,obsolete rare circulatory system disease
+4990,32529,undifferentiated pleomorphic sarcoma
+4991,94892,myxofibrosarcoma
+4992,33708,fibrosarcoma (disease)
+4993,37552,oropharynx cancer
+4994,37567,hypopharynx cancer
+4995,28429,paraganglioma
+4996,36784,supratentorial cancer
+4997,97313,gastric neuroendocrine tumor
+4998,37871,pancreatic neuroendocrine neoplasm
+4999,33054,pineoblastoma
+5000,39825,hip fracture
+5001,27202,cataract
+5002,99652,gastroenteric neuroendocrine neoplasm
+5003,98651,idiopathic malabsorption due to bile acid synthesis defects
+5004,28582,alveolar soft part sarcoma (disease)
+5005,31047,aortic valve disease
+5006,95733,rubeosis iridis
+5007,29177,inherited torticollis (disease)
+5008,33563,otitis media (disease)
+5009,37119,choriocarcinoma (disease)
+5010,32514,placental site trophoblastic tumor
+5011,98187,epithelioid trophoblastic tumor
+5012,39269,brain aneurysm
+5013,84270,carotid stenosis
+5014,33037,gangliocytoma
+5015,98177,anaplastic ganglioglioma
+5016,98176,desmoplastic infantile astrocytoma/ganglioglioma
+5017,98178,papillary glioneuronal tumor
+5018,32261,central neurocytoma
+5019,98175,extraventricular neurocytoma
+5020,97262,cerebellar liponeurocytoma
+5021,36544,drug-induced liver injury
+5022,38047,infective endocarditis
+5023,39127,IgG4-related disease
+5024,97920,autoimmune pancreatitis
+5025,37731,atrial tachycardia
+5026,36136,autonomic nervous system disease
+5027,39697,primary dysautonomia
+5028,27230,ataxia telangiectasia
+5029,28140,"periodontitis, chronic, adult"
+5030,39873,COVID-19
+5031,35530,nutritional deficiency disease
+5032,36701,childhood neoplasm
+5033,32304,anterior cutaneous nerve entrapment syndrome
+5034,37421,brain germinoma
+5035,36804,central nervous system nongerminomatous germ cell tumor
+5036,35737,breast adenocarcinoma
+5037,37475,functional pancreatic neuroendocrine tumor
+5038,37491,non-functional pancreatic neuroendocrine tumor
+5039,99907,childhood adrenal gland pheochromocytoma
+5040,99579,metastatic carcinoma in the adrenal medulla
+5041,32197,thymic neuroendocrine tumor
+5042,27660,VIPoma
+5043,39414,aortic valve stenosis
+5044,33558,hypospadias (disease)
+5045,29081,"portal vein, cavernous transformation of"
+5046,38281,premature aging syndrome
+5047,35605,in situ carcinoma
+5048,36270,vulvar disease
+5049,96932,status asthmaticus
+5050,27348,optic atrophy
+5051,33564,sensorineural hearing loss disorder
+5052,35431,blood platelet disease
+5053,37986,prostate neuroendocrine neoplasm
+5054,33697,glandular cell neoplasm
+5055,33700,bronchial neoplasm (disease)
+5056,36854,respiratory tract neoplasm
+5057,35785,neoplasm of thorax
+5058,35835,breast disease
+5059,37633,vestibular disease
+5060,97225,vestibular neuronitis
+5061,95250,cartilage cancer
+5062,36195,female reproductive organ cancer
+5063,39748,secondary malignant neoplasm
+5064,39838,lip and oral cavity carcinoma
+5065,35978,male reproductive organ cancer
+5066,36506,malignant endocrine neoplasm
+5067,97810,peripheral arterial occlusive disease 1
+5068,94668,leptomeningeal sarcoma
+5069,32987,immunoglobulin a vasculitis
+5070,36102,appendix cancer
+5071,39702,temporomandibular joint disorder
+5072,95056,acral lentiginous melanoma (disease)
+5073,37566,tongue neoplasm
+5074,98577,squamous cell carcinoma of the oral tongue
+5075,96606,stage IVb bladder cancer
+5076,96512,mediastinal gray zone lymphoma
+5077,99367,doxorubicin induced cardiomyopathy
+5078,37852,AIDS-related disorder
+5079,36242,fatty liver disease
+5080,36221,brachial plexus neuropathy
+5081,36683,DNA repair disease
+5082,29893,immune deficiency disease
+5083,35746,congenital hematological disorder
+5084,33355,solitary fibrous tumor
+5085,35919,thymus cancer
+5086,37247,hereditary renal cell carcinoma
+5087,27964,embryonal rhabdomyosarcoma
+5088,95554,malignant tumor of undescended testis
+5089,35649,neoplasm of mature T-cells or NK-cells
+5090,96956,plantar fasciitis
+5091,36045,chronic rhinosinusitis
+5092,30835,"neuroblastoma, susceptibility"
+5093,94980,coronary microvascular disease
+5094,98344,acquired adult-onset immunodeficiency
+5095,28831,carpal tunnel syndrome
+5096,31533,familial Dupuytren contracture
+5097,97482,de Quervain disease
+5098,95007,meningoencephalitis
+5099,35553,respiratory system disease
+5100,35610,bronchogenic carcinoma
+5101,36739,nongerminomatous germ cell tumor
+5102,36738,germinomatous germ cell tumor
+5103,37108,dysgerminoma (disease)
+5104,37075,malignant pineal area germ cell neoplasm
+5105,35704,salivary gland cancer
+5106,38355,intestinal motility disease
+5107,37327,chromophobe renal cell carcinoma
+5108,35910,arterial occlusion
+5109,97829,aspirin resistance
+5110,95884,papillary serous cystadenocarcinoma
+5111,97265,cervical intraepithelial neoplasia grade 2/3
+5112,37578,squamous carcinoma in situ
+5113,37701,erythrocyte disease
+5114,39140,pure red-cell aplasia
+5115,99253,Kaposi sarcoma
+5116,94770,papillary craniopharyngioma
+5117,97059,treatment-refractory schizophrenia
+5118,97158,herpangina
+5119,97153,"hand, foot and mouth disease"
+5120,28306,"macroglobulinemia, Waldenstrom"
+5121,39426,non-familial dilated cardiomyopathy
+5122,97039,vulvar intraepithelial neoplasia
+5123,35799,neuromuscular disease
+5124,99924,metastatic squamous cell carcinoma
+5125,32076,Down syndrome
+5126,32231,urticaria
+5127,95295,drug allergy
+5128,36949,aphasia
+5129,97027,lepromatous leprosy
+5130,35858,colonic disease
+5131,96745,testis refractory cancer
+5132,95113,myelodysplastic syndrome with excess blasts-2
+5133,35504,glucose transport disorder
+5134,98934,luminal B breast carcinoma
+5135,35866,precursor lymphoblastic lymphoma/leukemia
+5136,99528,parasitemia
+5137,32553,myxoid/round cell liposarcoma
+5138,97202,post-thrombotic syndrome
+5139,94667,anaplastic meningioma
+5140,36782,choroid plexus carcinoma
+5141,36031,ganglioneuroblastoma
+5142,33053,papillary tumor of the pineal region
+5143,97365,pineal parenchymal tumor of intermediate differentiation
+5144,96035,cerebral neuroblastoma
+5145,98173,classic medulloblastoma
+5146,96690,"adult embryonal tumor with multilayered rosettes, c19mc-altered"
+5147,38294,low grade ependymoma
+5148,99682,RELA fusion-positive ependymoma
+5149,35862,pediatric lymphoma
+5150,94644,ovarian endometriosis
+5151,97565,subdural empyema
+5152,83942,intracerebral hemorrhage
+5153,37232,leptomeningeal melanoma
+5154,37937,primary peritoneal tumor
+5155,98899,anemia due to chronic disorder
+5156,99934,hip region disease
+5157,36698,invasive carcinoma
+5158,100002,coinfection
+5159,37253,carcinosarcoma
+5160,35460,telomere syndrome
+5161,36137,mitral valve disease
+5162,32178,Hirschsprung disease
+5163,98970,immunoproliferative disorder
+5164,35769,lymphatic system disease
+5165,35763,primary cutaneous lymphoma
+5166,94997,lymphomatoid papulosis
+5167,37173,pediatric osteosarcoma
+5168,97371,poorly differentiated thyroid gland carcinoma
+5169,97413,unclassified renal cell carcinoma
+5170,94884,hereditary clear cell renal cell carcinoma
+5171,94638,collecting duct carcinoma
+5172,30846,chordoma (disease)
+5173,36382,skin neoplasm
+5174,37483,childhood kidney neoplasm
+5175,33377,pulmonary non-tuberculous mycobacterial infection
+5176,37791,hypersensitivity disease
+5177,36366,gastrointestinal allergy
+5178,97193,peanut allergic reaction
+5179,37373,aleukemic leukemia cutis
+5180,37303,infiltrating bladder urothelial carcinoma
+5181,95285,adenoid hypertrophy
+5182,99719,inactive tuberculosis
+5183,30899,nevoid basal cell carcinoma syndrome
+5184,38883,acute leukemia of ambiguous lineage
+5185,35748,otorhinolaryngologic disease
+5186,37511,infective arthritis
+5187,32985,pyomyositis
+5188,39547,aortic valve insufficiency
+5189,97579,rotator cuff syndrome
+5190,97105,acute chest syndrome
+5191,37178,endometrioid adenocarcinoma
+5192,35439,inherited disease susceptibility
+5193,27326,long QT syndrome
+5194,99403,exertional headache
+5195,97054,myalgic encephalomeyelitis/chronic fatigue syndrome
+5196,94723,T-cell prolymphocytic leukemia
+5197,36511,peritoneal mesothelioma (disease)
+5198,97055,childhood onset asthma
+5199,35453,congenital heart disease
+5200,35753,complex neurodevelopmental disorder
+5201,37848,Klebsiella infectious disease
+5202,33491,idiopathic steroid-sensitive nephrotic syndrome
+5203,37297,ovarian serous adenocarcinoma
+5204,94686,nasopharyngeal squamous cell carcinoma
+5205,36823,bladder adenocarcinoma
+5206,96788,bladder mixed adenocarcinoma
+5207,36829,bladder squamous cell carcinoma
+5208,96669,infiltrating bladder urothelial carcinoma sarcomatoid variant
+5209,96438,"infiltrating bladder urothelial carcinoma, clear cell variant"
+5210,96532,micropapillary variant infiltrating bladder urothelial carcinoma
+5211,96759,nested variant infiltrating bladder urothelial carcinoma
+5212,96758,plasmacytoid variant infiltrating bladder urothelial carcinoma
+5213,97299,fallopian tube carcinosarcoma
+5214,96223,fallopian tube clear cell adenocarcinoma
+5215,96334,fallopian tube endometrioid adenocarcinoma
+5216,97300,fallopian tube serous adenocarcinoma
+5217,39465,primary peritoneal serous adenocarcinoma
+5218,39818,sciatica
+5219,36263,sciatic neuropathy
+5220,32970,anal canal squamous cell carcinoma
+5221,39413,gangliosidosis
+5222,37348,endometrial endometrioid adenocarcinoma
+5223,97071,type 2 diabetes nephropathy
+5224,97069,metastatic malignant neoplasm in the lymph nodes
+5225,37065,neuroendocrine disease
+5226,35525,bubonic plague
+5227,36447,parkinsonian syndrome due to neurodegenerative disease
+5228,84119,intracranial arteriosclerosis
+5229,97421,vaginal carcinosarcoma
+5230,96048,anal margin basal cell carcinoma
+5231,96529,rectal cloacogenic carcinoma
+5232,36911,anal margin squamous cell carcinoma
+5233,37672,human herpesvirus 8 infection
+5234,36231,bone marrow cancer
+5235,39462,penile carcinoma
+5236,37133,T-cell and NK-cell neoplasm
+5237,32243,eosinophilic esophagitis
+5238,37711,malignant ovarian serous tumor
+5239,96793,cellular phase chronic idiopathic myelofibrosis
+5240,99850,prosthesis-related infectious disease
+5241,37828,Coronaviridae infectious disease
+5242,100015,long COVID-19
+5243,29924,ovarian hyperstimulation syndrome
+5244,33390,severe acute respiratory syndrome
+5245,39733,viral pneumonia
+5246,97895,"pulmonary hypertension, neonatal, susceptibility to"
+5247,36940,nutritional disorder
+5248,38821,MIT family translocation renal cell carcinoma
+5249,95979,rhabdoid tumor of the kidney
+5250,35802,perceptual disorders
+5251,36828,vulvar squamous cell carcinoma
+5252,37509,follicular thyroid adenoma
+5253,36715,nerve sheath neoplasm
+5254,37827,Nidovirales infectious disease
+5255,36499,vascular occlusion disorder
+5256,83953,osteonecrosis of the jaw
+5257,37900,urogenital neoplasm
+5258,36661,sleep-wake disorder
+5259,35765,blood coagulation disease
+5260,97324,kidney medullary carcinoma
+5261,97072,hepatitis C induced liver cirrhosis
+5262,35639,pregnancy disorder
+5263,99810,post-traumatic epilepsy
+5264,29935,thrombotic thrombocytopenic purpura
+5265,36967,congenital anomaly of cardiovascular system
+5266,35620,renal pelvis papillary urothelial carcinoma
+5267,32535,recurrent respiratory papillomatosis
+5268,38039,extrinsic cardiomyopathy
+5269,27751,Tako-tsubo cardiomyopathy
+5270,95488,presbyopia
+5271,36260,retinal disease
+5272,28668,retinal degeneration
+5273,95414,iliac vein thrombophlebitis
+5274,84039,chronic atrophic gastritis
+5275,29265,chronic recurrent multifocal osteomyelitis (disease)
+5276,97162,hookworm infectious disease
+5277,94965,"obsolete hypertension, diastolic, resistance to"
+5278,84138,high output heart failure
+5279,99831,sudden sensorineural hearing loss
+5280,94962,noise induced hearing loss
+5281,95843,drug-induced hepatitis
+5282,98535,pediatric arterial ischemic stroke
+5283,96716,retina lymphoma
+5284,95275,body dysmorphic disorder
+5285,35808,somatoform disorder
+5286,37904,virus associated tumor
+5287,37374,squamous cell carcinoma of rectum
+5288,31417,X-linked Alport syndrome
+5289,84016,achlorhydria
+5290,38668,glycogen storage disease due to glycogen synthase deficiency
+5291,30230,choroid plexus papilloma
+5292,97805,"polysubstance abuse, susceptibility to"
+5293,37225,benign neoplasm of nasal cavity
+5294,38096,aortic stenosis
+5295,37258,endometrioid tumor
+5296,31667,symphalangism of toes
+5297,38882,isolated constitutional thrombocytopenia
+5298,95120,macrophage activation syndrome
+5299,95001,sinonasal undifferentiated carcinoma
+5300,97076,postprandial hypotension
+5301,36098,appendiceal neoplasm
+5302,95212,progressive relapsing multiple sclerosis
+5303,28278,anisocoria (disease)
+5304,32542,hilar cholangiocarcinoma
+5305,99993,cannabinoid hyperemesis syndrome
+5306,37316,ovarian clear cell cancer
+5307,30783,progesterone resistance
+5308,27967,fragile X syndrome
+5309,35606,carcinoma of pharynx
+5310,37241,leiomyosarcoma of the corpus uteri
+5311,37618,urolithiasis
+5312,83949,dyskinesia of esophagus
+5313,27563,Meier-Gorlin syndrome
+5314,39626,basal cell neoplasm
+5315,36764,bile duct adenocarcinoma
+5316,37514,hypopharyngeal carcinoma
+5317,36797,mucinous adenocarcinoma
+5318,36762,signet ring cell carcinoma
+5319,99927,salivary duct carcinoma
+5320,28841,developmental dysplasia of the hip
+5321,37872,nail disease
+5322,39636,nail anomaly
+5323,39638,parasympathetic nervous system disease
+5324,37448,exocrine pancreatic carcinoma
+5325,37688,autoimmune cardiomyopathy
+5326,97464,Acinetobacter infectious disease
+5327,100008,COVID-19–associated multisystem inflammatory syndrome in children
+5328,30256,antiphospholipid syndrome
+5329,95681,female infertility of uterine origin
+5330,36971,neoplasm of mediastinum
+5331,97478,cerebral atherosclerosis
+5332,95427,bullous keratopathy
+5333,38284,Fuchs' endothelial dystrophy
+5334,35467,chromosomal anomaly
+5335,95609,central nervous system leukemia
+5336,33425,neurofibromatosis type 1 due to NF1 mutation or intragenic deletion
+5337,99887,familial monosomy 7 syndrome
+5338,35900,laryngeal neoplasm
+5339,33533,Erdheim-Chester disease
+5340,97046,advanced heart failure
+5341,38762,pediatric acute respiratory distress syndrome
+5342,32615,biliary atresia
+5343,37582,tumor of salivary gland
+5344,39298,grade III glioma
+5345,28543,CBL-related disorder
+5346,96852,adult type testicular granulosa cell tumor
+5347,37735,sexually transmitted disease
+5348,36294,vulvar carcinoma
+5349,95043,avoidant personality disorder
+5350,32316,complex regional pain syndrome
+5351,33702,colitis (disease)
+5352,39161,malignant tumor of nasopharynx
+5353,39709,burning mouth syndrome
+5354,32464,reactive arthritis
+5355,37395,pulmonary large cell neuroendocrine carcinoma
+5356,35508,inherited lipid metabolism disorder
+5357,29446,NAFLD1
+5358,96635,monoclonal gammopathy of uncertain significance
+5359,36861,retroperitoneum carcinoma
+5360,33551,pseudomyxoma peritonei
+5361,97417,ureter small cell carcinoma
+5362,96360,bladder urachal squamous cell carcinoma
+5363,33063,adult acute respiratory distress syndrome
+5364,36859,tumor of adipose tissue
+5365,97171,lymph node tuberculosis
+5366,38478,essential tremor
+5367,30089,"granulomatous disease, chronic, X-linked"
+5368,27425,"urolithiasis, uric acid, autosomal dominant"
+5369,36375,nasolacrimal duct disease
+5370,96881,acute intestinal ischemia
+5371,39779,childhood kidney Wilms tumor
+5372,37894,coronary vasospasm
+5373,99843,tubal pregnancy
+5374,98614,cirrhotic cardiomyopathy
+5375,35602,intestinal helminthiasis
+5376,94807,Dedifferentiated liposarcoma
+5377,97423,vaginal squamous cell carcinoma
+5378,98935,luminal A breast carcinoma
+5379,39508,protein S deficiency
+5380,35812,infectious colitis
+5381,36076,prostate disease
+5382,99100,chronic prostatitis
+5383,30627,"keratosis, familial actinic"
+5384,33640,digestive system carcinoma
+5385,32398,diffuse cutaneous systemic sclerosis
+5386,96598,premenstrual tension
+5387,27962,Aicardi-Goutieres syndrome
+5388,36145,acute otitis media
+5389,36244,ear infection
+5390,37641,eye infectious disease
+5391,36304,viral conjunctivitis
+5392,35981,amblyopia (disease)
+5393,29997,Angelman syndrome
+5394,100000,Middle East respiratory syndrome
+5395,94685,adenoma of pancreas
+5396,38057,gram-positive bacterial infections
+5397,35652,movement disorder
+5398,38205,neural tube defect
+5399,33650,hypohidrosis
+5400,27530,Charcot-Marie-Tooth disease
+5401,35854,bone disease
+5402,35828,upper respiratory tract disease
+5403,35759,disease of genitourinary system
+5404,31982,ornithine carbamoyltransferase deficiency
+5405,83910,drug psychosis
+5406,94844,coronary restenosis
+5407,39827,ectopic pregnancy
+5408,94798,senile degeneration of brain
+5409,36283,viral respiratory tract infection
+5410,97094,chemotherapy-induced oral mucositis
+5411,84172,glucose intolerance
+5412,37895,disorder of acid-base balance
+5413,33636,hyperpigmentation of the skin
+5414,35693,neurodegenerative disease
+5415,35754,psychiatric disorder
+5416,98972,intertrigo
+5417,37912,polyp of colon
+5418,37236,Herpesviridae infectious disease
+5419,32254,nonsyndromic genetic deafness
+5420,35691,frontotemporal dementia
+5421,35834,bone inflammation disease
+5422,94789,hyperhomocysteinemia
+5423,35563,viral hepatitis
+5424,35430,hemorrhagic disease
+5425,35929,renal hypertension
+5426,36778,prion disease
+5427,94797,spondylosis
+5428,36210,corneal neovascularization
+5429,32688,behavioral variant of frontotemporal dementia
+5430,37636,hair anomaly
+5431,36361,optic nerve disease
+5432,37829,enterovirus infectious disease
+5433,84208,alcoholic psychosis
+5434,37072,gingival overgrowth
+5435,39806,heavy metal poisoning
+5436,30152,chylous ascites
+5437,36522,allergic contact dermatitis
+5438,98664,lymphomatoid granulomatosis
+5439,37044,urinary tract obstruction
+5440,95640,intestinal tuberculosis
+5441,35567,infectious encephalitis
+5442,39521,West Nile fever
+5443,33321,Zika virus infectious disease
+5444,32349,dengue disease
+5445,32350,yellow fever
+5446,30171,Behcet disease
+5447,38869,"epilepsy, idiopathic generalized"
+5448,36211,optic neuritis
+5449,84223,asphyxia neonatorum
+5450,36437,tracheal disease
+5451,33610,hypolipoproteinemia (disease)
+5452,37583,leukoplakia
+5453,37903,hyperplasia
+5454,98202,Fuchs heterochromic iridocyclitis
+5455,39420,opportunistic bacterial infectious disease
+5456,36679,disease of ear
+5457,38752,hypocalcemic rickets
+5458,39227,encephalopathy
+5459,31783,Alexander disease
+5460,39885,cerebellar ataxia
+5461,95019,ectopic ACTH secretion syndrome
+5462,36217,urinary bladder disease
+5463,35787,cartilage disease
+5464,33025,connective tissue disease
+5465,39024,hearing loss disorder
+5466,27407,"myoclonus, familial"
+5467,31710,progressive supranuclear palsy
+5468,99748,rheumatic disease of mitral valve
+5469,37707,synucleinopathy
+5470,31688,Hutchinson-Gilford progeria syndrome
+5471,29066,lethal restrictive dermopathy
+5472,38383,idiopathic inflammatory myopathy
+5473,39719,parainfluenza infectious disease
+5474,36311,nail infection
+5475,37372,acute stress disorder
+5476,83957,endometrial hyperplasia
+5477,36357,mastitis
+5478,83806,anuria
+5479,35557,encephalitis
+5480,37952,prostate intraepithelial neoplasia
+5481,35994,intestinal disease
+5482,36443,scleritis
+5483,38676,lactic acidosis
+5484,29857,Leigh syndrome
+5485,29112,Pearson syndrome
+5486,84165,renal fibrosis
+5487,37429,ulcer disease
+5488,36275,cranial nerve neuropathy
+5489,36388,malignant hypertensive renal disease
+5490,38239,interstitial nephritis
+5491,27674,Emery-Dreifuss muscular dystrophy
+5492,94752,alcoholic liver cirrhosis
+5493,97157,hepatitis A virus infection
+5494,97155,hepatitis E virus infection
+5495,35757,learning disability
+5496,30072,friedreich ataxia
+5497,33667,cerebral palsy
+5498,28856,Rett syndrome
+5499,36250,impulse control disorder
+5500,35568,protozoa infectious disease
+5501,84198,phototoxic dermatitis
+5502,39440,malignant soft tissue neoplasm
+5503,36849,ileus
+5504,33075,meconium aspiration syndrome
+5505,37794,varicella zoster infection
+5506,39511,telangiectasis
+5507,95717,extrapyramidal and movement disease
+5508,97195,periodic limb movement disorder
+5509,35901,leiomyoma
+5510,96815,mediastinitis
+5511,97161,HIV-associated nephropathy
+5512,31612,"macrocephaly, benign familial"
+5513,36058,strabismus
+5514,32299,toxic epidermal necrolysis
+5515,37761,substance withdrawal syndrome
+5516,38007,cholesteatoma (disease)
+5517,27956,otosclerosis
+5518,99844,presbycusis
+5519,36471,vascular malformation
+5520,30564,Pelizaeus-Merzbacher disease
+5521,33612,rhabdomyolysis (disease)
+5522,29358,progressive osseous heteroplasia
+5523,35816,duodenitis
+5524,38959,Asperger syndrome
+5525,32858,Ebola hemorrhagic fever
+5526,97548,potassium deficiency
+5527,32993,adult-onset Still disease
+5528,84017,endomyocardial fibrosis
+5529,31901,anosmia (disease)
+5530,38460,stutter disorder
+5531,36754,Paget disease
+5532,39178,circadian rhythm sleep disorder
+5533,33152,fetal alcohol syndrome
+5534,38816,albinism
+5535,83915,multiple organ dysfunction syndrome
+5536,35442,motor neuron disease
+5537,27553,sialuria
+5538,31183,Gerstmann-Straussler-Scheinker syndrome
+5539,36316,hordeolum
+5540,27743,dystonia
+5541,27675,wrinkly skin syndrome
+5542,35580,parasitic infection
+5543,38416,leukodystrophy
+5544,29566,"esophagitis, eosinophilic"
+5545,33325,eosinophilic gastroenteritis
+5546,33581,conjunctivitis (disease)
+5547,32509,limbal stem cell deficiency
+5548,31436,hyperhidrosis palmaris ET plantaris
+5549,35536,Dengue hemorrhagic fever
+5550,33584,ptosis (disease)
+5551,35621,benign neoplasm
+5552,94625,renovascular hypertension (disease)
+5553,37745,viral hemorrhagic fever
+5554,37013,adenomyoma
+5555,28224,keratoconus
+5556,27265,congenital myasthenic syndrome
+5557,97573,ureterolithiasis
+5558,36353,pervasive developmental disorder
+5559,37425,osteochondrosis
+5560,36722,encephalomyelitis
+5561,39542,Borrelia infectious disease
+5562,38020,neonatal jaundice
+5563,39020,hemolytic-uremic syndrome
+5564,94653,diabetic peripheral angiopathy
+5565,28773,Kearns-Sayre syndrome
+5566,30419,MELAS syndrome
+5567,31642,maternally-inherited diabetes and deafness
+5568,27691,mitochondrial DNA depletion syndrome
+5569,39775,"mitochondrial complex I deficiency, mitochondrial type"
+5570,32984,pyruvate dehydrogenase deficiency
+5571,33381,corticobasal syndrome
+5572,32450,dopa-responsive dystonia
+5573,32394,choreatic disease
+5574,36009,tic disorder

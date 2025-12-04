@@ -1,0 +1,5 @@
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+data_split/kg_directed.csv filter=lfs diff=lfs merge=lfs -text
+data_split/kg_directed_noDD.csv filter=lfs diff=lfs merge=lfs -text

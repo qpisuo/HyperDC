@@ -1,0 +1,5 @@
+Namespace(D_lr=5e-07, G_lr=1e-08, alpha_e=0, alpha_v=0, bs=32, checkpoint='AHP/checkpoints/hypertension', clip=0.01, dataset_name='hypergraph_pretrain_noDD', dim_edge=400, dim_hidden=400, dim_vertex=400, epochs=50, exp_num=1, fix_seed=True, folder_name='hypertension', gen='MLP', gpu=3, memory_size=128, memory_type='sample', model='hnhn', n_layers=1, testns='SMCA', train_DG='epoch1:1', training='wgan')
+SNS : Test AP : 0.991801381111145 / AUROC : 0.9896760412958348
+MNS : Test AP : 0.8648566007614136 / AUROC : 0.854752580989676 
+CNS : Test AP : 0.5827956199645996 / AUROC : 0.6415094339622642 
+ALL : Test AP : 0.8066532611846924 / AUROC : 0.8346281908990011 
