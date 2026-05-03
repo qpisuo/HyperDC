@@ -1,6 +1,7 @@
-# HyperDC: A Unified Hypergraph-Based Framework for Drug Combination Recommendation Across Diverse **Complex Diseases**
+# HyperDC: A Non-uniform Hypergraph Framework for Dual- and Higher-order Drug Combination Recommendation across Diverse Complex Diseases
 
-![1764833493102](image/README/1764833493102.jpg)
+<img width="11338" height="6802" alt="graphical abstract" src="https://github.com/user-attachments/assets/a988deb7-7403-4002-bdbe-924ed650c2bb" />
+
 
 ## Overview:
 
